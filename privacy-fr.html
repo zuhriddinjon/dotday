@@ -1,0 +1,122 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Politique de confidentialité — Dotday</title>
+<meta name="description" content="Comment Dotday traite vos données : vos habitudes restent sur votre appareil.">
+<link rel="icon" href="assets/icon.svg">
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+<div class="wrap narrow">
+  <header class="nav">
+    <a class="brand" href="./"><img src="assets/icon.svg" alt="">Dotday</a>
+    <nav class="nav-links"><a href="terms-fr.html">Conditions</a></nav>
+  </header>
+
+  <main class="doc">
+    <nav class="langs" aria-label="Language"><a href="privacy.html" lang="en">English</a><a href="privacy-es.html" lang="es">Español</a><a href="privacy-pt-BR.html" lang="pt-BR">Português</a><a href="privacy-de.html" lang="de">Deutsch</a><a href="privacy-fr.html" lang="fr" aria-current="page">Français</a><a href="privacy-ru.html" lang="ru">Русский</a><a href="privacy-tr.html" lang="tr">Türkçe</a><a href="privacy-id.html" lang="id">Indonesia</a><a href="privacy-hi.html" lang="hi">हिन्दी</a><a href="privacy-ja.html" lang="ja">日本語</a><a href="privacy-ko.html" lang="ko">한국어</a><a href="privacy-ar.html" lang="ar">العربية</a><a href="privacy-uz.html" lang="uz">O‘zbekcha</a></nav>
+    <h1>Politique de confidentialité</h1>
+    <p class="updated">Date d'entrée en vigueur : 25 septembre 2026</p>
+    <p class="small">Cette traduction est fournie à titre indicatif. En cas de divergence, la <a href="privacy.html">version anglaise</a> prévaut.</p>
+
+    <div class="callout">
+      <strong>En bref :</strong> vos habitudes, validations, notes et humeurs sont stockées uniquement sur votre appareil.
+      Nous n'avons ni serveurs ni comptes. Nous collectons des statistiques d'utilisation anonymes et des rapports de plantage pour améliorer l'appli,
+      et vous pouvez désactiver cette collecte dans <em>Réglages → Partager des données d'usage anonymes</em>. Nous ne vendons jamais de données et n'affichons aucune publicité.
+    </div>
+
+    <p>Cette politique explique comment l'appli Dotday pour Android (« Dotday », « l'appli », « nous ») traite les informations.
+    Elle s'applique à l'appli publiée sur Google Play sous le nom de package <code>uz.habitly.tracker</code>.</p>
+
+    <h2>1. Les données qui restent sur votre appareil</h2>
+    <p>Tout ce que vous saisissez — noms d'habitudes, programmes, rappels, validations, notes, humeurs et réglages — est stocké
+    dans l'espace de stockage privé de l'appli sur votre appareil. Rien n'est envoyé ni à nous ni à qui que ce soit.</p>
+    <ul>
+      <li><strong>Les sauvegardes que vous exportez.</strong> Lorsque vous exportez un fichier JSON ou CSV, vous choisissez où il est enregistré à l'aide du
+      sélecteur de fichiers d'Android. La destination de ce fichier relève de votre choix.</li>
+      <li><strong>Sauvegarde système d'Android.</strong> Si la sauvegarde Android est activée sur votre appareil, Android peut inclure les
+      données de l'appli dans la sauvegarde de votre compte Google afin de pouvoir les restaurer sur un nouveau téléphone. Cela dépend des réglages de votre appareil
+      et de votre compte Google, et ces données sont chiffrées de bout en bout par Android lorsque cette fonction est prise en charge.</li>
+      <li><strong>Les rappels et les notifications</strong> sont programmés localement sur votre appareil.</li>
+    </ul>
+
+    <h2>2. Health Connect</h2>
+    <p>Si vous choisissez d'associer une habitude à Health Connect (une fonctionnalité Pro), Dotday vous demande l'autorisation de <strong>lire</strong>
+    uniquement les types de données que vous activez : <em>pas</em>, <em>sommeil</em> et/ou <em>séances d'exercice</em>. Dotday n'écrit jamais
+    de données dans Health Connect.</p>
+    <ul>
+      <li>Les données de santé sont lues sur votre appareil, uniquement pour marquer l'habitude associée comme réalisée (par exemple, « 10 000 pas »).</li>
+      <li>Les données de santé ne sont jamais envoyées ni à nous, ni à Firebase, ni à aucun tiers, et ne sont jamais utilisées à des fins publicitaires.</li>
+      <li>Vous pouvez révoquer l'accès à tout moment dans les réglages de Health Connect.</li>
+    </ul>
+    <p>L'utilisation par Dotday des informations reçues de Health Connect respecte le
+    <a href="https://support.google.com/googleplay/android-developer/answer/12991134">règlement sur les autorisations Health Connect</a>,
+    y compris les exigences d'utilisation limitée (Limited Use).</p>
+
+    <h2>3. Statistiques d'utilisation anonymes et rapports de plantage</h2>
+    <p>Pour comprendre quelles fonctionnalités sont utiles et corriger les plantages, l'appli utilise les services Google Firebase suivants.
+    Vous pouvez les désactiver à tout moment dans <em>Réglages → Partager des données d'usage anonymes</em>.</p>
+    <table>
+      <tr><th>Service</th><th>Données collectées</th><th>Finalité</th></tr>
+      <tr><td>Firebase Analytics</td>
+          <td>Interactions dans l'appli telles que « étape d'accueil terminée », « habitude créée » ou « écran d'abonnement affiché » (jamais les noms d'habitudes
+          ni les notes), version de l'appli, modèle de l'appareil, version du système d'exploitation, langue, pays approximatif et un identifiant aléatoire d'instance de l'appli.</td>
+          <td>Améliorer l'appli ; mesurer quelles fonctionnalités aident les gens à tenir leurs habitudes</td></tr>
+      <tr><td>Firebase Crashlytics</td>
+          <td>Rapports de plantage et d'erreur : traces d'appels (stack traces), modèle de l'appareil, version du système d'exploitation, état de l'appli au moment du plantage
+          et un identifiant d'installation aléatoire.</td>
+          <td>Trouver et corriger les bugs</td></tr>
+      <tr><td>Firebase Remote Config</td>
+          <td>Un identifiant d'installation aléatoire utilisé pour télécharger la configuration de l'appli.</td>
+          <td>Ajuster les réglages de l'appli (par exemple, quelle formule d'abonnement est présélectionnée) sans mise à jour de l'appli</td></tr>
+    </table>
+    <p>Nous ne collectons pas l'identifiant publicitaire Android, et les fonctionnalités publicitaires de Google Analytics sont désactivées.
+    Ces données ne sont liées ni à votre nom, ni à votre adresse e-mail, ni à aucun compte. Les données d'analyse sont conservées jusqu'à 14 mois et
+    les rapports de plantage jusqu'à 90 jours. Consultez les <a href="https://firebase.google.com/support/privacy">informations de Firebase sur la confidentialité</a>.</p>
+
+    <h2>4. Achats</h2>
+    <p>Les abonnements et achats uniques Dotday Pro sont traités par Google Play. Nous ne voyons jamais vos informations de paiement.
+    L'appli reçoit uniquement de Google Play le statut de l'achat afin de débloquer les fonctionnalités Pro, et enregistre ce statut sur votre
+    appareil. Le traitement de vos données de paiement par Google est décrit dans les
+    <a href="https://policies.google.com/privacy">Règles de confidentialité de Google</a>.</p>
+
+    <h2>5. Ce que nous ne faisons pas</h2>
+    <ul>
+      <li>Aucune publicité et aucun SDK publicitaire.</li>
+      <li>Aucune vente ni aucun partage de données personnelles.</li>
+      <li>Aucun compte, aucune collecte d'adresses e-mail, aucun suivi de localisation, aucun accès aux contacts.</li>
+    </ul>
+
+    <h2>6. Enfants</h2>
+    <p>Dotday ne s'adresse pas aux enfants de moins de 13 ans, et nous ne collectons pas sciemment d'informations personnelles les concernant.</p>
+
+    <h2>7. Vos choix et vos droits</h2>
+    <ul>
+      <li><strong>Désactivez les statistiques et les rapports de plantage</strong> dans les Réglages.</li>
+      <li><strong>Supprimez vos données</strong> en supprimant des habitudes dans l'appli, en effaçant le stockage de l'appli ou en désinstallant l'appli.
+      Comme nous n'avons ni comptes ni serveurs, nous ne détenons aucune copie de vos données d'habitudes.</li>
+      <li>Selon votre lieu de résidence (par exemple l'UE/EEE, le Royaume-Uni ou la Californie), vous pouvez disposer d'un droit d'accès,
+      de rectification ou d'effacement de vos données personnelles, ainsi que d'un droit d'opposition au traitement. Les données d'analyse anonymes ne peuvent généralement pas
+      être rattachées à vous ; si vous avez une demande, contactez-nous et nous vous aiderons.</li>
+    </ul>
+
+    <h2>8. Sécurité</h2>
+    <p>Vos données sont protégées par le bac à sable (sandbox) des applis Android. Les données envoyées à Firebase sont chiffrées pendant leur transfert (HTTPS).</p>
+
+    <h2>9. Modifications de cette politique</h2>
+    <p>Si nous modifions cette politique, nous mettrons à jour la date d'entrée en vigueur ci-dessus et, en cas de changement important, nous vous en informerons dans l'appli.</p>
+
+    <h2>10. Contact</h2>
+    <p>Questions ou demandes : <a href="mailto:support@dotday.app">support@dotday.app</a></p>
+  </main>
+</div>
+<footer>
+  <div class="wrap narrow">
+    <span>© 2026 Dotday</span>
+    <span><a href="./">Accueil</a> · <a href="terms-fr.html">Conditions</a></span>
+  </div>
+</footer>
+</body>
+</html>

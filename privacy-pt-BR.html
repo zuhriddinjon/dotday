@@ -1,0 +1,122 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Política de Privacidade — Dotday</title>
+<meta name="description" content="Como o Dotday trata seus dados: seus hábitos ficam no seu dispositivo.">
+<link rel="icon" href="assets/icon.svg">
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+<div class="wrap narrow">
+  <header class="nav">
+    <a class="brand" href="./"><img src="assets/icon.svg" alt="">Dotday</a>
+    <nav class="nav-links"><a href="terms-pt-BR.html">Termos</a></nav>
+  </header>
+
+  <main class="doc">
+    <nav class="langs" aria-label="Language"><a href="privacy.html" lang="en">English</a><a href="privacy-es.html" lang="es">Español</a><a href="privacy-pt-BR.html" lang="pt-BR" aria-current="page">Português</a><a href="privacy-de.html" lang="de">Deutsch</a><a href="privacy-fr.html" lang="fr">Français</a><a href="privacy-ru.html" lang="ru">Русский</a><a href="privacy-tr.html" lang="tr">Türkçe</a><a href="privacy-id.html" lang="id">Indonesia</a><a href="privacy-hi.html" lang="hi">हिन्दी</a><a href="privacy-ja.html" lang="ja">日本語</a><a href="privacy-ko.html" lang="ko">한국어</a><a href="privacy-ar.html" lang="ar">العربية</a><a href="privacy-uz.html" lang="uz">O‘zbekcha</a></nav>
+    <h1>Política de Privacidade</h1>
+    <p class="updated">Vigência: 25 de setembro de 2026</p>
+    <p class="small">Esta tradução é fornecida para sua conveniência. Em caso de divergência, prevalece a <a href="privacy.html">versão em inglês</a>.</p>
+
+    <div class="callout">
+      <strong>Em resumo:</strong> seus hábitos, check-ins, anotações e humores ficam armazenados apenas no seu dispositivo.
+      Não temos servidores nem contas. Coletamos estatísticas de uso anônimas e relatórios de falhas para melhorar o app,
+      e você pode desativar isso em <em>Configurações → Compartilhar dados de uso anônimos</em>. Nunca vendemos dados e não exibimos anúncios.
+    </div>
+
+    <p>Esta política explica como o app Dotday para Android ("Dotday", "o app", "nós") trata as informações.
+    Ela se aplica ao app publicado no Google Play com o nome de pacote <code>uz.habitly.tracker</code>.</p>
+
+    <h2>1. Dados que ficam no seu dispositivo</h2>
+    <p>Tudo o que você insere — nomes de hábitos, agendas, lembretes, check-ins, anotações, humores e configurações — fica armazenado
+    no armazenamento privado do app no seu dispositivo. Esses dados não são enviados para nós nem para mais ninguém.</p>
+    <ul>
+      <li><strong>Backups que você exporta.</strong> Ao exportar um arquivo JSON ou CSV, você escolhe onde ele será salvo usando o
+      seletor de arquivos do Android. O destino desse arquivo é decisão sua.</li>
+      <li><strong>Backup do sistema Android.</strong> Se o backup do Android estiver ativado no seu dispositivo, o Android poderá incluir os
+      dados do app no backup da sua Conta do Google para que possam ser restaurados em um novo celular. Isso é controlado pelas configurações
+      do seu dispositivo e da sua Conta do Google, e o Android aplica criptografia de ponta a ponta quando há suporte.</li>
+      <li><strong>Lembretes e notificações</strong> são programados localmente no seu dispositivo.</li>
+    </ul>
+
+    <h2>2. Health Connect</h2>
+    <p>Se você optar por vincular um hábito ao Health Connect (um recurso Pro), o Dotday pedirá permissão para <strong>ler</strong>
+    apenas os tipos de dados que você ativar: <em>passos</em>, <em>sono</em> e/ou <em>sessões de exercício</em>. O Dotday nunca grava
+    dados no Health Connect.</p>
+    <ul>
+      <li>Os dados de saúde são lidos no seu dispositivo, apenas para marcar o hábito vinculado como feito (por exemplo, "10.000 passos").</li>
+      <li>Os dados de saúde nunca são enviados para nós, para o Firebase ou para terceiros, e nunca são usados para publicidade.</li>
+      <li>Você pode revogar o acesso a qualquer momento nas configurações do Health Connect.</li>
+    </ul>
+    <p>O uso pelo Dotday das informações recebidas do Health Connect segue a
+    <a href="https://support.google.com/googleplay/android-developer/answer/12991134">Política de Permissões do Health Connect</a>,
+    incluindo os requisitos de Uso Limitado.</p>
+
+    <h2>3. Estatísticas de uso anônimas e relatórios de falhas</h2>
+    <p>Para entender quais recursos são úteis e corrigir falhas, o app usa os seguintes serviços do Google Firebase.
+    Você pode desativá-los a qualquer momento em <em>Configurações → Compartilhar dados de uso anônimos</em>.</p>
+    <table>
+      <tr><th>Serviço</th><th>O que é coletado</th><th>Por quê</th></tr>
+      <tr><td>Firebase Analytics</td>
+          <td>Interações com o app, como "etapa de boas-vindas concluída", "hábito criado" ou "tela de assinatura exibida" (nunca nomes de hábitos
+          ou anotações), versão do app, modelo do dispositivo, versão do sistema operacional, idioma, país aproximado e um ID aleatório da instância do app.</td>
+          <td>Melhorar o app; medir quais recursos ajudam as pessoas a manter seus hábitos</td></tr>
+      <tr><td>Firebase Crashlytics</td>
+          <td>Relatórios de falhas e erros: rastreamentos de pilha, modelo do dispositivo, versão do sistema operacional, estado do app no momento da falha
+          e um ID aleatório de instalação.</td>
+          <td>Encontrar e corrigir bugs</td></tr>
+      <tr><td>Firebase Remote Config</td>
+          <td>Um ID aleatório de instalação usado para baixar a configuração do app.</td>
+          <td>Ajustar configurações do app (por exemplo, qual plano de assinatura aparece pré-selecionado) sem precisar de uma atualização</td></tr>
+    </table>
+    <p>Não coletamos o ID de publicidade do Android, e os recursos de publicidade do Google Analytics estão desativados.
+    Esses dados não são vinculados ao seu nome, e-mail ou a qualquer conta. Os dados de análise são mantidos por até 14 meses e
+    os relatórios de falhas por até 90 dias. Consulte as <a href="https://firebase.google.com/support/privacy">informações de privacidade do Firebase</a>.</p>
+
+    <h2>4. Compras</h2>
+    <p>As assinaturas e compras únicas do Dotday Pro são processadas pelo Google Play. Nunca vemos seus dados de pagamento.
+    O app recebe do Google Play apenas o status da compra, para liberar os recursos Pro, e armazena esse status no seu
+    dispositivo. A forma como o Google trata seus dados de pagamento está descrita na
+    <a href="https://policies.google.com/privacy">Política de Privacidade do Google</a>.</p>
+
+    <h2>5. O que não fazemos</h2>
+    <ul>
+      <li>Sem anúncios e sem SDKs de publicidade.</li>
+      <li>Não vendemos nem compartilhamos dados pessoais.</li>
+      <li>Sem contas, sem coleta de e-mails, sem rastreamento de localização e sem acesso aos contatos.</li>
+    </ul>
+
+    <h2>6. Crianças</h2>
+    <p>O Dotday não é direcionado a crianças menores de 13 anos, e não coletamos intencionalmente informações pessoais delas.</p>
+
+    <h2>7. Suas escolhas e direitos</h2>
+    <ul>
+      <li><strong>Desative a análise de uso e os relatórios de falhas</strong> nas Configurações.</li>
+      <li><strong>Exclua seus dados</strong> excluindo hábitos no app, limpando o armazenamento do app ou desinstalando o app.
+      Como não temos contas nem servidores, não mantemos nenhuma cópia dos seus dados de hábitos.</li>
+      <li>Dependendo de onde você mora (por exemplo, UE/EEE, Reino Unido ou Califórnia), você pode ter direito de acessar,
+      corrigir ou excluir dados pessoais e de se opor ao tratamento. Em geral, os dados de análise anônimos não podem ser associados
+      a você; se tiver alguma solicitação, entre em contato e vamos ajudar.</li>
+    </ul>
+
+    <h2>8. Segurança</h2>
+    <p>Seus dados são protegidos pelo isolamento de apps (sandbox) do Android. Os dados enviados ao Firebase são criptografados em trânsito (HTTPS).</p>
+
+    <h2>9. Alterações nesta política</h2>
+    <p>Se alterarmos esta política, atualizaremos a data de vigência acima e, no caso de mudanças significativas, avisaremos você no app.</p>
+
+    <h2>10. Contato</h2>
+    <p>Dúvidas ou solicitações: <a href="mailto:support@dotday.app">support@dotday.app</a></p>
+  </main>
+</div>
+<footer>
+  <div class="wrap narrow">
+    <span>© 2026 Dotday</span>
+    <span><a href="./">Início</a> · <a href="terms-pt-BR.html">Termos</a></span>
+  </div>
+</footer>
+</body>
+</html>

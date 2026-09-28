@@ -1,0 +1,122 @@
+<!doctype html>
+<html lang="id">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Kebijakan Privasi — Dotday</title>
+<meta name="description" content="Cara Dotday menangani datamu: kebiasaanmu tetap di perangkatmu.">
+<link rel="icon" href="assets/icon.svg">
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+<div class="wrap narrow">
+  <header class="nav">
+    <a class="brand" href="./"><img src="assets/icon.svg" alt="">Dotday</a>
+    <nav class="nav-links"><a href="terms-id.html">Ketentuan</a></nav>
+  </header>
+
+  <main class="doc">
+    <nav class="langs" aria-label="Language"><a href="privacy.html" lang="en">English</a><a href="privacy-es.html" lang="es">Español</a><a href="privacy-pt-BR.html" lang="pt-BR">Português</a><a href="privacy-de.html" lang="de">Deutsch</a><a href="privacy-fr.html" lang="fr">Français</a><a href="privacy-ru.html" lang="ru">Русский</a><a href="privacy-tr.html" lang="tr">Türkçe</a><a href="privacy-id.html" lang="id" aria-current="page">Indonesia</a><a href="privacy-hi.html" lang="hi">हिन्दी</a><a href="privacy-ja.html" lang="ja">日本語</a><a href="privacy-ko.html" lang="ko">한국어</a><a href="privacy-ar.html" lang="ar">العربية</a><a href="privacy-uz.html" lang="uz">O‘zbekcha</a></nav>
+    <h1>Kebijakan Privasi</h1>
+    <p class="updated">Berlaku sejak: 25 September 2026</p>
+    <p class="small">Terjemahan ini disediakan untuk kemudahan. Jika terdapat perbedaan, <a href="privacy.html">versi bahasa Inggris</a> yang berlaku.</p>
+
+    <div class="callout">
+      <strong>Versi singkatnya:</strong> kebiasaan, check-in, catatan, dan mood-mu hanya disimpan di perangkatmu.
+      Kami tidak memiliki server dan tidak ada akun. Kami mengumpulkan statistik penggunaan anonim dan laporan crash untuk meningkatkan aplikasi,
+      dan kamu bisa mematikannya di <em>Pengaturan → Bagikan data penggunaan anonim</em>. Kami tidak pernah menjual data dan tidak menampilkan iklan.
+    </div>
+
+    <p>Kebijakan ini menjelaskan cara aplikasi Dotday untuk Android ("Dotday", "aplikasi", "kami") menangani informasi.
+    Kebijakan ini berlaku untuk aplikasi yang diterbitkan di Google Play dengan nama paket <code>uz.habitly.tracker</code>.</p>
+
+    <h2>1. Data yang tetap di perangkatmu</h2>
+    <p>Semua yang kamu masukkan — nama kebiasaan, jadwal, pengingat, check-in, catatan, mood, dan pengaturan — disimpan
+    di penyimpanan privat aplikasi di perangkatmu. Data tersebut tidak dikirim kepada kami atau kepada siapa pun.</p>
+    <ul>
+      <li><strong>Cadangan yang kamu ekspor.</strong> Saat kamu mengekspor file JSON atau CSV, kamu memilih lokasi penyimpanannya melalui
+      pemilih file Android. Ke mana file itu pergi sepenuhnya terserah kamu.</li>
+      <li><strong>Pencadangan sistem Android.</strong> Jika pencadangan Android aktif di perangkatmu, Android dapat menyertakan
+      data aplikasi dalam cadangan akun Google-mu agar dapat dipulihkan di ponsel baru. Hal ini diatur oleh pengaturan perangkat
+      dan akun Google-mu, serta dienkripsi end-to-end oleh Android jika didukung.</li>
+      <li><strong>Pengingat dan notifikasi</strong> dijadwalkan secara lokal di perangkatmu.</li>
+    </ul>
+
+    <h2>2. Health Connect</h2>
+    <p>Jika kamu memilih untuk menghubungkan kebiasaan ke Health Connect (fitur Pro), Dotday meminta izin untuk <strong>membaca</strong>
+    hanya jenis data yang kamu aktifkan: <em>langkah</em>, <em>tidur</em>, dan/atau <em>sesi olahraga</em>. Dotday tidak pernah menulis
+    data ke Health Connect.</p>
+    <ul>
+      <li>Data kesehatan dibaca di perangkatmu, hanya untuk menandai kebiasaan yang terhubung sebagai selesai (misalnya, "10.000 langkah").</li>
+      <li>Data kesehatan tidak pernah dikirim kepada kami, ke Firebase, atau ke pihak ketiga mana pun, dan tidak pernah digunakan untuk iklan.</li>
+      <li>Kamu dapat mencabut akses kapan saja di pengaturan Health Connect.</li>
+    </ul>
+    <p>Penggunaan informasi yang diterima Dotday dari Health Connect mematuhi
+    <a href="https://support.google.com/googleplay/android-developer/answer/12991134">kebijakan Izin Health Connect</a>,
+    termasuk persyaratan Penggunaan Terbatas.</p>
+
+    <h2>3. Statistik penggunaan anonim dan laporan crash</h2>
+    <p>Untuk memahami fitur mana yang berguna dan untuk memperbaiki crash, aplikasi menggunakan layanan Google Firebase berikut.
+    Kamu dapat mematikannya kapan saja di <em>Pengaturan → Bagikan data penggunaan anonim</em>.</p>
+    <table>
+      <tr><th>Layanan</th><th>Data yang dikumpulkan</th><th>Tujuan</th></tr>
+      <tr><td>Firebase Analytics</td>
+          <td>Interaksi aplikasi seperti "langkah orientasi selesai", "kebiasaan dibuat", atau "halaman langganan dilihat" (tidak pernah nama kebiasaan
+          atau catatan), versi aplikasi, model perangkat, versi OS, bahasa, perkiraan negara, dan ID instance aplikasi acak.</td>
+          <td>Meningkatkan aplikasi; mengukur fitur mana yang membantu orang mempertahankan kebiasaan</td></tr>
+      <tr><td>Firebase Crashlytics</td>
+          <td>Laporan crash dan error: stack trace, model perangkat, versi OS, status aplikasi saat crash terjadi,
+          dan ID instalasi acak.</td>
+          <td>Menemukan dan memperbaiki bug</td></tr>
+      <tr><td>Firebase Remote Config</td>
+          <td>ID instalasi acak yang digunakan untuk mengunduh konfigurasi aplikasi.</td>
+          <td>Menyesuaikan pengaturan aplikasi (misalnya, paket langganan mana yang dipilih sebelumnya) tanpa pembaruan aplikasi</td></tr>
+    </table>
+    <p>Kami tidak mengumpulkan ID Iklan Android, dan fitur iklan Google Analytics dinonaktifkan.
+    Data ini tidak dikaitkan dengan nama, email, atau akun apa pun milikmu. Data analitik disimpan hingga 14 bulan dan
+    laporan crash hingga 90 hari. Lihat <a href="https://firebase.google.com/support/privacy">informasi privasi Firebase</a>.</p>
+
+    <h2>4. Pembelian</h2>
+    <p>Langganan Dotday Pro dan pembelian sekali bayar diproses oleh Google Play. Kami tidak pernah melihat detail pembayaranmu.
+    Aplikasi hanya menerima status pembelian dari Google Play untuk membuka fitur Pro, dan menyimpan status tersebut di
+    perangkatmu. Cara Google menangani data pembayaranmu dijelaskan dalam
+    <a href="https://policies.google.com/privacy">Kebijakan Privasi Google</a>.</p>
+
+    <h2>5. Yang tidak kami lakukan</h2>
+    <ul>
+      <li>Tidak ada iklan dan tidak ada SDK iklan.</li>
+      <li>Tidak ada penjualan atau pembagian data pribadi.</li>
+      <li>Tidak ada akun, tidak ada pengumpulan email, tidak ada pelacakan lokasi, tidak ada akses ke kontak.</li>
+    </ul>
+
+    <h2>6. Anak-anak</h2>
+    <p>Dotday tidak ditujukan untuk anak-anak di bawah 13 tahun, dan kami tidak dengan sengaja mengumpulkan informasi pribadi dari mereka.</p>
+
+    <h2>7. Pilihan dan hakmu</h2>
+    <ul>
+      <li><strong>Matikan analitik dan laporan crash</strong> di Pengaturan.</li>
+      <li><strong>Hapus datamu</strong> dengan menghapus kebiasaan di aplikasi, menghapus penyimpanan aplikasi, atau mencopot pemasangan aplikasi.
+      Karena kami tidak memiliki akun atau server, kami tidak menyimpan salinan data kebiasaanmu.</li>
+      <li>Tergantung tempat tinggalmu (misalnya, UE/EEA, Inggris, atau California), kamu mungkin memiliki hak untuk mengakses,
+      memperbaiki, atau menghapus data pribadi serta menolak pemrosesannya. Data analitik anonim biasanya tidak dapat dikaitkan
+      kembali denganmu; jika kamu memiliki permintaan, hubungi kami dan kami akan membantu.</li>
+    </ul>
+
+    <h2>8. Keamanan</h2>
+    <p>Datamu dilindungi oleh sandbox aplikasi Android. Data yang dikirim ke Firebase dienkripsi selama transmisi (HTTPS).</p>
+
+    <h2>9. Perubahan pada kebijakan ini</h2>
+    <p>Jika kami mengubah kebijakan ini, kami akan memperbarui tanggal berlaku di atas dan, untuk perubahan yang signifikan, memberitahumu di aplikasi.</p>
+
+    <h2>10. Kontak</h2>
+    <p>Pertanyaan atau permintaan: <a href="mailto:support@dotday.app">support@dotday.app</a></p>
+  </main>
+</div>
+<footer>
+  <div class="wrap narrow">
+    <span>© 2026 Dotday</span>
+    <span><a href="./">Beranda</a> · <a href="terms-id.html">Ketentuan</a></span>
+  </div>
+</footer>
+</body>
+</html>
