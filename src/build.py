@@ -117,6 +117,8 @@ def head(code, *, title, desc, canonical, alternates, root, page, image=None, js
         f'<meta property="og:locale" content="{LANG[code]["og"]}">',
         '<meta name="twitter:card" content="summary_large_image">',
         f'<meta name="google-play-app" content="app-id={PACKAGE}">',
+        f'<link rel="icon" href="/favicon.ico" sizes="48x48">',
+        f'<link rel="icon" href="{root}assets/icon-96.png" sizes="96x96" type="image/png">',
         f'<link rel="icon" href="{root}assets/icon.svg" type="image/svg+xml">',
         f'<link rel="apple-touch-icon" href="{root}assets/icon-512.png">',
         f'<link rel="manifest" href="{root}site.webmanifest">',
@@ -453,7 +455,8 @@ def extras():
     write("site.webmanifest", json.dumps({
         "name": "Dotday", "short_name": "Dotday", "start_url": "/", "display": "standalone",
         "background_color": "#fbfaff", "theme_color": "#4b4fe0",
-        "icons": [{"src": "/assets/icon-512.png", "sizes": "512x512", "type": "image/png"},
+        "icons": [{"src": "/assets/icon-192.png", "sizes": "192x192", "type": "image/png"},
+                  {"src": "/assets/icon-512.png", "sizes": "512x512", "type": "image/png"},
                   {"src": "/assets/icon.svg", "sizes": "any", "type": "image/svg+xml"}],
         "related_applications": [{"platform": "play", "id": PACKAGE, "url": f"https://play.google.com/store/apps/details?id={PACKAGE}"}],
     }, indent=1) + "\n")
@@ -466,6 +469,7 @@ def extras():
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Page not found — Dotday</title>
 <meta name="robots" content="noindex">
+<link rel="icon" href="/favicon.ico" sizes="48x48">
 <link rel="icon" href="/assets/icon.svg" type="image/svg+xml">
 <link rel="stylesheet" href="/assets/style.css">
 {THEME_INIT}
