@@ -10,6 +10,7 @@ import datetime
 import html
 import json
 import re
+import urllib.parse
 from pathlib import Path
 
 SRC = Path(__file__).resolve().parent
@@ -656,6 +657,38 @@ def extras():
   <h1 style="font-size:clamp(32px,6vw,56px);letter-spacing:-.03em;margin:0 0 10px">404</h1>
   <p>This page doesn’t exist. · Sahifa topilmadi. · Страница не найдена.</p>
   <p><a class="btn btn-primary" href="/">Dotday →</a></p>
+</main>
+</body>
+</html>
+""")
+
+    # /get/ — Instagram/Telegram ichki brauzeri play.google.com ni veb-sahifa sifatida ochadi;
+    # intent:// va market:// esa Play Store ilovasini to'g'ridan-to'g'ri chaqiradi
+    ref = "utm_source%3Dinstagram%26utm_medium%3Dbio"
+    market = f"market://details?id={PACKAGE}&referrer={ref}"
+    web = f"{PLAY}&referrer={ref}"
+    intent = (f"intent://details?id={PACKAGE}&referrer={ref}#Intent;scheme=market;package=com.android.vending;"
+              f"S.browser_fallback_url={urllib.parse.quote(web, safe='')};end")
+    write("get/index.html", f"""<!doctype html>
+<html lang="uz">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Dotday — Google Play</title>
+<meta name="robots" content="noindex">
+<link rel="icon" href="/favicon.ico" sizes="48x48">
+<link rel="icon" href="/assets/icon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="/assets/style.css">
+{THEME_INIT}
+<script>location.replace(/android/i.test(navigator.userAgent)?{json.dumps(intent)}:{json.dumps(web)})</script>
+</head>
+<body>
+<main class="wrap final" style="min-height:80vh;display:grid;place-content:center;padding:48px 20px">
+  <img class="icon-big" src="/assets/icon.svg" alt="" width="88" height="88">
+  <h1 style="font-size:clamp(28px,5vw,44px);letter-spacing:-.03em;margin:0 0 10px">Dotday</h1>
+  <p>Google Play ochilmasa, tugmani bosing. · Если Google Play не открылся, нажмите кнопку.</p>
+  <p><a class="btn btn-primary" href="{e(market)}">Google Play →</a></p>
+  <p><a href="{e(web)}">play.google.com</a></p>
 </main>
 </body>
 </html>
