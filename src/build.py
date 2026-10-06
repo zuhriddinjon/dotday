@@ -17,6 +17,8 @@ OUT = SRC.parent
 SITE = "https://dotday.uz"
 PACKAGE = "uz.habitly.tracker"
 EMAIL = "zuhriddinjonrayimjonov@gmail.com"
+INSTAGRAM = "https://www.instagram.com/dotday.app/"
+PLAY = f"https://play.google.com/store/apps/details?id={PACKAGE}"
 TODAY = datetime.date.today().isoformat()
 
 # code, papka, til nomi, yo'nalish, Play hl, og:locale
@@ -76,6 +78,7 @@ SVG_PLAY = '<svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor
 SVG_CHECK = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12.5l4.5 4.5L19 7.5"/></svg>'
 SVG_PREV = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M15 18l-6-6 6-6"/></svg>'
 SVG_NEXT = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M9 6l6 6-6 6"/></svg>'
+SVG_INSTAGRAM = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><rect x="3" y="3" width="18" height="18" rx="5"/><circle cx="12" cy="12" r="4"/><circle cx="17.5" cy="6.5" r="1" fill="currentColor" stroke="none"/></svg>'
 SVG_CLOSE = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" aria-hidden="true"><path d="M6 6l12 12M18 6L6 18"/></svg>'
 
 THEME_INIT = ("<script>(function(){var d=document.documentElement;d.classList.add('js');"
@@ -172,6 +175,7 @@ def footer(code, root):
     <div>
       <a class="brand" href="{home}"><img src="{root}assets/icon.svg" alt="" width="34" height="34">Dotday</a>
       <p>{e(t["foot_tagline"])}</p>
+      <p class="social"><a class="icon-btn" href="{INSTAGRAM}" rel="me noopener" target="_blank" aria-label="Instagram @dotday.app">{SVG_INSTAGRAM}</a><a class="icon-btn" href="{e(play_url(code, "footer-icon"))}" aria-label="Google Play">{SVG_PLAY}</a></p>
       <p>© 2026 Dotday</p>
     </div>
     <div>
@@ -224,7 +228,8 @@ def landing(code):
         "@context": "https://schema.org",
         "@graph": [
             {"@type": "Organization", "@id": f"{SITE}/#org", "name": "Dotday", "url": f"{SITE}/",
-             "logo": f"{SITE}/assets/icon-512.png", "email": EMAIL},
+             "logo": f"{SITE}/assets/icon-512.png", "email": EMAIL,
+             "sameAs": [INSTAGRAM, PLAY]},
             {"@type": "WebSite", "@id": f"{SITE}/#website", "url": f"{SITE}/", "name": "Dotday",
              "publisher": {"@id": f"{SITE}/#org"}, "inLanguage": list(LANG)},
             {"@type": "MobileApplication", "@id": f"{SITE}/#app", "name": "Dotday", "alternateName": t["app_name"],
