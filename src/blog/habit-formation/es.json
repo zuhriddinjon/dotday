@@ -1,0 +1,110 @@
+{
+  "slug": "como-crear-un-habito",
+  "meta_title": "Cómo crear un hábito: método de 7 pasos basado en ciencia",
+  "meta_desc": "Cómo crear un hábito que dure: 7 pasos prácticos respaldados por estudios, cuánto tarda de verdad (mediana de 66 días) y qué hacer si fallas un día.",
+  "h1": "Cómo crear un hábito: un método de 7 pasos respaldado por la ciencia",
+  "lead": "Crear un hábito consiste en repetir una pequeña acción después de la misma señal diaria hasta que funcione en piloto automático. Aquí verás cómo formar un hábito nuevo paso a paso y cuánto tarda de forma realista.",
+  "read_min": 7,
+  "published": "2026-10-06",
+  "facts": [
+    {
+      "value": "66 días",
+      "label": "mediana para alcanzar el 95 % de la automaticidad máxima en un estudio en la vida real",
+      "src": 2
+    },
+    {
+      "value": "18–254 días",
+      "label": "rango entre personas en ese mismo estudio",
+      "src": 1
+    },
+    {
+      "value": "d = 0,65",
+      "label": "efecto de los planes «si…, entonces…» sobre el logro de metas en 94 pruebas",
+      "src": 5
+    }
+  ],
+  "sections": [
+    {
+      "id": "short-answer",
+      "title": "Cómo crear un hábito: la respuesta corta",
+      "html": "<p>Para crear un hábito, elige una conducta pequeña, átala a una señal que encuentres todos los días y repítela en esa misma situación hasta que empiece a salirte sola. Ese es el consejo central de quienes investigan los hábitos: repetir una conducta elegida en el mismo contexto hasta que se vuelva automática y sin esfuerzo.<sup class=\"ref\"><a href=\"#src-4\">4</a></sup></p><p>La motivación te pone en marcha, pero se agota. Lo que traslada el trabajo de la fuerza de voluntad al piloto automático es la repetición en un contexto estable. Los siete pasos de abajo convierten esa idea en un plan que puedes empezar hoy.</p>"
+    },
+    {
+      "id": "why-habits-matter",
+      "title": "Por qué vale la pena el esfuerzo",
+      "html": "<p>En psicología, un hábito es una acción que se activa automáticamente ante una señal asociada a ella, como una hora, un lugar o una acción previa.<sup class=\"ref\"><a href=\"#src-4\">4</a></sup> Cuando una conducta llega a ese punto, ya no tienes que decidir hacerla.</p><p>Los hábitos ya ocupan buena parte del día. En dos estudios con diarios por horas hechos con estudiantes universitarios, entre un tercio y la mitad de las conductas que anotaron eran hábitos: el 35 % en el primer estudio y el 43 % en el segundo.<sup class=\"ref\"><a href=\"#src-3\">3</a></sup> Mientras realizaban acciones habituales, los participantes solían pensar en otras cosas y declaraban menos estrés que durante las acciones no habituales.<sup class=\"ref\"><a href=\"#src-3\">3</a></sup></p><p>Esa es la recompensa: una conducta nueva que, con el tiempo, casi no cuesta esfuerzo mental.</p>"
+    },
+    {
+      "id": "how-long",
+      "title": "Cuánto se tarda de verdad en formar un hábito",
+      "html": "<p>El estudio más conocido siguió a 96 voluntarios que eligieron una conducta de comida, bebida o actividad física y la hicieron a diario en el mismo contexto durante 12 semanas.<sup class=\"ref\"><a href=\"#src-1\">1</a></sup> Entre los participantes cuyos datos pudieron modelarse, la mediana para alcanzar el 95 % de su automaticidad máxima fue de 66 días, con un rango de 18 a 254 días.<sup class=\"ref\"><a href=\"#src-1\">1</a></sup><sup class=\"ref\"><a href=\"#src-2\">2</a></sup></p><p>Una revisión sistemática de 2024 con 20 estudios y 2601 participantes encontró un panorama parecido: medianas de 59–66 días, medias de 106–154 días y grandes diferencias individuales (4–335 días).<sup class=\"ref\"><a href=\"#src-2\">2</a></sup> Su conclusión: los hábitos pueden empezar a formarse en unos dos meses, pero el tiempo varía mucho de una persona a otra.<sup class=\"ref\"><a href=\"#src-2\">2</a></sup></p><aside class=\"myth\"><b>Mito</b> Un hábito se forma en 21 días. <b>Realidad</b> La cifra de 21 días parece venir de relatos anecdóticos sobre pacientes de cirugía plástica que se acostumbraban a su nueva apariencia, no de la investigación sobre hábitos.<sup class=\"ref\"><a href=\"#src-4\">4</a></sup> Los investigadores sugieren contar más bien con unas 10 semanas de repetición diaria.</aside><p>Además, las acciones simples suelen automatizarse antes: la automaticidad llegó a su punto máximo más rápido en acciones como beber agua que en rutinas más elaboradas, como hacer 50 abdominales.<sup class=\"ref\"><a href=\"#src-4\">4</a></sup></p>"
+    },
+    {
+      "id": "seven-steps",
+      "title": "El método de 7 pasos para formar un hábito nuevo",
+      "html": "<h3>1. Elige un solo hábito pequeño que de verdad quieras</h3><p>Empieza con una acción concreta, como «beber un vaso de agua» en lugar de «ser más saludable». La revisión de 2024 observó que los hábitos elegidos por la propia persona tendían a mostrar mayor fuerza del hábito.<sup class=\"ref\"><a href=\"#src-2\">2</a></sup> Lo pequeño y sencillo gana a lo grande e impresionante.</p><h3>2. Ánclalo a una señal que encuentres cada día</h3><p>Elige una hora y un lugar, o una rutina que ya tengas, que se repita todos los días, y haz la nueva acción justo después.<sup class=\"ref\"><a href=\"#src-4\">4</a></sup> En uno de los estudios incluidos en la revisión, una hora fija (las 9:00) y una señal de rutina (después del desayuno) funcionaron más o menos igual de bien.<sup class=\"ref\"><a href=\"#src-2\">2</a></sup></p><h3>3. Escribe un plan «si…, entonces…»</h3><p>Convierte la señal en una frase: «Si ya desayuné, entonces haré 10 sentadillas». Este tipo de plan se llama intención de implementación. Un metaanálisis de 94 pruebas independientes encontró que tenía un efecto de mediano a grande sobre el logro de metas (d = 0,65).<sup class=\"ref\"><a href=\"#src-5\">5</a></sup></p><h3>4. Mantén estable el contexto</h3><p>Haz el hábito siempre en la misma situación. Las personas que realizaban una conducta de forma constante en el mismo contexto desarrollaban hábitos más fuertes.<sup class=\"ref\"><a href=\"#src-2\">2</a></sup> Las primeras repeticiones son las que más aumentan la automaticidad, así que las primeras semanas son las más importantes.<sup class=\"ref\"><a href=\"#src-2\">2</a></sup></p><h3>5. Plantéate hacerlo por la mañana</h3><p>En un estudio sobre estiramientos diarios, el hábito se formó antes por la mañana (media de 106 días) que por la noche (media de 154 días).<sup class=\"ref\"><a href=\"#src-2\">2</a></sup> Es un único estudio, así que tómalo como una pista útil y no como una regla. Si tus mañanas son caóticas, una señal estable por la noche es mejor que una inestable por la mañana.</p><h3>6. Registra tu progreso donde puedas verlo</h3><p>Un metaanálisis de 138 estudios aleatorizados (19 951 participantes) encontró que las intervenciones que aumentaban el seguimiento del progreso también mejoraban el logro de metas (d = 0,40).<sup class=\"ref\"><a href=\"#src-6\">6</a></sup> El efecto era mayor cuando el progreso se anotaba físicamente y cuando se compartía con otras personas o se hacía público.<sup class=\"ref\"><a href=\"#src-6\">6</a></sup></p><aside class=\"note\"><b>En Dotday</b> Coloca el hábito en el grupo de Mañana, Tarde o Noche para que quede junto a su señal, añade un recordatorio a la hora de la señal y márcalo con un toque desde el widget de hoy en tu pantalla de inicio.</aside><h3>7. Prevé los días fallidos y ten paciencia</h3><p>En el estudio de 2010, saltarse una oportunidad no afectó de forma significativa al proceso de formación del hábito.<sup class=\"ref\"><a href=\"#src-1\">1</a></sup> Lo que importa es retomarlo al día siguiente. Cuenta con que tardará de semanas a meses, y mide tu progreso por lo automático que se siente el hábito, no por una fecha en el calendario.</p>"
+    },
+    {
+      "id": "missed-days",
+      "title": "Qué hacer cuando fallas un día",
+      "html": "<p>Fallar un día es normal, y la investigación sugiere que no reinicia tu progreso.<sup class=\"ref\"><a href=\"#src-1\">1</a></sup><sup class=\"ref\"><a href=\"#src-4\">4</a></sup> El verdadero riesgo es que un fallo se convierta en una semana entera.</p><ul><li>Haz el hábito en la siguiente señal, aunque sea en una versión mínima.</li><li>Pregúntate qué te lo impidió y ajusta la señal o el tamaño del hábito.</li><li>No añadas sesiones «de recuperación»: simplemente vuelve al plan normal.</li></ul><aside class=\"note\"><b>En Dotday</b> Las rachas perdonan: puedes saltarte un día o usar un congelador de racha, y la fuerza del hábito baja solo un poco tras un fallo, así que un mal día no borra semanas de trabajo.</aside>"
+    },
+    {
+      "id": "do-this-today",
+      "title": "Haz esto hoy",
+      "html": "<ol><li>Elige un hábito que quieras y redúcelo hasta que lleve menos de dos minutos.</li><li>Escoge una señal diaria: una hora, un lugar o algo que ya haces.</li><li>Escribe tu plan: «Si/Después de [señal], entonces [hábito]».</li><li>Pon un recordatorio a la hora de la señal y decide cómo vas a registrar cada día.</li><li>Hazlo una vez hoy y márcalo.</li></ol><aside class=\"tip\"><b>Consejo</b> Espera a que el primer hábito sea bastante automático antes de añadir un segundo. Empezar con uno mantiene simples la señal, el plan y el seguimiento.</aside>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "¿Cuánto se tarda en crear un hábito?",
+      "a": "En un estudio muy conocido, la mediana para llegar casi a la automaticidad máxima fue de 66 días, pero según la persona iba de 18 a 254 días. Una revisión sistemática de 2024 concluyó que los hábitos pueden empezar a formarse en unos dos meses, con grandes diferencias entre personas."
+    },
+    {
+      "q": "¿Fallar un día arruina un hábito nuevo?",
+      "a": "No. En el estudio de 2010, saltarse una oportunidad no afectó de forma significativa al proceso de formación del hábito. Retómalo en la siguiente señal."
+    },
+    {
+      "q": "¿Es verdad que un hábito se forma en 21 días?",
+      "a": "No hay buenas pruebas de ello. La cifra de 21 días parece venir de anécdotas sobre pacientes de cirugía plástica, mientras que los estudios sobre hábitos apuntan a unos dos meses o más."
+    },
+    {
+      "q": "¿Cuántos hábitos debería empezar a la vez?",
+      "a": "Empezar con un solo hábito pequeño mantiene simples la señal, el plan y el seguimiento. Añade el siguiente cuando el primero te salga de forma bastante automática."
+    }
+  ],
+  "sources": [
+    {
+      "id": 1,
+      "text": "Lally, P., van Jaarsveld, C. H. M., Potts, H. W. W., & Wardle, J. (2010). How are habits formed: Modelling habit formation in the real world. European Journal of Social Psychology, 40(6), 998–1009.",
+      "url": "https://doi.org/10.1002/ejsp.674"
+    },
+    {
+      "id": 2,
+      "text": "Singh, B., Murphy, A., Maher, C., & Smith, A. E. (2024). Time to form a habit: A systematic review and meta-analysis of health behaviour habit formation and its determinants. Healthcare, 12(23), 2488.",
+      "url": "https://doi.org/10.3390/healthcare12232488"
+    },
+    {
+      "id": 3,
+      "text": "Wood, W., Quinn, J. M., & Kashy, D. A. (2002). Habits in everyday life: Thought, emotion, and action. Journal of Personality and Social Psychology, 83(6), 1281–1297.",
+      "url": "https://doi.org/10.1037/0022-3514.83.6.1281"
+    },
+    {
+      "id": 4,
+      "text": "Gardner, B., Lally, P., & Wardle, J. (2012). Making health habitual: The psychology of ‘habit-formation’ and general practice. British Journal of General Practice, 62(605), 664–666.",
+      "url": "https://doi.org/10.3399/bjgp12X659466"
+    },
+    {
+      "id": 5,
+      "text": "Gollwitzer, P. M., & Sheeran, P. (2006). Implementation intentions and goal achievement: A meta-analysis of effects and processes. Advances in Experimental Social Psychology, 38, 69–119.",
+      "url": "https://doi.org/10.1016/S0065-2601(06)38002-1"
+    },
+    {
+      "id": 6,
+      "text": "Harkin, B., Webb, T. L., Chang, B. P. I., Prestwich, A., Conner, M., Kellar, I., Benn, Y., & Sheeran, P. (2016). Does monitoring goal progress promote goal attainment? A meta-analysis of the experimental evidence. Psychological Bulletin, 142(2), 198–229.",
+      "url": "https://doi.org/10.1037/bul0000025"
+    }
+  ],
+  "cta_title": "Empieza hoy tu primer hábito",
+  "cta_body": "Con Dotday fijas una señal diaria con recordatorios, marcas con un toque y ves crecer la fuerza del hábito, gratis en Android y sin crear cuenta."
+}

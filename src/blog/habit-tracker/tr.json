@@ -1,0 +1,100 @@
+{
+  "slug": "aliskanlik-takibi-nasil-yapilir",
+  "meta_title": "Alışkanlık Takibi: İşe Yarar mı, Nasıl Yapılır?",
+  "meta_desc": "Alışkanlık takibi işe yarar mı? Öz-izleme araştırmaları ne diyor, takip çizelgesi nasıl kurulur, hangi hatalardan kaçınmalı; kâğıt mı uygulama mı?",
+  "h1": "Alışkanlık takibi nasıl yapılır (ve neden işe yarar)",
+  "lead": "Alışkanlık takibi işe yarar, çünkü öz-izlemeyi otomatik hâle getirir; ilerlemeyi izlemek de insanların hedeflerine ulaşmasına güvenilir biçimde yardım eder. Araştırmaların ne dediğini, takibi nasıl iyi kuracağını ve insanları vazgeçiren hataları anlatıyoruz.",
+  "read_min": 7,
+  "published": "2026-10-06",
+  "facts": [
+    {
+      "value": "138 çalışma",
+      "label": "ilerleme takibinin hedefe ulaşmayı desteklediğini gösteren bir meta-analizdeki randomize çalışma sayısı (N = 19.951)",
+      "src": 1
+    },
+    {
+      "value": "0,42 / 0,26",
+      "label": "öz-izleme başka bir öz-düzenleme tekniğiyle birleştirildiğinde ve diğer müdahalelerde görülen etki büyüklükleri",
+      "src": 3
+    },
+    {
+      "value": "18–254 gün",
+      "label": "katılımcıların alışkanlık otomatikliği platosuna ulaşma süresinin aralığı",
+      "src": 4
+    }
+  ],
+  "sections": [
+    {
+      "id": "does-it-work",
+      "title": "Alışkanlık takibi işe yarar mı?",
+      "html": "<p>Evet, ama bir şartla. Alışkanlık takibi alışkanlığı senin yerine oluşturmaz; ancak davranış değişikliğinin en çok araştırılmış tekniklerinden biri olan <em>öz-izlemeyi</em> her gün kolayca yapmanı sağlar. Ne yaptığını sandığını değil, gerçekte ne yaptığını görebildiğinde, fark etmeden yoldan çıkmak çok zorlaşır.</p><p>En güçlü kanıt, <em>Psychological Bulletin</em>'de yayımlanan 2016 tarihli bir meta-analizden geliyor. Araştırmacılar, insanları ya hedef ilerlemelerini izlemeye teşvik eden bir müdahaleye ya da kontrol koşuluna rastgele atayan 138 çalışmayı (N = 19.951) bir araya getirdi.<sup class=\"ref\"><a href=\"#src-1\">1</a></sup> Ortalamada bu müdahaleler, insanların ilerlemelerini izleme sıklığını artırdı (d+ = 1,98) ve hedefe ulaşmayı iyileştirdi (d+ = 0,40).<sup class=\"ref\"><a href=\"#src-1\">1</a></sup> İnsanlar ne kadar sık izlediyse o kadar iyi sonuç aldı: izleme sıklığındaki değişimler, hedefe ulaşma üzerindeki etkiye aracılık etti.<sup class=\"ref\"><a href=\"#src-1\">1</a></sup></p><p>Takip yöntemi seçen herkes için iki ayrıntı önemli. Bilgi <b>fiziksel olarak kaydedildiğinde</b> ve sonuçlar <b>başkalarına bildirildiğinde ya da herkese açık paylaşıldığında</b> izlemenin etkisi daha büyüktü.<sup class=\"ref\"><a href=\"#src-1\">1</a></sup> Yani yazıya dökmek, aklında tutmaktan iyidir.</p>"
+    },
+    {
+      "id": "what-the-research-says",
+      "title": "Araştırmalar başka ne söylüyor",
+      "html": "<p>Kilo verme araştırmaları da benzer bir sonuca varıyor. 1993–2009 arasında yayımlanan 22 çalışmayı inceleyen sistematik bir derleme, öz-izleme (beslenme, egzersiz ya da kilo takibi) ile kilo kaybı arasında, çalışmalar genelinde tutarlı ve anlamlı bir ilişki buldu.<sup class=\"ref\"><a href=\"#src-2\">2</a></sup> Yazarlar, öz bildirime dayanma ve örneklemlerin çoğunlukla beyaz kadınlardan oluşması gibi yöntemsel sınırlılıklar nedeniyle kanıt düzeyinin zayıf olduğunu özenle belirtti.<sup class=\"ref\"><a href=\"#src-2\">2</a></sup> İlginç olan, en sık kullanılan yöntemin kâğıt günlük olmasıydı.<sup class=\"ref\"><a href=\"#src-2\">2</a></sup></p><p>Takip, yaptığın tek şey olmadığında da daha iyi işliyor. Sağlıklı beslenme ve fiziksel aktivite müdahalelerine ait 122 değerlendirmeyi (N = 44.747) inceleyen bir meta-regresyon, çalışmalar arasındaki farkları diğer tüm tekniklerden daha fazla öz-izlemenin açıkladığını buldu.<sup class=\"ref\"><a href=\"#src-3\">3</a></sup> Öz-izlemeyi kontrol teorisinden en az bir başka teknikle (örneğin hedef belirleme ya da hedefi gözden geçirme) birleştiren müdahaleler, diğerlerinden anlamlı ölçüde daha etkiliydi (etki büyüklükleri 0,42'ye karşı 0,26).<sup class=\"ref\"><a href=\"#src-3\">3</a></sup></p><aside class=\"myth\"><b>Efsane</b> Takip, sadece bir motivasyon numarası. <b>Gerçek</b> İlerlemeyi izlemek, en tutarlı biçimde desteklenen öz-düzenleme stratejilerinden biri; ancak tek başına değil, net bir hedef ve düzenli gözden geçirmeyle birlikte en iyi sonucu verir.</aside>"
+    },
+    {
+      "id": "how-to-use-a-habit-tracker",
+      "title": "Alışkanlık takibi nasıl iyi yapılır",
+      "html": "<p>Bir takip çizelgesi, içine koyduğun alışkanlıklar kadar iyidir. Aşağıdaki ilkeler yukarıdaki araştırmalardan ve pratikte sık yaşanan aksaklıklardan çıkıyor.</p><ol><li><b>Az sayıda alışkanlıkla başla.</b> İki ya da üç yeterli. Her ek satır kontrol edilecek bir şey daha demek ve kalabalık bir liste, ona bakmayı tamamen bırakmayı kolaylaştırır.</li><li><b>Her alışkanlığı somutlaştır.</b> “Daha çok spor yapmak” dürüstçe işaretlemesi zor bir hedef. “Öğle yemeğinden sonra 20 dakika yürümek” ise net bir evet ya da hayır. Onu gününün bir anına bağla; aşağıdaki alışkanlık oluşumu çalışmasında insanlar “kahvaltıdan sonra” gibi aynı bağlamda yapacakları bir davranış seçti.<sup class=\"ref\"><a href=\"#src-4\">4</a></sup></li><li><b>Görünür tut.</b> İzleme ancak gerçekten yapıldığında işe yarar. Takip çizelgesini göreceğin bir yere koy: buzdolabına, masana ya da telefonunun ana ekranına.</li><li><b>Hemen kaydet.</b> Alışkanlığı hafta sonunda hafızadan değil, yapar yapmaz işaretle.</li><li><b>Haftada bir gözden geçir.</b> Sadece bugüne değil, örüntüye bak. Hangi günler aksadı? Alışkanlık fazla mı büyük? Hedefi ayarla; müdahaleleri daha etkili kılan “izlemeyi başka bir teknikle birleştirme” kısmı tam olarak bu.<sup class=\"ref\"><a href=\"#src-3\">3</a></sup></li></ol><aside class=\"note\"><b>Dotday'de</b> Alışkanlıklarını sabah, öğleden sonra ve akşam gruplarına ayırabilirsin; böylece liste gününün planı gibi okunur. Ana ekrandaki Bugün widget'ından tek dokunuşla işaretlersin.</aside>"
+    },
+    {
+      "id": "common-mistakes",
+      "title": "Sık yapılan hatalar (ve yerine ne yapmalı)",
+      "html": "<h3>Aynı anda çok fazla alışkanlık takip etmek</h3><p>İlk gün heyecanı çoğu zaman on alışkanlık demektir. İkinci haftaya gelindiğinde çizelge boşluklarla dolu bir duvara döner ve boşluklar başarısızlık gibi hissettirir. Küçük başla ve yeni bir alışkanlığı ancak mevcutlar kolaylaştığında ekle.</p><h3>“Ya hep ya hiç” seri düşüncesi</h3><p>Seriler kopana kadar motive eder. Kopunca da pek çok kişi “Her şeyi mahvettim” diye düşünüp bırakır. Araştırmalar burada içini rahatlatıyor: günlük bir davranışı 12 hafta boyunca tekrarlayan 96 gönüllüyle yapılan bir çalışmada, davranışı yapmak için bir fırsatı kaçırmak alışkanlık oluşma sürecini kayda değer biçimde etkilemedi.<sup class=\"ref\"><a href=\"#src-4\">4</a></sup> Kaçırılan bir gün küçük bir sapmadır, sıfırlama değil.</p><aside class=\"tip\"><b>İpucu</b> “İki kez üst üste kaçırma” kuralını uygula: bir günü kaçırırsan, ertesi günü öncelik yap; daha küçük bir versiyonuyla bile olsa (yirmi sayfa yerine bir sayfa).</aside><h3>Belirli bir gün sayısında alışkanlık beklemek</h3><p>Aynı çalışmada katılımcıların otomatiklik platosunun %95'ine ulaşma süresi 18 ile 254 gün arasında değişti.<sup class=\"ref\"><a href=\"#src-4\">4</a></sup> Sihirli bir sayı yok. Alışkanlık kendiliğinden gelmeye başlayana kadar takibe devam et, sonra hâlâ kaydetmen gerekip gerekmediğine karar ver.</p><h3>Bakmadan takip etmek</h3><p>Hiç gözden geçirmediğin kutuları işaretlemek, takibi angaryaya çevirir. Haftada beş dakikalık bir bakış, takibin düzeltmeye dönüştüğü andır.</p>"
+    },
+    {
+      "id": "paper-vs-app",
+      "title": "Kâğıt alışkanlık takip çizelgesi mi, uygulama mı?",
+      "html": "<p>İkisi de işe yarar. En önemlisi, ilerlemeni fiziksel olarak kaydetmen ve bunu sürdürmen.<sup class=\"ref\"><a href=\"#src-1\">1</a></sup> Her gün gerçekten açacağın formatı seç.</p><div class=\"table-scroll\"><table><thead><tr><th></th><th>Kâğıt (bullet journal, yazdırılabilir çizelge)</th><th>Uygulama</th></tr></thead><tbody><tr><td><b>En uygun olduğu kişi</b></td><td>Yazmayı seven ve zaten defter kullananlar</td><td>Telefonu hep yanında olanlar</td></tr><tr><td><b>Hatırlatıcılar</b></td><td>Yok; bakmayı kendin hatırlamalısın</td><td>Seçtiğin saatte bildirim</td></tr><tr><td><b>Gözden geçirme</b></td><td>Bir ayı tek bakışta görmek kolay</td><td>Otomatik seriler ve istatistikler</td></tr><tr><td><b>Esneklik</b></td><td>Tamamen özelleştirilebilir ama her ay yeniden çizilir</td><td>“Haftada 3 kez” gibi planları senin yerine yönetir</td></tr><tr><td><b>Dezavantajı</b></td><td>Evde unutması kolay</td><td>Telefon dikkat dağıtır; bazı uygulamalar hesap ister</td></tr></tbody></table></div><p>Uygulamayı seçersen, tek dokunuşla işaretleme, takibi görünür tutan bir ana ekran widget'ı ve kötü bir günü cezalandırmak yerine affeden seriler ara.</p><aside class=\"note\"><b>Dotday'de</b> Seriler affedicidir: bir dinlenme gününü atlayabilir ya da seri dondurma kullanabilirsin. Alışkanlık gücü puanı, bir günü kaçırdığında sıfıra inmek yerine yavaşça düşer. Hesap gerekmez ve verilerin telefonunda kalır.</aside>"
+    },
+    {
+      "id": "start-today",
+      "title": "Alışkanlık takibini bugün kur",
+      "html": "<p>Bunu on dakikada yapabilirsin:</p><ol><li>Şu an senin için önemli olan <b>bir ila üç</b> alışkanlık seç.</li><li>Her birini somut ve gününün bir anına bağlı olacak şekilde yeniden yaz: “Sabah çayımı demledikten sonra 5 sayfa kitap okurum.”</li><li>Takip yöntemini seç: buzdolabındaki bir kâğıt ya da widget'ı olan bir uygulama.</li><li>Takvimine haftalık bir gözden geçirme ekle, örneğin pazar akşamı.</li><li>Kaçırılan bir günden sonra ne yapacağına önceden karar ver: ertesi gün yeniden başla, o kadar.</li></ol><aside class=\"note\"><b>Dotday'de</b> Yaklaşık 40 şablondan birini seç ya da kendi alışkanlığını oluştur; Evet/Hayır, Sayı, Süre ya da Bırakma türünü belirle ve planladığın saat için bir hatırlatıcı ekle.</aside>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Alışkanlık takibi gerçekten işe yarar mı?",
+      "a": "Araştırmalar yardımcı olduğunu gösteriyor. 138 randomize çalışmayı kapsayan bir meta-analiz, ilerleme takibini artıran müdahalelerin hedefe ulaşmayı da iyileştirdiğini, özellikle ilerleme fiziksel olarak kaydedildiğinde buldu."
+    },
+    {
+      "q": "Aynı anda kaç alışkanlık takip etmeliyim?",
+      "a": "İki ya da üçle başla. Daha fazlasını ancak mevcut alışkanlıklar kolaylaştığında ekle; böylece çizelge bir boşluklar listesi değil, bakmak istediğin bir şey olarak kalır."
+    },
+    {
+      "q": "Bir günü kaçırırsam ne olur?",
+      "a": "Çok az şey. 96 gönüllüyle yapılan bir çalışmada, bir davranışı yapmak için bir fırsatı kaçırmak alışkanlık oluşumunu kayda değer biçimde etkilemedi. Ertesi gün yoluna devam et."
+    },
+    {
+      "q": "Kâğıt alışkanlık takip çizelgesi uygulamadan daha mı iyi?",
+      "a": "İkisinden biri açıkça daha iyi değil. Her gün göreceğin ve güncelleyeceğin olanı seç: kâğıt defter sevenlere uyar, uygulama ise hatırlatıcılar, widget'lar ve otomatik istatistikler ekler."
+    }
+  ],
+  "sources": [
+    {
+      "id": 1,
+      "text": "Harkin, B., Webb, T. L., Chang, B. P. I., Prestwich, A., Conner, M., Kellar, I., Benn, Y., & Sheeran, P. (2016). Does monitoring goal progress promote goal attainment? A meta-analysis of the experimental evidence. Psychological Bulletin, 142(2), 198–229.",
+      "url": "https://doi.org/10.1037/bul0000025"
+    },
+    {
+      "id": 2,
+      "text": "Burke, L. E., Wang, J., & Sevick, M. A. (2011). Self-monitoring in weight loss: A systematic review of the literature. Journal of the American Dietetic Association, 111(1), 92–102.",
+      "url": "https://doi.org/10.1016/j.jada.2010.10.008"
+    },
+    {
+      "id": 3,
+      "text": "Michie, S., Abraham, C., Whittington, C., McAteer, J., & Gupta, S. (2009). Effective techniques in healthy eating and physical activity interventions: A meta-regression. Health Psychology, 28(6), 690–701.",
+      "url": "https://doi.org/10.1037/a0016136"
+    },
+    {
+      "id": 4,
+      "text": "Lally, P., van Jaarsveld, C. H. M., Potts, H. W. W., & Wardle, J. (2010). How are habits formed: Modelling habit formation in the real world. European Journal of Social Psychology, 40(6), 998–1009.",
+      "url": "https://doi.org/10.1002/ejsp.674"
+    }
+  ],
+  "cta_title": "Takibe nazikçe başla",
+  "cta_body": "Dotday; tek dokunuşla işaretleme, ana ekran widget'ı ve affedici serilerle Android için ücretsiz bir alışkanlık takibi uygulaması. Hesap yok, reklam yok."
+}

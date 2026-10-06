@@ -1,0 +1,110 @@
+{
+  "slug": "odat-shakllantirish",
+  "meta_title": "Odat shakllantirish: ilmiy asoslangan 7 qadam",
+  "meta_desc": "Odat shakllantirish 7 amaliy qadamda: tadqiqotlar nima deydi, odat qancha vaqtda shakllanadi (mediana 66 kun) va bir kun qoldirsangiz nima qilish kerak.",
+  "h1": "Odat shakllantirish: ilmiy asoslangan 7 qadamli usul",
+  "lead": "Odat shakllantirish — bitta kichik ishni har kuni bir xil signaldan keyin takrorlab, uni o'z-o'zidan bajariladigan holatga keltirish demak. Quyida yangi odatni qadam-baqadam qanday shakllantirish va bu amalda qancha vaqt olishini ko'rib chiqamiz.",
+  "read_min": 7,
+  "published": "2026-10-06",
+  "facts": [
+    {
+      "value": "66 kun",
+      "label": "real hayotdagi tadqiqotda maksimal avtomatiklikning 95% iga yetish vaqtining medianasi",
+      "src": 2
+    },
+    {
+      "value": "18–254 kun",
+      "label": "o'sha tadqiqotdagi odamlar o'rtasidagi farq",
+      "src": 1
+    },
+    {
+      "value": "d = 0,65",
+      "label": "«agar–unda» rejalarining maqsadga erishishga ta'siri (94 ta sinov bo'yicha)",
+      "src": 5
+    }
+  ],
+  "sections": [
+    {
+      "id": "short-answer",
+      "title": "Odat shakllantirish: qisqa javob",
+      "html": "<p>Odat shakllantirish uchun bitta kichik ishni tanlang, uni har kuni uchraydigan biror signalga bog'lang va o'sha vaziyatda avtomatik tus olguncha takrorlang. Odat bo'yicha tadqiqotchilarning asosiy maslahati ham shu: tanlangan xatti-harakatni bir xil sharoitda u avtomatik va zo'r bermasdan bajariladigan bo'lguncha takrorlash.<sup class=\"ref\"><a href=\"#src-4\">4</a></sup></p><p>Motivatsiya boshlab beradi, lekin u tez so'nadi. Ishni iroda kuchidan «avtopilot»ga o'tkazadigan narsa — barqaror sharoitdagi takrorlash. Quyidagi yetti qadam shu g'oyani bugunoq boshlash mumkin bo'lgan rejaga aylantiradi.</p>"
+    },
+    {
+      "id": "why-habits-matter",
+      "title": "Odatlar nega shuncha mehnatga arziydi",
+      "html": "<p>Psixologiyada odat — unga bog'langan signal (vaqt, joy yoki oldingi harakat) paydo bo'lganda o'z-o'zidan ishga tushadigan harakat.<sup class=\"ref\"><a href=\"#src-4\">4</a></sup> Xatti-harakat shu darajaga yetgach, uni qilish-qilmaslik haqida har safar qaror qabul qilishingiz shart bo'lmay qoladi.</p><p>Odatlar kunimizning katta qismini allaqachon boshqaradi. Talabalar ishtirokida o'tkazilgan, har soatlik kundalik yuritiladigan ikki tadqiqotda odamlar sanab o'tgan harakatlarning uchdan biridan yarmigachasi odat bo'lib chiqqan: birinchi tadqiqotda 35%, ikkinchisida 43%.<sup class=\"ref\"><a href=\"#src-3\">3</a></sup> Odatiy harakatlarni bajarayotganda ishtirokchilar odatda boshqa narsalar haqida o'ylashgan va odatiy bo'lmagan harakatlarga qaraganda kamroq stress his qilishgan.<sup class=\"ref\"><a href=\"#src-3\">3</a></sup></p><p>Bor foyda shu: yangi xatti-harakat vaqt o'tib deyarli hech qanday aqliy kuch talab qilmay qoladi.</p>"
+    },
+    {
+      "id": "how-long",
+      "title": "Odat aslida qancha vaqtda shakllanadi",
+      "html": "<p>Eng mashhur tadqiqotda 96 nafar ko'ngilli kuzatilgan: har biri ovqatlanish, ichimlik yoki jismoniy faollikka oid bitta xatti-harakatni tanlab, uni 12 hafta davomida har kuni bir xil sharoitda bajargan.<sup class=\"ref\"><a href=\"#src-1\">1</a></sup> Ma'lumotlarini modellashtirish mumkin bo'lgan ishtirokchilarda maksimal avtomatiklikning 95% iga yetish vaqtining medianasi 66 kun bo'lgan, oraliq esa 18 kundan 254 kungacha.<sup class=\"ref\"><a href=\"#src-1\">1</a></sup><sup class=\"ref\"><a href=\"#src-2\">2</a></sup></p><p>2024-yilda chop etilgan, 20 ta tadqiqot va 2 601 nafar ishtirokchini qamragan tizimli sharh ham shunga o'xshash manzarani ko'rsatdi: mediana 59–66 kun, o'rtacha qiymat 106–154 kun va odamlar o'rtasida katta farqlar (4–335 kun).<sup class=\"ref\"><a href=\"#src-2\">2</a></sup> Sharh xulosasi: odatlar taxminan ikki oy ichida shakllana boshlashi mumkin, ammo bu muddat odamdan odamga juda farq qiladi.<sup class=\"ref\"><a href=\"#src-2\">2</a></sup></p><aside class=\"myth\"><b>Afsona</b> Odat 21 kunda shakllanadi. <b>Haqiqat</b> 21 kun raqami odat bo'yicha tadqiqotlardan emas, plastik jarrohlik bemorlari yangi qiyofasiga ko'nikishi haqidagi kuzatuvlardan kelib chiqqanga o'xshaydi.<sup class=\"ref\"><a href=\"#src-4\">4</a></sup> Tadqiqotchilar buning o'rniga taxminan 10 hafta kundalik takrorlashni kutishni tavsiya qilishadi.</aside><p>Oddiy harakatlar ham tezroq avtomatik tus oladi: suv ichish kabi harakatlarda avtomatiklik 50 marta qorin pressi qilish kabi murakkabroq mashg'ulotlarga qaraganda tezroq eng yuqori nuqtaga chiqqan.<sup class=\"ref\"><a href=\"#src-4\">4</a></sup></p>"
+    },
+    {
+      "id": "seven-steps",
+      "title": "Yangi odatni shakllantirishning 7 qadami",
+      "html": "<h3>1. O'zingiz chindan xohlagan bitta kichik odatni tanlang</h3><p>Bitta aniq harakatdan boshlang: «sog'lomroq bo'laman» emas, «bir stakan suv ichaman». 2024-yilgi sharhga ko'ra, odamlar o'zlari tanlagan odatlar odatda mustahkamroq bo'lgan.<sup class=\"ref\"><a href=\"#src-2\">2</a></sup> Katta va ta'sirli rejadan ko'ra kichik va oddiy reja yaxshiroq ishlaydi.</p><h3>2. Uni har kuni uchraydigan signalga bog'lang</h3><p>Har kuni takrorlanadigan vaqt va joyni yoki mavjud odatni tanlang — masalan, bomdod namozi, nonushta yoki ishdan qaytish — va yangi harakatni aynan undan keyin bajaring.<sup class=\"ref\"><a href=\"#src-4\">4</a></sup> Sharhga kiritilgan bir tadqiqotda aniq soat (ertalab 9:00) va kundalik signal (nonushtadan keyin) deyarli bir xil samara bergan.<sup class=\"ref\"><a href=\"#src-2\">2</a></sup></p><h3>3. «Agar–unda» rejasini yozing</h3><p>Signalni bitta gapga aylantiring: «Agar nonushta qilib bo'lsam, unda 10 marta o'tirib-turaman». Bunday reja psixologiyada amalga oshirish niyati (implementation intention) deb ataladi. 94 ta mustaqil sinovni qamragan meta-tahlil uning maqsadga erishishga o'rtacha va katta oralig'idagi ta'sirini aniqlagan (d = 0,65).<sup class=\"ref\"><a href=\"#src-5\">5</a></sup></p><h3>4. Sharoitni o'zgartirmang</h3><p>Odatni har safar bir xil vaziyatda bajaring. Xatti-harakatni doimo bir xil sharoitda bajargan odamlarda odat mustahkamroq shakllangan.<sup class=\"ref\"><a href=\"#src-2\">2</a></sup> Avtomatiklik eng ko'p ilk takrorlashlarda o'sadi, shuning uchun dastlabki haftalar eng muhimi.<sup class=\"ref\"><a href=\"#src-2\">2</a></sup></p><h3>5. Ertalabki vaqtni ko'rib chiqing</h3><p>Kundalik cho'zilish mashqlari bo'yicha bir tadqiqotda odat ertalab tezroq (o'rtacha 106 kun) shakllangan, kechqurun esa sekinroq (o'rtacha 154 kun).<sup class=\"ref\"><a href=\"#src-2\">2</a></sup> Bu bitta tadqiqot, shuning uchun uni qat'iy qoida emas, foydali ishora deb qabul qiling. Agar tonglaringiz notinch o'tsa, beqaror ertalabki signaldan ko'ra barqaror kechki signal yaxshiroq.</p><h3>6. Natijani ko'z oldingizda belgilab boring</h3><p>138 ta randomizatsiyalangan tadqiqot (19 951 nafar ishtirokchi) bo'yicha meta-tahlil shuni ko'rsatdi: natijani kuzatishni kuchaytirgan dasturlar maqsadga erishishni ham yaxshilagan (d = 0,40).<sup class=\"ref\"><a href=\"#src-6\">6</a></sup> Natija qayd etib borilganda hamda boshqalarga ma'lum qilinganda yoki ochiq e'lon qilinganda ta'sir kattaroq bo'lgan.<sup class=\"ref\"><a href=\"#src-6\">6</a></sup></p><aside class=\"note\"><b>Dotday'da</b> Odatni signali yonida tursin deb Ertalab, Kunduzi yoki Kechqurun guruhiga qo'ying, signal vaqtiga eslatma qo'shing va bosh ekrandagi «Bugungi odatlar» widgetidan bir bosishda belgilang.</aside><h3>7. O'tkazib yuborilgan kunlarni oldindan rejalang va sabr qiling</h3><p>2010-yilgi tadqiqotda bir martalik imkoniyatni o'tkazib yuborish odat shakllanish jarayoniga sezilarli ta'sir qilmagan.<sup class=\"ref\"><a href=\"#src-1\">1</a></sup> Muhimi — ertasi kuni yana davom ettirish. Bu jarayon haftalar, balki oylar olishini kuting va natijani kalendardagi sanaga qarab emas, odat qanchalik o'z-o'zidan bajarilayotganiga qarab baholang.</p>"
+    },
+    {
+      "id": "missed-days",
+      "title": "Bir kun o'tkazib yuborsangiz nima qilish kerak",
+      "html": "<p>Bir kun o'tkazib yuborish — tabiiy hol, va tadqiqotlarga ko'ra u erishgan natijangizni nolga tushirmaydi.<sup class=\"ref\"><a href=\"#src-1\">1</a></sup><sup class=\"ref\"><a href=\"#src-4\">4</a></sup> Asl xavf boshqa joyda: bitta o'tkazib yuborilgan kun bir haftaga cho'zilib ketishi mumkin.</p><ul><li>Keyingi signal kelganda odatni bajaring, hatto juda kichik shaklda bo'lsa ham.</li><li>Nima xalaqit berganini o'ylab ko'ring va signalni yoki odat hajmini moslang.</li><li>«Qarzni uzish» uchun qo'shimcha mashg'ulot qilmang — shunchaki odatdagi rejaga qayting.</li></ul><aside class=\"note\"><b>Dotday'da</b> Seriyalar kechirimli: kunni o'tkazib yuborishingiz yoki seriyani muzlatishdan foydalanishingiz mumkin, odat mustahkamligi esa o'tkazib yuborilganda asta-sekin kamayadi. Shu bois bitta yomon kun haftalik mehnatni o'chirib yubormaydi.</aside>"
+    },
+    {
+      "id": "do-this-today",
+      "title": "Bugunoq shuni qiling",
+      "html": "<ol><li>Xohlagan bitta odatingizni tanlang va uni ikki daqiqadan kam vaqt oladigan darajagacha kichraytiring.</li><li>Kundalik signal tanlang: vaqt, joy yoki allaqachon qiladigan ishingiz.</li><li>Rejangizni yozing: «Agar/[signal]dan keyin, unda [odat]ni bajaraman».</li><li>Signal vaqtiga eslatma qo'ying va har kunni qanday belgilab borishingizni hal qiling.</li><li>Bugun bir marta bajaring va belgilab qo'ying.</li></ol><aside class=\"tip\"><b>Maslahat</b> Birinchi odat ancha o'z-o'zidan bajariladigan bo'lmaguncha ikkinchisini qo'shishga shoshilmang. Bitta odatdan boshlash signal, reja va kuzatishni sodda saqlaydi.</aside>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Odat shakllanishi uchun qancha vaqt kerak?",
+      "a": "Mashhur tadqiqotda maksimalga yaqin avtomatiklikka yetish vaqtining medianasi 66 kun bo'lgan, lekin odamlarda bu 18 kundan 254 kungacha o'zgargan. 2024-yilgi tizimli sharh odatlar taxminan ikki oy ichida shakllana boshlashi mumkin, ammo odamlar o'rtasida farq katta degan xulosaga kelgan."
+    },
+    {
+      "q": "Bir kun o'tkazib yuborsam, yangi odat buziladimi?",
+      "a": "Yo'q. 2010-yilgi tadqiqotda bir martalik imkoniyatni o'tkazib yuborish odat shakllanish jarayoniga sezilarli ta'sir qilmagan. Keyingi signal kelganda yana davom ettiring."
+    },
+    {
+      "q": "Odat 21 kunda shakllanishi rostmi?",
+      "a": "Buni tasdiqlovchi ishonchli dalil yo'q. 21 kun raqami plastik jarrohlik bemorlari haqidagi kuzatuvlardan kelib chiqqanga o'xshaydi, odat bo'yicha tadqiqotlar esa taxminan ikki oy va undan ko'proq muddatni ko'rsatadi."
+    },
+    {
+      "q": "Bir vaqtda nechta odat boshlash kerak?",
+      "a": "Bitta kichik odatdan boshlash signal, reja va kuzatishni sodda saqlaydi. Birinchisi ancha o'z-o'zidan bajariladigan bo'lgach, keyingisini qo'shing."
+    }
+  ],
+  "sources": [
+    {
+      "id": 1,
+      "text": "Lally, P., van Jaarsveld, C. H. M., Potts, H. W. W., & Wardle, J. (2010). How are habits formed: Modelling habit formation in the real world. European Journal of Social Psychology, 40(6), 998–1009.",
+      "url": "https://doi.org/10.1002/ejsp.674"
+    },
+    {
+      "id": 2,
+      "text": "Singh, B., Murphy, A., Maher, C., & Smith, A. E. (2024). Time to form a habit: A systematic review and meta-analysis of health behaviour habit formation and its determinants. Healthcare, 12(23), 2488.",
+      "url": "https://doi.org/10.3390/healthcare12232488"
+    },
+    {
+      "id": 3,
+      "text": "Wood, W., Quinn, J. M., & Kashy, D. A. (2002). Habits in everyday life: Thought, emotion, and action. Journal of Personality and Social Psychology, 83(6), 1281–1297.",
+      "url": "https://doi.org/10.1037/0022-3514.83.6.1281"
+    },
+    {
+      "id": 4,
+      "text": "Gardner, B., Lally, P., & Wardle, J. (2012). Making health habitual: The psychology of ‘habit-formation’ and general practice. British Journal of General Practice, 62(605), 664–666.",
+      "url": "https://doi.org/10.3399/bjgp12X659466"
+    },
+    {
+      "id": 5,
+      "text": "Gollwitzer, P. M., & Sheeran, P. (2006). Implementation intentions and goal achievement: A meta-analysis of effects and processes. Advances in Experimental Social Psychology, 38, 69–119.",
+      "url": "https://doi.org/10.1016/S0065-2601(06)38002-1"
+    },
+    {
+      "id": 6,
+      "text": "Harkin, B., Webb, T. L., Chang, B. P. I., Prestwich, A., Conner, M., Kellar, I., Benn, Y., & Sheeran, P. (2016). Does monitoring goal progress promote goal attainment? A meta-analysis of the experimental evidence. Psychological Bulletin, 142(2), 198–229.",
+      "url": "https://doi.org/10.1037/bul0000025"
+    }
+  ],
+  "cta_title": "Birinchi odatingizni bugun boshlang",
+  "cta_body": "Dotday'da eslatma bilan kundalik signal belgilaysiz, bir bosishda belgilaysiz va odat mustahkamligi qanday o'sayotganini ko'rasiz — Android'da bepul, akkauntsiz."
+}

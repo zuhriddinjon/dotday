@@ -1,0 +1,115 @@
+{
+  "slug": "prokrastinatsiyadan-qutulish",
+  "meta_title": "Prokrastinatsiyadan qutulish: ilmiy asoslangan 9 usul",
+  "meta_desc": "Ishni ertaga qoldirish dangasalik emas, kayfiyatga bog'liq. Prokrastinatsiyadan qutulishning 9 usuli: «agar–unda» rejasi, kichik qadam, o'zini kechirish.",
+  "h1": "Prokrastinatsiyadan qanday qutulish: his-tuyg'ularingiz bilan ishlaydigan 9 usul",
+  "lead": "Prokrastinatsiyadan qutulishning eng tez yo'li — uni dangasalik deb hisoblashni to'xtatish. Ishni keyinga qoldirish ko'pincha vazifa bilan bog'liq yoqimsiz his-tuyg'ulardan qochish usuli, shuning uchun samarali yechimlar boshlashni kichikroq, xavfsizroq va avtomatikroq qiladi.",
+  "read_min": 7,
+  "published": "2026-10-06",
+  "facts": [
+    {
+      "value": "80%–95%",
+      "label": "talabalar ishni keyinga qoldiradi — yirik sharhda keltirilgan baholarga ko'ra",
+      "src": 1
+    },
+    {
+      "value": "15%–20%",
+      "label": "kattalar surunkali prokrastinatsiyadan aziyat chekadi — o'sha baholarga ko'ra",
+      "src": 1
+    },
+    {
+      "value": "d = 0,65",
+      "label": "«agar–unda» rejalarining maqsadga erishishga ta'siri (94 ta mustaqil sinov bo'yicha)",
+      "src": 5
+    }
+  ],
+  "sections": [
+    {
+      "id": "why-you-procrastinate",
+      "title": "Nega ishni keyinga qoldirasiz (gap dangasalikda emas)",
+      "html": "<p>Prokrastinatsiyadan qanday qutulishni bilmoqchi bo'lsangiz, shundan boshlang: siz, ehtimol, dangasa emassiz. Dangasa odam ishni qilishni xohlamaydi. Prokrastinator esa odatda <em>xohlaydi</em> va ishni ertaga qoldirar ekan, o'zini yomon his qiladi.</p><p>Bunda yolg'iz ham emassiz. <em>Psychological Bulletin</em> jurnalidagi keng iqtibos qilinadigan sharhda keltirilgan baholarga ko'ra, talabalarning 80%–95% i prokrastinatsiyaga moyil, kattalarning taxminan 15%–20% i esa undan surunkali aziyat chekadi.<sup class=\"ref\"><a href=\"#src-1\">1</a></sup> O'sha sharh 691 ta korrelyatsiyani birlashtirib, eng kuchli va izchil omillar vazifaning yoqimsizligi, vazifagacha bo'lgan muddat, o'z kuchiga ishonch va impulsivlik, shuningdek vijdonlilik va uning jihatlari — o'zini tuta bilish va chalg'iyuvchanlik ekanini aniqlagan.<sup class=\"ref\"><a href=\"#src-1\">1</a></sup></p><p>Kalit aynan birinchi omilda. Tadqiqotchilar Fuschia Sirois va Timothy Pychyl prokrastinatsiya «qisqa muddatli kayfiyatni tiklash va his-tuyg'ularni boshqarish bilan chambarchas bog'liq» deb hisoblashadi.<sup class=\"ref\"><a href=\"#src-2\">2</a></sup> Vazifa zerikarli, chalkash yoki qo'rqinchli tuyuladi va siz <em>ayni damda</em> yoqimliroq narsaga qochasiz. Hisobni esa kelajakdagi «siz» to'laydi — u o'sha vazifani kamroq vaqt bilan meros qilib oladi.<sup class=\"ref\"><a href=\"#src-2\">2</a></sup></p><aside class=\"myth\"><b>Afsona</b> Prokrastinatorga ko'proq intizom va o'ziga qattiqroq munosabat kerak. <b>Haqiqat</b> Ishni keyinga qoldirish ko'pincha yomon his-tuyg'ulardan qochish yo'li bo'lgani uchun, aybdorlik hissini kuchaytirish vazifani yanada yoqimsiz qilib qo'yishi mumkin. Quyidagi usullar boshlashni xavfsizroq, kichikroq va avtomatikroq qilish orqali ishlaydi.</aside>"
+    },
+    {
+      "id": "what-it-costs",
+      "title": "Prokrastinatsiya sizga qanchaga tushadi",
+      "html": "<p>Qisqa muddatli yengillikning uzoq muddatli bahosi bor. Kogort tadqiqotida 3 525 nafar shved talabasi kuzatilib, 9 oydan keyin ularning sog'lig'i o'rganilgan.<sup class=\"ref\"><a href=\"#src-3\">3</a></sup> Ko'plab ehtimoliy chalg'ituvchi omillar hisobga olingandan keyin ham, prokrastinatsiyaning yuqoriroq darajasi keyingi tekshiruvda depressiya, xavotir va stress belgilarining ko'pligi, shuningdek yomon uyqu sifati, kam harakatlilik, yolg'izlik va moliyaviy qiyinchiliklar bilan bog'liq bo'lgan.<sup class=\"ref\"><a href=\"#src-3\">3</a></sup></p><p>36 ta kesma tanlanmani (N = 8 603) qamragan 2026-yilgi meta-tahlil shaxsiy xususiyat sifatidagi prokrastinatsiya o'z sog'lig'ini yomonroq baholash bilan bog'liqligini aniqlagan (r<sub>avg</sub> = 0,21); bu bog'liqlik qisman stressning yuqoriroq darajasi bilan tushuntiriladi.<sup class=\"ref\"><a href=\"#src-4\">4</a></sup></p><p>Bular bog'liqliklar, prokrastinatsiya sog'liqni yomonlashtirishining isboti emas. Lekin bu surunkali kechiktirishni ustidan kulib qo'yiladigan g'alati xususiyat emas, balki o'zingizga mehr bilan ishlash kerak bo'lgan narsa deb qarash uchun yaxshi sabab.</p>"
+    },
+    {
+      "id": "techniques-to-start",
+      "title": "Prokrastinatsiyadan qanday qutulish: boshlab olishning 5 usuli",
+      "html": "<p>Prokrastinatsiyaning asosiy qismi dastlabki bir necha daqiqada — boshlash-boshlamaslikni hal qilayotgan paytda yuz beradi. Quyidagi beshta usul aynan shu lahzaga qaratilgan.</p><h3>1. His-tuyg'uni nomlang</h3><p>Brauzerda yana bitta varaq ochishdan oldin o'zingizdan so'rang: aynan nimani his qilishni xohlamayapman? Zerikishnimi, qayerdan boshlashni bilmaslikni yoki yaxshi chiqmasligidan qo'rqishnimi? Uni nomlash noaniq vahimani hal qilsa bo'ladigan aniq muammoga aylantiradi, masalan: «birinchi qadamni bilmayman».</p><h3>2. Birinchi qadamni kichraytiring</h3><p>Birinchi harakatni deyarli kulgili darajada kichik qiling: hujjatni ochib, bitta xunuk gap yozing, krossovkangizni kiying, bitta xatga javob bering, IELTS uchun bitta essay rejasini tuzing. Siz tugatishga emas, faqat boshlashga va'da beryapsiz. Boshlaganingizdan keyin vazifa odatda xayolingizdagidek og'ir tuyulmaydi.</p><h3>3. «Agar–unda» rejasini yozing</h3><p><em>Amalga oshirish niyati</em> (implementation intention) qachon, qayerda va qanday harakat qilishingizni aniq belgilaydi: «Agar soat 9:00 bo'lsa va choyimni quyib olgan bo'lsam, unda hisobotni ochib, birinchi xatboshini yozaman». 94 ta mustaqil sinovni qamragan meta-tahlil amalga oshirish niyatlari maqsadga erishishga o'rtacha va katta oralig'idagi ijobiy ta'sir ko'rsatishini aniqlagan (d = 0,65).<sup class=\"ref\"><a href=\"#src-5\">5</a></sup> Ular odamlarga maqsad sari harakatni boshlashga va boshlangan ishni chalg'ituvchi ta'sirlardan himoya qilishga yordam bergan — prokrastinatorlar aynan shu joyda qiynaladi.<sup class=\"ref\"><a href=\"#src-5\">5</a></sup></p><h3>4. To'siqni olib tashlang (chalg'ituvchilarga esa qo'shing)</h3><p>To'g'ri harakatni eng oson harakatga aylantiring. Kitobni stolda ochiq qoldiring, faylni bosh ekranga chiqaring, sport sumkasini kechqurundan tayyorlab qo'ying. Keyin qochish yo'llariga to'siq qo'ying: telefonni boshqa xonaga olib chiqing, lentadan chiqib keting, keraksiz varaqlarning hammasini yoping.</p><h3>5. Kalendarga kiriting</h3><p>«Shu hafta qachondir» — keyinga qoldirishga ochiq taklif. Vazifaga aniq vaqt va davomiylik bering, masalan, seshanba soat 10:00 da 25 daqiqa. Belgilangan vaqt — tayyor «agar–unda» rejasi: vaqtning o'zi signalga aylanadi.</p><aside class=\"note\"><b>Dotday'da</b> «Agar–unda» rejangizni o'zingiz tanlagan aniq vaqtga eslatmasi bor odatga aylantiring. Bildirishnoma kelganda <b>Bajarildi</b> yoki <b>10 daqiqadan keyin</b> tugmasini bosishingiz mumkin, Taymer turidagi odat esa jonli bildirishnoma bilan qisqa diqqatli sessiya o'tkazishga imkon beradi.</aside>"
+    },
+    {
+      "id": "techniques-to-keep-going",
+      "title": "Qoqilgandan keyin davom etishning 4 usuli",
+      "html": "<p>Bir marta boshlash yaxshi. Lekin vaziyatni o'zgartiradigan narsa — eski girdobga qaytib tushmaslik.</p><h3>6. Kechagi kun uchun o'zingizni kechiring</h3><p>Bu yumshoq maslahatdek eshitiladi, lekin uning ortida dalil bor. Ikki bosqich oraliq imtihonlari oldidan tekshirilgan birinchi kurs talabalari ishtirokidagi tadqiqotda birinchi imtihon oldidan prokrastinatsiya qilgani uchun o'zini kechirganlar keyingisi oldidan kamroq kechiktirishgan.<sup class=\"ref\"><a href=\"#src-6\">6</a></sup> Ta'sir kayfiyat orqali o'tgan: o'zini kechirish salbiy his-tuyg'ularning kamligi bilan, bu esa o'z navbatida kamroq kechiktirish bilan bog'liq bo'lgan.<sup class=\"ref\"><a href=\"#src-6\">6</a></sup> Bu bitta talabalar guruhida o'tkazilgan korrelyatsion tadqiqot ekanini yodda tuting, lekin u kayfiyatni tiklash manzarasiga mos keladi: agar siz aybdorlik hissidan qochayotgan bo'lsangiz, uni kamaytirish yordam beradi.</p><h3>7. Aslida nima qilganingizni belgilab boring</h3><p>O'z natijangizni ko'rib turish vazifaning ko'zdan g'oyib bo'lishiga yo'l qo'ymaydi. 138 ta tadqiqot (N = 19 951) bo'yicha meta-tahlil natijani kuzatishni kuchaytirgan dasturlar maqsadga erishishga yordam berganini (d+ = 0,40), ma'lumot yozib qayd etilganda esa ta'sir kattaroq bo'lganini aniqlagan.<sup class=\"ref\"><a href=\"#src-7\">7</a></sup> Oddiy kundalik belgi ham hisobga kiradi.</p><h3>8. Kelajakdagi «siz»ni jonli tasavvur qiling</h3><p>Prokrastinatsiya kelajakdagi «siz»ning farovonligini hozirgi yengillikka almashtiradi.<sup class=\"ref\"><a href=\"#src-2\">2</a></sup> Ishni keyinga qoldirishdan oldin ertangi kechqurunni aniq tasavvur qiling: o'sha vazifa, kamroq vaqt, ko'proq stress. Keyin bugungi siz o'sha odamga yaxshilik qilib qanday kichik qadam qo'yishi mumkinligini o'ylang.</p><h3>9. Surunkali bo'lsa, tizimli yordam oling</h3><p>Agar kechiktirish jiddiy iztirob keltirayotgan bo'lsa, tizimli yordam ishlaydi. 150 nafar ishtirokchi qatnashgan randomizatsiyalangan nazorat ostidagi tadqiqotda internet orqali o'tkaziladigan kognitiv-xulq terapiyasi kutish ro'yxatidagilarga nisbatan prokrastinatsiyani kamaytirgan; mutaxassis yo'naltirgan va mustaqil dasturlarning ikkalasida ham o'rtacha ta'sir kattaligi kuzatilgan (masalan, Pure Procrastination Scale bo'yicha Cohen d = 0,70 va d = 0,50).<sup class=\"ref\"><a href=\"#src-8\">8</a></sup> Formatlarning birortasi ikkinchisidan ustun bo'lmagan.<sup class=\"ref\"><a href=\"#src-8\">8</a></sup> Agar prokrastinatsiya doimiy tushkun kayfiyat yoki xavotir bilan birga kelsa, psixoterapevtga yoki KXT asosidagi dasturga murojaat qilishni o'ylab ko'ring.</p><aside class=\"note\"><b>Dotday'da</b> Bir kun o'tkazib yuborish erishganlaringizni yo'qqa chiqarmaydi: kunni dam olish kuni sifatida o'tkazib yuborishingiz yoki seriyani muzlatishdan foydalanishingiz mumkin, odat mustahkamligi esa nolga tushmay, asta-sekin kamayadi. Bu kuzatuvchiga o'rnatilgan o'zini kechirish.</aside>"
+    },
+    {
+      "id": "do-this-today",
+      "title": "Bugunoq shuni qiling: 10 daqiqalik reja",
+      "html": "<ol><li><b>Bitta vazifani tanlang</b> — ancha vaqtdan beri qochib yurganingizni. Faqat bittasini.</li><li><b>Kechiktirish ortidagi his-tuyg'uni</b> bir necha so'z bilan nomlang.</li><li><b>Eng kichik birinchi qadamni yozing</b> — 2–5 daqiqada tugatsa bo'ladigan narsani.</li><li><b>«Agar–unda» rejasini yozing</b>: «Agar soat [vaqt] bo'lsa va men [joy]da bo'lsam, unda [birinchi qadam]ni bajaraman».</li><li><b>O'sha vaqt uchun bitta chalg'ituvchini olib tashlang</b>: telefon boshqa xonada, lenta yopiq.</li><li><b>Qadamni bajaring</b> va belgilab qo'ying. Qoqilsangiz, o'zingizni kechiring va keyingi «agar–unda» rejasini tuzing.</li></ol><aside class=\"tip\"><b>Maslahat</b> Ish hali oson ketayotgan paytda to'xtang. Sessiyani gapning yoki qadamning o'rtasida tugatsangiz, keyingi safar qayerdan, qanday oson qaytishni aniq bilasiz.</aside>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Prokrastinatsiya dangasalik bilan bir narsami?",
+      "a": "Yo'q. Dangasalik harakat qilishni xohlamaslik, prokrastinator esa odatda harakat qilish niyatida bo'ladi va kechiktirgani uchun o'zini yomon his qiladi. Tadqiqotlar prokrastinatsiyani qisqa muddatli kayfiyatni tiklash bilan chambarchas bog'liq o'zini boshqarishdagi uzilish deb ta'riflaydi."
+    },
+    {
+      "q": "Hozirning o'zida ishni keyinga qoldirishni to'xtatishning eng tez yo'li qanday?",
+      "a": "Vazifani bir necha daqiqada tugatsa bo'ladigan birinchi qadamgacha kichraytiring, eng yaqin chalg'ituvchini olib tashlang va qisqa vaqtli sessiyani boshlang. Boshlash odatda vahima ko'rsatgandan osonroq bo'ladi."
+    },
+    {
+      "q": "O'zimga qattiqqo'l bo'lsam, kamroq kechiktiramanmi?",
+      "a": "Dalillar buning teskarisini ko'rsatadi. Talabalar ishtirokidagi tadqiqotda bitta imtihon oldidan prokrastinatsiya qilgani uchun o'zini kechirganlar keyingisi oldidan kamroq kechiktirishgan — qisman salbiy his-tuyg'ulari kamroq bo'lgani uchun."
+    },
+    {
+      "q": "Prokrastinatsiya bo'yicha qachon mutaxassisga murojaat qilish kerak?",
+      "a": "Agar prokrastinatsiya doimiy iztirob keltirayotgan yoki uzoq davom etadigan tushkun kayfiyat yoki xavotir bilan birga kelayotgan bo'lsa, mutaxassis bilan gaplashing. Kognitiv-xulq terapiyasi, jumladan internet orqali o'tkaziladigan dasturlar, randomizatsiyalangan tadqiqotda prokrastinatsiyani kamaytirgan."
+    }
+  ],
+  "sources": [
+    {
+      "id": 1,
+      "text": "Steel, P. (2007). The nature of procrastination: A meta-analytic and theoretical review of quintessential self-regulatory failure. Psychological Bulletin, 133(1), 65–94.",
+      "url": "https://doi.org/10.1037/0033-2909.133.1.65"
+    },
+    {
+      "id": 2,
+      "text": "Sirois, F., & Pychyl, T. (2013). Procrastination and the priority of short-term mood regulation: Consequences for future self. Social and Personality Psychology Compass, 7(2), 115–127.",
+      "url": "https://doi.org/10.1111/spc3.12011"
+    },
+    {
+      "id": 3,
+      "text": "Johansson, F., Rozental, A., Edlund, K., Côté, P., Sundberg, T., Onell, C., Rudman, A., & Skillgate, E. (2023). Associations between procrastination and subsequent health outcomes among university students in Sweden. JAMA Network Open, 6(1), e2249346.",
+      "url": "https://doi.org/10.1001/jamanetworkopen.2022.49346"
+    },
+    {
+      "id": 4,
+      "text": "Sirois, F. M., & Monaghan, C. (2026). Procrastination, stress, and self-rated health: A multi-sample meta-analysis. British Journal of Health Psychology, 31(3), e70099.",
+      "url": "https://doi.org/10.1111/bjhp.70099"
+    },
+    {
+      "id": 5,
+      "text": "Gollwitzer, P. M., & Sheeran, P. (2006). Implementation intentions and goal achievement: A meta-analysis of effects and processes. Advances in Experimental Social Psychology, 38, 69–119.",
+      "url": "https://doi.org/10.1016/S0065-2601(06)38002-1"
+    },
+    {
+      "id": 6,
+      "text": "Wohl, M. J. A., Pychyl, T. A., & Bennett, S. H. (2010). I forgive myself, now I can study: How self-forgiveness for procrastinating can reduce future procrastination. Personality and Individual Differences, 48(7), 803–808.",
+      "url": "https://doi.org/10.1016/j.paid.2010.01.029"
+    },
+    {
+      "id": 7,
+      "text": "Harkin, B., Webb, T. L., Chang, B. P., Prestwich, A., Conner, M., Kellar, I., Benn, Y., & Sheeran, P. (2016). Does monitoring goal progress promote goal attainment? A meta-analysis of the experimental evidence. Psychological Bulletin, 142(2), 198–229.",
+      "url": "https://doi.org/10.1037/bul0000025"
+    },
+    {
+      "id": 8,
+      "text": "Rozental, A., Forsell, E., Svensson, A., Andersson, G., & Carlbring, P. (2015). Internet-based cognitive-behavior therapy for procrastination: A randomized controlled trial. Journal of Consulting and Clinical Psychology, 83(4), 808–824.",
+      "url": "https://doi.org/10.1037/ccp0000023"
+    }
+  ],
+  "cta_title": "Boshlashni eng oson qismga aylantiring",
+  "cta_body": "Dotday — eslatmalar, bir bosishda belgilash va kechirimli seriyalarga ega bepul Android odat kuzatuvchi: qoqilish — boshidan boshlash emas, shunchaki tanaffus."
+}

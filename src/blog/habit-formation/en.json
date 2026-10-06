@@ -1,0 +1,110 @@
+{
+  "slug": "how-to-build-a-habit",
+  "meta_title": "How to Build a Habit: A 7-Step, Evidence-Based Method",
+  "meta_desc": "How to build a habit that sticks: 7 practical steps backed by research, how long it really takes (median 66 days), and what to do when you miss a day.",
+  "h1": "How to build a habit: a 7-step method backed by research",
+  "lead": "Building a habit means repeating one small action after the same daily cue until it runs on autopilot. Here is how to form a new habit step by step, and how long it realistically takes.",
+  "read_min": 7,
+  "published": "2026-10-06",
+  "facts": [
+    {
+      "value": "66 days",
+      "label": "median time to reach 95% of maximum automaticity in a real-world study",
+      "src": 2
+    },
+    {
+      "value": "18–254 days",
+      "label": "range between individuals in the same study",
+      "src": 1
+    },
+    {
+      "value": "d = .65",
+      "label": "effect of if-then plans on goal attainment across 94 tests",
+      "src": 5
+    }
+  ],
+  "sections": [
+    {
+      "id": "short-answer",
+      "title": "How to build a habit: the short answer",
+      "html": "<p>To build a habit, pick one small behaviour, tie it to a cue you meet every day, and repeat it in that same situation until it starts to feel automatic. That is the core advice habit researchers give: repeat a chosen behaviour in the same context until it becomes automatic and effortless.<sup class=\"ref\"><a href=\"#src-4\">4</a></sup></p><p>Motivation gets you started, but it fades. Repetition in a stable context is what shifts the work from willpower to autopilot. The seven steps below turn that idea into a plan you can start today.</p>"
+    },
+    {
+      "id": "why-habits-matter",
+      "title": "Why habits are worth the effort",
+      "html": "<p>A habit, in psychology, is an action triggered automatically by a cue that has been linked to it, such as a time, a place or a previous action.<sup class=\"ref\"><a href=\"#src-4\">4</a></sup> Once a behaviour reaches that point, you no longer have to decide to do it.</p><p>Habits already run a large part of the day. In two hourly diary studies with university students, between a third and a half of the behaviours people listed were habits: 35% in the first study and 43% in the second.<sup class=\"ref\"><a href=\"#src-3\">3</a></sup> While doing habitual actions, participants usually thought about other things, and they reported less stress than during non-habitual actions.<sup class=\"ref\"><a href=\"#src-3\">3</a></sup></p><p>That is the payoff: a new behaviour that eventually costs almost no mental effort.</p>"
+    },
+    {
+      "id": "how-long",
+      "title": "How long it really takes to form a habit",
+      "html": "<p>The best-known study followed 96 volunteers who each picked an eating, drinking or activity behaviour and did it daily in the same context for 12 weeks.<sup class=\"ref\"><a href=\"#src-1\">1</a></sup> Among participants whose data could be modelled, the median time to reach 95% of their maximum automaticity was 66 days, with a range of 18 to 254 days.<sup class=\"ref\"><a href=\"#src-1\">1</a></sup><sup class=\"ref\"><a href=\"#src-2\">2</a></sup></p><p>A 2024 systematic review of 20 studies with 2,601 participants found a similar picture: median times of 59–66 days, mean times of 106–154 days, and large individual differences (4–335 days).<sup class=\"ref\"><a href=\"#src-2\">2</a></sup> Its conclusion: habits can start forming within about two months, but the time varies a lot between people.<sup class=\"ref\"><a href=\"#src-2\">2</a></sup></p><aside class=\"myth\"><b>Myth</b> It takes 21 days to form a habit. <b>Fact</b> The 21-day figure appears to come from anecdotal reports about plastic surgery patients getting used to their new appearance, not from habit research.<sup class=\"ref\"><a href=\"#src-4\">4</a></sup> Researchers suggest expecting around 10 weeks of daily repetition instead.</aside><p>Simple actions also tend to become automatic faster: automaticity peaked more quickly for actions like drinking water than for more elaborate routines like doing 50 sit-ups.<sup class=\"ref\"><a href=\"#src-4\">4</a></sup></p>"
+    },
+    {
+      "id": "seven-steps",
+      "title": "The 7-step method to form a new habit",
+      "html": "<h3>1. Choose one small habit you actually want</h3><p>Start with a single, concrete action, such as “drink a glass of water” rather than “be healthier”. The 2024 review found that habits people chose for themselves tended to show greater habit strength.<sup class=\"ref\"><a href=\"#src-2\">2</a></sup> Small and simple beats big and impressive.</p><h3>2. Anchor it to a cue you meet every day</h3><p>Pick a time and place, or an existing routine, that happens every day, and do the new action right after it.<sup class=\"ref\"><a href=\"#src-4\">4</a></sup> In one study included in the review, a fixed clock time (9:00 a.m.) and a routine cue (after breakfast) worked about equally well.<sup class=\"ref\"><a href=\"#src-2\">2</a></sup></p><h3>3. Write an if-then plan</h3><p>Turn the cue into a sentence: “If it is after breakfast, then I will do 10 squats.” This kind of plan is called an implementation intention. A meta-analysis of 94 independent tests found it had a medium-to-large effect on reaching goals (d = .65).<sup class=\"ref\"><a href=\"#src-5\">5</a></sup></p><h3>4. Keep the context stable</h3><p>Do the habit in the same situation each time. People who performed a behaviour consistently in the same context developed stronger habits.<sup class=\"ref\"><a href=\"#src-2\">2</a></sup> The first repetitions bring the biggest gains in automaticity, so the early weeks matter most.<sup class=\"ref\"><a href=\"#src-2\">2</a></sup></p><h3>5. Consider doing it in the morning</h3><p>In one study of daily stretching, the habit formed faster in the morning (mean 106 days) than in the evening (mean 154 days).<sup class=\"ref\"><a href=\"#src-2\">2</a></sup> That is a single study, so treat it as a useful hint rather than a rule. If mornings are chaotic for you, a stable evening cue is better than an unstable morning one.</p><h3>6. Track your progress where you can see it</h3><p>A meta-analysis of 138 randomised studies (19,951 participants) found that interventions that increased progress monitoring also improved goal attainment (d = 0.40).<sup class=\"ref\"><a href=\"#src-6\">6</a></sup> The effect was larger when progress was physically recorded and when it was reported to others or made public.<sup class=\"ref\"><a href=\"#src-6\">6</a></sup></p><aside class=\"note\"><b>In Dotday</b> Put the habit in the Morning, Afternoon or Evening group so it sits next to its cue, add a reminder at the cue time, and check it off with one tap from the Today widget on your home screen.</aside><h3>7. Plan for missed days and be patient</h3><p>Missing one opportunity did not materially affect the habit formation process in the 2010 study.<sup class=\"ref\"><a href=\"#src-1\">1</a></sup> What matters is getting back to it the next day. Expect it to take weeks to months, and judge your progress by how automatic the habit feels, not by a calendar date.</p>"
+    },
+    {
+      "id": "missed-days",
+      "title": "What to do when you miss a day",
+      "html": "<p>One missed day is normal, and the research suggests it does not reset your progress.<sup class=\"ref\"><a href=\"#src-1\">1</a></sup><sup class=\"ref\"><a href=\"#src-4\">4</a></sup> The real risk is letting one miss turn into a week.</p><ul><li>Do the habit at the next cue, even in a tiny version.</li><li>Ask what got in the way and adjust the cue or the size of the habit.</li><li>Do not add “make-up” sessions; just return to the normal plan.</li></ul><aside class=\"note\"><b>In Dotday</b> Streaks are forgiving: you can skip a day or use a streak freeze, and habit strength drops only gently after a miss, so one bad day doesn't erase weeks of work.</aside>"
+    },
+    {
+      "id": "do-this-today",
+      "title": "Do this today",
+      "html": "<ol><li>Pick one habit you want, and shrink it until it takes under two minutes.</li><li>Choose a daily cue: a time, a place or something you already do.</li><li>Write your plan: “If/After [cue], then I will [habit].”</li><li>Set a reminder for the cue time and choose how you will record each day.</li><li>Do it once today, then tick it off.</li></ol><aside class=\"tip\"><b>Tip</b> Hold off on adding a second habit until the first feels fairly automatic. Starting with one keeps the cue, the plan and the tracking simple.</aside>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "How long does it take to build a habit?",
+      "a": "In a well-known study the median time to reach near-maximum automaticity was 66 days, but individuals ranged from 18 to 254 days. A 2024 systematic review concluded that habits can start forming within about two months, with large differences between people."
+    },
+    {
+      "q": "Does missing one day ruin a new habit?",
+      "a": "No. In the 2010 study, missing one opportunity did not materially affect the habit formation process. Get back to it at the next cue."
+    },
+    {
+      "q": "Is it true that habits take 21 days?",
+      "a": "There is no good evidence for that. The 21-day figure seems to come from anecdotes about plastic surgery patients, while habit studies point to around two months or more."
+    },
+    {
+      "q": "How many habits should I start at once?",
+      "a": "Starting with one small habit keeps the cue, plan and tracking simple. Add the next one when the first feels fairly automatic."
+    }
+  ],
+  "sources": [
+    {
+      "id": 1,
+      "text": "Lally, P., van Jaarsveld, C. H. M., Potts, H. W. W., & Wardle, J. (2010). How are habits formed: Modelling habit formation in the real world. European Journal of Social Psychology, 40(6), 998–1009.",
+      "url": "https://doi.org/10.1002/ejsp.674"
+    },
+    {
+      "id": 2,
+      "text": "Singh, B., Murphy, A., Maher, C., & Smith, A. E. (2024). Time to form a habit: A systematic review and meta-analysis of health behaviour habit formation and its determinants. Healthcare, 12(23), 2488.",
+      "url": "https://doi.org/10.3390/healthcare12232488"
+    },
+    {
+      "id": 3,
+      "text": "Wood, W., Quinn, J. M., & Kashy, D. A. (2002). Habits in everyday life: Thought, emotion, and action. Journal of Personality and Social Psychology, 83(6), 1281–1297.",
+      "url": "https://doi.org/10.1037/0022-3514.83.6.1281"
+    },
+    {
+      "id": 4,
+      "text": "Gardner, B., Lally, P., & Wardle, J. (2012). Making health habitual: The psychology of ‘habit-formation’ and general practice. British Journal of General Practice, 62(605), 664–666.",
+      "url": "https://doi.org/10.3399/bjgp12X659466"
+    },
+    {
+      "id": 5,
+      "text": "Gollwitzer, P. M., & Sheeran, P. (2006). Implementation intentions and goal achievement: A meta-analysis of effects and processes. Advances in Experimental Social Psychology, 38, 69–119.",
+      "url": "https://doi.org/10.1016/S0065-2601(06)38002-1"
+    },
+    {
+      "id": 6,
+      "text": "Harkin, B., Webb, T. L., Chang, B. P. I., Prestwich, A., Conner, M., Kellar, I., Benn, Y., & Sheeran, P. (2016). Does monitoring goal progress promote goal attainment? A meta-analysis of the experimental evidence. Psychological Bulletin, 142(2), 198–229.",
+      "url": "https://doi.org/10.1037/bul0000025"
+    }
+  ],
+  "cta_title": "Start your first habit today",
+  "cta_body": "Dotday lets you set a daily cue with reminders, check in with one tap and watch habit strength grow, free on Android with no account needed."
+}

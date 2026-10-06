@@ -9,6 +9,8 @@ Landing va yo'riqnoma HTML'i qo'lda tahrirlanmaydi — `src/` dan generatsiya qi
 
 - `src/i18n/<til>.json` — landing matnlari (`en.json` — namuna, kalitlar hamma tilda bir xil bo'lishi shart)
 - `src/guide/<til>.json` — yo'riqnoma; yangi til qo'shish uchun fayl qo'shing
+- `src/blog/<mavzu>/<til>.json` — blog maqolalari; `en.json` asosiy nusxa, tarjimalarda manbalar, bo'limlar, faktlar va manba havolalari `en.json` bilan bir xil bo'lishi shart (build tekshiradi). Har bir raqam ko'rib chiqilgan manbadan bo'lishi kerak
+- `src/blog/ui.json` — blog interfeysi matnlari (13 til)
 - `src/captions.json` — skrinshot sarlavhalari (ilova reposidagi `store/captions.json` dan)
 - `assets/style.css`, `assets/site.js` — dizayn va mavzu/til almashtirish
 

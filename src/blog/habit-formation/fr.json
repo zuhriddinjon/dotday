@@ -1,0 +1,110 @@
+{
+  "slug": "creer-une-habitude",
+  "meta_title": "Créer une habitude : 7 étapes validées par la science",
+  "meta_desc": "Comment créer une habitude qui tient : 7 étapes fondées sur la recherche, le temps qu'il faut (66 jours en médiane) et que faire si tu rates un jour.",
+  "h1": "Comment créer une habitude : une méthode en 7 étapes fondée sur la recherche",
+  "lead": "Créer une habitude, c'est répéter une petite action après le même signal quotidien jusqu'à ce qu'elle devienne automatique. Voici comment prendre une nouvelle habitude étape par étape, et combien de temps cela prend vraiment.",
+  "read_min": 7,
+  "published": "2026-10-06",
+  "facts": [
+    {
+      "value": "66 jours",
+      "label": "temps médian pour atteindre 95 % de l'automaticité maximale dans une étude en conditions réelles",
+      "src": 2
+    },
+    {
+      "value": "18 à 254 jours",
+      "label": "écart entre les participants de cette même étude",
+      "src": 1
+    },
+    {
+      "value": "d = 0,65",
+      "label": "effet des plans « si… alors » sur l'atteinte des objectifs, sur 94 tests",
+      "src": 5
+    }
+  ],
+  "sections": [
+    {
+      "id": "short-answer",
+      "title": "Comment créer une habitude : la réponse courte",
+      "html": "<p>Pour créer une habitude, choisis un petit comportement, associe-le à un signal que tu rencontres chaque jour et répète-le dans cette même situation jusqu'à ce qu'il te paraisse automatique. C'est l'essentiel du conseil des chercheurs sur les habitudes : répéter un comportement choisi dans le même contexte jusqu'à ce qu'il devienne automatique et sans effort.<sup class=\"ref\"><a href=\"#src-4\">4</a></sup></p><p>La motivation te lance, mais elle s'essouffle. C'est la répétition dans un contexte stable qui fait passer le travail de la volonté au pilote automatique. Les sept étapes ci-dessous transforment cette idée en un plan que tu peux commencer dès aujourd'hui.</p>"
+    },
+    {
+      "id": "why-habits-matter",
+      "title": "Pourquoi les habitudes valent l'effort",
+      "html": "<p>En psychologie, une habitude est une action déclenchée automatiquement par un signal qui lui est associé, comme une heure, un lieu ou une action précédente.<sup class=\"ref\"><a href=\"#src-4\">4</a></sup> Une fois ce stade atteint, tu n'as plus besoin de décider de la faire.</p><p>Les habitudes occupent déjà une bonne partie de ta journée. Dans deux études avec journal de bord heure par heure menées auprès d'étudiants, entre un tiers et la moitié des comportements notés étaient des habitudes : 35 % dans la première étude et 43 % dans la seconde.<sup class=\"ref\"><a href=\"#src-3\">3</a></sup> Pendant ces actions habituelles, les participants pensaient le plus souvent à autre chose et se disaient moins stressés que pendant les actions non habituelles.<sup class=\"ref\"><a href=\"#src-3\">3</a></sup></p><p>Voilà la récompense : un nouveau comportement qui finit par ne presque plus demander d'effort mental.</p>"
+    },
+    {
+      "id": "how-long",
+      "title": "Combien de temps faut-il vraiment pour créer une habitude ?",
+      "html": "<p>L'étude la plus connue a suivi 96 volontaires qui ont chacun choisi un comportement lié à l'alimentation, à la boisson ou à l'activité physique, à pratiquer chaque jour dans le même contexte pendant 12 semaines.<sup class=\"ref\"><a href=\"#src-1\">1</a></sup> Chez les participants dont les données ont pu être modélisées, le temps médian pour atteindre 95 % de leur automaticité maximale était de 66 jours, avec un écart allant de 18 à 254 jours.<sup class=\"ref\"><a href=\"#src-1\">1</a></sup><sup class=\"ref\"><a href=\"#src-2\">2</a></sup></p><p>Une revue systématique de 2024 portant sur 20 études et 2 601 participants dresse un tableau similaire : des durées médianes de 59 à 66 jours, des moyennes de 106 à 154 jours et de grandes différences individuelles (4 à 335 jours).<sup class=\"ref\"><a href=\"#src-2\">2</a></sup> Sa conclusion : une habitude peut commencer à se former en deux mois environ, mais la durée varie beaucoup d'une personne à l'autre.<sup class=\"ref\"><a href=\"#src-2\">2</a></sup></p><aside class=\"myth\"><b>Mythe</b> Il faut 21 jours pour prendre une habitude. <b>Réalité</b> Le chiffre de 21 jours semble venir de récits anecdotiques sur des patients de chirurgie esthétique qui s'habituaient à leur nouvelle apparence, pas de la recherche sur les habitudes.<sup class=\"ref\"><a href=\"#src-4\">4</a></sup> Les chercheurs suggèrent plutôt de compter environ 10 semaines de répétition quotidienne.</aside><p>Les actions simples deviennent aussi automatiques plus vite : l'automaticité culminait plus rapidement pour des gestes comme boire de l'eau que pour des routines plus exigeantes comme faire 50 abdominaux.<sup class=\"ref\"><a href=\"#src-4\">4</a></sup></p>"
+    },
+    {
+      "id": "seven-steps",
+      "title": "La méthode en 7 étapes pour prendre une nouvelle habitude",
+      "html": "<h3>1. Choisis une petite habitude que tu veux vraiment</h3><p>Commence par une seule action concrète, comme « boire un verre d'eau » plutôt que « être en meilleure santé ». La revue de 2024 a constaté que les habitudes choisies par les personnes elles-mêmes tendaient à être plus solides.<sup class=\"ref\"><a href=\"#src-2\">2</a></sup> Petit et simple vaut mieux que grand et impressionnant.</p><h3>2. Accroche-la à un signal quotidien</h3><p>Choisis une heure et un lieu, ou une routine existante, qui revient chaque jour, et fais la nouvelle action juste après.<sup class=\"ref\"><a href=\"#src-4\">4</a></sup> Dans une étude incluse dans la revue, une heure fixe (9 h) et un signal lié à une routine (après le petit-déjeuner) ont donné des résultats à peu près équivalents.<sup class=\"ref\"><a href=\"#src-2\">2</a></sup></p><h3>3. Écris un plan « si… alors »</h3><p>Transforme le signal en phrase : « Si j'ai fini mon petit-déjeuner, alors je fais 10 squats. » Ce type de plan s'appelle une intention de mise en œuvre. Une méta-analyse de 94 tests indépendants a trouvé un effet moyen à fort sur l'atteinte des objectifs (d = 0,65).<sup class=\"ref\"><a href=\"#src-5\">5</a></sup></p><h3>4. Garde un contexte stable</h3><p>Pratique l'habitude dans la même situation à chaque fois. Les personnes qui répétaient un comportement de façon régulière dans le même contexte développaient des habitudes plus solides.<sup class=\"ref\"><a href=\"#src-2\">2</a></sup> Ce sont les premières répétitions qui font le plus progresser l'automaticité : les premières semaines comptent donc le plus.<sup class=\"ref\"><a href=\"#src-2\">2</a></sup></p><h3>5. Pense au matin</h3><p>Dans une étude sur les étirements quotidiens, l'habitude s'est formée plus vite le matin (106 jours en moyenne) que le soir (154 jours en moyenne).<sup class=\"ref\"><a href=\"#src-2\">2</a></sup> Il s'agit d'une seule étude : vois-la comme une piste utile plutôt qu'une règle. Si tes matins sont chaotiques, un signal stable le soir vaut mieux qu'un signal instable le matin.</p><h3>6. Suis tes progrès là où tu les vois</h3><p>Une méta-analyse de 138 études randomisées (19 951 participants) a montré que les interventions qui augmentaient le suivi des progrès amélioraient aussi l'atteinte des objectifs (d = 0,40).<sup class=\"ref\"><a href=\"#src-6\">6</a></sup> L'effet était plus fort quand les progrès étaient notés concrètement et quand ils étaient communiqués à d'autres ou rendus publics.<sup class=\"ref\"><a href=\"#src-6\">6</a></sup></p><aside class=\"note\"><b>Dans Dotday</b> Range l'habitude dans le groupe Matin, Après-midi ou Soir pour qu'elle soit à côté de son signal, ajoute un rappel à l'heure du signal et valide-la d'un geste depuis le widget Aujourd'hui sur ton écran d'accueil.</aside><h3>7. Prévois les jours ratés et sois patient</h3><p>Dans l'étude de 2010, manquer une occasion n'a pas eu d'effet notable sur la formation de l'habitude.<sup class=\"ref\"><a href=\"#src-1\">1</a></sup> Ce qui compte, c'est de reprendre le lendemain. Attends-toi à des semaines, voire des mois, et juge tes progrès à quel point l'habitude te semble automatique, pas à une date sur le calendrier.</p>"
+    },
+    {
+      "id": "missed-days",
+      "title": "Que faire quand tu rates un jour",
+      "html": "<p>Rater un jour, c'est normal, et la recherche suggère que cela ne remet pas tes progrès à zéro.<sup class=\"ref\"><a href=\"#src-1\">1</a></sup><sup class=\"ref\"><a href=\"#src-4\">4</a></sup> Le vrai risque, c'est qu'un oubli se transforme en une semaine d'abandon.</p><ul><li>Fais l'habitude au prochain signal, même en version minuscule.</li><li>Demande-toi ce qui t'a bloqué et ajuste le signal ou la taille de l'habitude.</li><li>N'ajoute pas de séances de « rattrapage » : reviens simplement au plan habituel.</li></ul><aside class=\"note\"><b>Dans Dotday</b> Les séries sont bienveillantes : tu peux sauter un jour ou utiliser un gel de série, et l'indice de solidité ne baisse que doucement après un oubli. Une mauvaise journée n'efface donc pas des semaines d'efforts.</aside>"
+    },
+    {
+      "id": "do-this-today",
+      "title": "À faire dès aujourd'hui",
+      "html": "<ol><li>Choisis une habitude que tu veux vraiment, et réduis-la jusqu'à ce qu'elle prenne moins de deux minutes.</li><li>Choisis un signal quotidien : une heure, un lieu ou quelque chose que tu fais déjà.</li><li>Écris ton plan : « Si/Après [signal], alors je [habitude]. »</li><li>Programme un rappel à l'heure du signal et décide comment tu vas noter chaque jour.</li><li>Fais-le une fois aujourd'hui, puis coche-le.</li></ol><aside class=\"tip\"><b>Astuce</b> Attends que la première habitude soit assez automatique avant d'en ajouter une deuxième. Commencer par une seule garde le signal, le plan et le suivi simples.</aside>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Combien de temps faut-il pour créer une habitude ?",
+      "a": "Dans une étude célèbre, le temps médian pour atteindre une automaticité presque maximale était de 66 jours, mais selon les personnes cela allait de 18 à 254 jours. Une revue systématique de 2024 conclut qu'une habitude peut commencer à se former en deux mois environ, avec de grandes différences entre les individus."
+    },
+    {
+      "q": "Rater un jour gâche-t-il une nouvelle habitude ?",
+      "a": "Non. Dans l'étude de 2010, manquer une occasion n'a pas eu d'effet notable sur la formation de l'habitude. Reprends simplement au prochain signal."
+    },
+    {
+      "q": "Est-ce vrai qu'il faut 21 jours pour prendre une habitude ?",
+      "a": "Aucune preuve solide ne le montre. Le chiffre de 21 jours semble venir d'anecdotes sur des patients de chirurgie esthétique, alors que les études sur les habitudes indiquent plutôt deux mois ou plus."
+    },
+    {
+      "q": "Combien d'habitudes commencer en même temps ?",
+      "a": "Commencer par une seule petite habitude garde le signal, le plan et le suivi simples. Ajoute la suivante quand la première te semble assez automatique."
+    }
+  ],
+  "sources": [
+    {
+      "id": 1,
+      "text": "Lally, P., van Jaarsveld, C. H. M., Potts, H. W. W., & Wardle, J. (2010). How are habits formed: Modelling habit formation in the real world. European Journal of Social Psychology, 40(6), 998–1009.",
+      "url": "https://doi.org/10.1002/ejsp.674"
+    },
+    {
+      "id": 2,
+      "text": "Singh, B., Murphy, A., Maher, C., & Smith, A. E. (2024). Time to form a habit: A systematic review and meta-analysis of health behaviour habit formation and its determinants. Healthcare, 12(23), 2488.",
+      "url": "https://doi.org/10.3390/healthcare12232488"
+    },
+    {
+      "id": 3,
+      "text": "Wood, W., Quinn, J. M., & Kashy, D. A. (2002). Habits in everyday life: Thought, emotion, and action. Journal of Personality and Social Psychology, 83(6), 1281–1297.",
+      "url": "https://doi.org/10.1037/0022-3514.83.6.1281"
+    },
+    {
+      "id": 4,
+      "text": "Gardner, B., Lally, P., & Wardle, J. (2012). Making health habitual: The psychology of ‘habit-formation’ and general practice. British Journal of General Practice, 62(605), 664–666.",
+      "url": "https://doi.org/10.3399/bjgp12X659466"
+    },
+    {
+      "id": 5,
+      "text": "Gollwitzer, P. M., & Sheeran, P. (2006). Implementation intentions and goal achievement: A meta-analysis of effects and processes. Advances in Experimental Social Psychology, 38, 69–119.",
+      "url": "https://doi.org/10.1016/S0065-2601(06)38002-1"
+    },
+    {
+      "id": 6,
+      "text": "Harkin, B., Webb, T. L., Chang, B. P. I., Prestwich, A., Conner, M., Kellar, I., Benn, Y., & Sheeran, P. (2016). Does monitoring goal progress promote goal attainment? A meta-analysis of the experimental evidence. Psychological Bulletin, 142(2), 198–229.",
+      "url": "https://doi.org/10.1037/bul0000025"
+    }
+  ],
+  "cta_title": "Commence ta première habitude aujourd'hui",
+  "cta_body": "Avec Dotday, fixe un signal quotidien avec un rappel, valide d'un geste et regarde ton indice de solidité grandir — gratuit sur Android, sans compte."
+}

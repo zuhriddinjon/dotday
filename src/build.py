@@ -43,6 +43,15 @@ LANG = {l[0]: dict(code=l[0], path=l[1], name=l[2], dir=l[3], hl=l[4], og=l[5]) 
 T = {code: json.loads((SRC / "i18n" / f"{code}.json").read_text("utf-8")) for code in LANG}
 GUIDES = {p.stem: json.loads(p.read_text("utf-8")) for p in sorted((SRC / "guide").glob("*.json"))}
 CAPTIONS = json.loads((SRC / "captions.json").read_text("utf-8"))
+BLOG_UI = json.loads((SRC / "blog" / "ui.json").read_text("utf-8"))
+# Mavzular tartibi (blog sahifasida shu tartibda chiqadi); qolganlari alifbo bo'yicha
+TOPIC_ORDER = ["habit-formation", "21-day-rule", "habit-tracker", "procrastination", "wake-up-early"]
+TOPIC_ICON = {"habit-formation": "🌱", "21-day-rule": "📅", "habit-tracker": "✅", "procrastination": "⏳", "wake-up-early": "🌅"}
+BLOG = {}  # topic -> {code: article}
+for _d in sorted((SRC / "blog").iterdir(), key=lambda d: (TOPIC_ORDER.index(d.name) if d.name in TOPIC_ORDER else 99, d.name)):
+    if _d.is_dir():
+        BLOG[_d.name] = {p.stem: json.loads(p.read_text("utf-8")) for p in sorted(_d.glob("*.json")) if p.stem in LANG}
+BLOG_LANGS = [c for c in LANG if any(c in arts for arts in BLOG.values())]
 
 
 def e(s):
@@ -64,6 +73,14 @@ def landing_path(code):
 
 def guide_path(code):
     return f"{LANG[code]['path']}guide/"
+
+
+def blog_path(code):
+    return f"{LANG[code]['path']}blog/"
+
+
+def article_path(code, topic):
+    return f"{blog_path(code)}{BLOG[topic][code]['slug']}/"
 
 
 def ld(obj):
@@ -140,6 +157,8 @@ def header(code, root, *, page, alternates):
         f'<a href="{root}{guide_path(guide_code)}">{e(t["nav_guide"])}</a>',
         f'<a href="{home}#faq">{e(t["nav_faq"])}</a>',
     ]
+    if code in BLOG_LANGS:
+        links.insert(2, f'<a href="{root}{blog_path(code)}">{e(BLOG_UI[code]["nav_blog"])}</a>')
     alt = dict(alternates)
     items = []
     for c in LANG:
@@ -172,6 +191,7 @@ def footer(code, root):
     home = root + landing_path(code)
     guide_code = code if code in GUIDES else "en"
     langs = "".join(f'<a href="{root}{landing_path(c)}" hreflang="{c}" lang="{c}">{e(LANG[c]["name"])}</a>' for c in LANG)
+    blog_li = f'<li><a href="{root}{blog_path(code)}">{e(BLOG_UI[code]["nav_blog"])}</a></li>' if code in BLOG_LANGS else ""
     return f"""<footer>
   <div class="wrap foot">
     <div>
@@ -185,6 +205,7 @@ def footer(code, root):
       <ul>
         <li><a href="{e(play_url(code, "footer"))}">Google Play</a></li>
         <li><a href="{root}{guide_path(guide_code)}">{e(t["nav_guide"])}</a></li>
+        {blog_li}
         <li><a href="{root}{legal("privacy", code)}">{e(t["foot_privacy"])}</a></li>
         <li><a href="{root}{legal("terms", code)}">{e(t["foot_terms"])}</a></li>
         <li><a href="mailto:{EMAIL}">{e(t["foot_contact"])}</a></li>
@@ -342,6 +363,17 @@ def landing(code):
   </div>
 </section>""")
 
+    if code in BLOG_LANGS:
+        u = BLOG_UI[code]
+        cards = "".join(post_card(tp, code, root) for tp in [tp for tp in BLOG if code in BLOG[tp]][:3])
+        out.append(f"""<section class="from-blog">
+  <div class="wrap">
+    <div class="section-head reveal"><span class="kicker">{e(u["nav_blog"])}</span><h2>{e(u["blog_h1"])}</h2><p>{e(u["blog_lead"])}</p></div>
+    <div class="post-grid reveal">{cards}</div>
+    <p class="from-blog-more"><a class="btn btn-ghost" href="{root}{blog_path(code)}">{e(u["nav_blog"])} →</a></p>
+  </div>
+</section>""")
+
     out.append(f"""<section class="final">
   <div class="wrap reveal">
     <img class="icon-big" src="{root}assets/icon.svg" alt="" width="88" height="88" loading="lazy">
@@ -409,6 +441,146 @@ def guide(code):
     write(path + "index.html", "\n".join(out))
 
 
+# ---------- Blog ----------
+ALLOWED_TAGS = {"p", "h3", "ul", "ol", "li", "b", "strong", "em", "a", "sup", "blockquote", "aside", "div", "table", "thead", "tbody", "tr", "th", "td", "br", "sub"}
+
+
+def check_article(topic, code, a):
+    where = f"blog/{topic}/{code}.json"
+    for k in ("slug", "meta_title", "meta_desc", "h1", "lead", "read_min", "published", "facts", "sections", "faq", "sources", "cta_title", "cta_body"):
+        assert k in a, f"{where}: {k} yo'q"
+    slug_ok(a["slug"])
+    ids = {src["id"] for src in a["sources"]}
+    assert sorted(ids) == list(range(1, len(ids) + 1)), f"{where}: manba raqamlari 1..N emas"
+    body = "".join(sec["html"] for sec in a["sections"])
+    cited = {int(n) for n in re.findall(r'href="#src-(\d+)"', body)}
+    assert cited <= ids, f"{where}: mavjud bo'lmagan manbaga havola {cited - ids}"
+    assert ids <= cited | {f["src"] for f in a["facts"]}, f"{where}: ishlatilmagan manba {ids - cited}"
+    for f in a["facts"]:
+        assert f["src"] in ids, f"{where}: fakt manbasi yo'q"
+    for sec in a["sections"]:
+        slug_ok(sec["id"])
+        for tag in re.findall(r"<\s*([a-zA-Z0-9]+)", sec["html"]):
+            assert tag.lower() in ALLOWED_TAGS, f"{where}: ruxsat etilmagan teg <{tag}>"
+        assert "style=" not in sec["html"] and "<script" not in sec["html"].lower(), where
+
+
+def blog_alternates(topic):
+    return [(c, article_path(c, topic)) for c in LANG if c in BLOG[topic]]
+
+
+def ref_link(n):
+    return f'<sup class="ref"><a href="#src-{n}">{n}</a></sup>'
+
+
+def time_tag(iso):
+    return f'<time datetime="{e(iso)}" data-fmt>{e(iso)}</time>'
+
+
+def article_page(topic, code):
+    a = BLOG[topic][code]
+    u = BLOG_UI[code]
+    path = article_path(code, topic)
+    root = "../" * path.count("/")
+    alternates = blog_alternates(topic)
+    modified = a.get("updated", a["published"])
+    url = f"{SITE}/{path}"
+    jsonld = [{
+        "@context": "https://schema.org",
+        "@graph": [
+            {"@type": "BlogPosting", "headline": a["h1"], "description": a["meta_desc"], "inLanguage": code,
+             "url": url, "mainEntityOfPage": url, "image": f"{SITE}/assets/og.png",
+             "datePublished": a["published"], "dateModified": modified, "timeRequired": f"PT{int(a['read_min'])}M",
+             "author": {"@type": "Organization", "name": "Dotday", "url": f"{SITE}/"},
+             "publisher": {"@type": "Organization", "name": "Dotday", "logo": {"@type": "ImageObject", "url": f"{SITE}/assets/icon-512.png"}},
+             "citation": [{"@type": "CreativeWork", "name": src["text"], "url": src["url"]} for src in a["sources"]]},
+            {"@type": "BreadcrumbList", "itemListElement": [
+                {"@type": "ListItem", "position": 1, "name": "Dotday", "item": f"{SITE}/{landing_path(code)}"},
+                {"@type": "ListItem", "position": 2, "name": u["nav_blog"], "item": f"{SITE}/{blog_path(code)}"},
+                {"@type": "ListItem", "position": 3, "name": a["h1"], "item": url}]},
+        ],
+    }, {
+        "@context": "https://schema.org", "@type": "FAQPage", "inLanguage": code,
+        "mainEntity": [{"@type": "Question", "name": q["q"], "acceptedAnswer": {"@type": "Answer", "text": q["a"]}} for q in a["faq"]],
+    }]
+    out = [head(code, title=a["meta_title"], desc=a["meta_desc"], canonical=path, alternates=alternates,
+                root=root, page="", jsonld=jsonld, og_type="article"),
+           "<body>", '<div class="read-progress" aria-hidden="true"><span></span></div>',
+           header(code, root, page="", alternates=alternates), '<main id="main">']
+
+    facts = "".join(f'<li><b>{e(f["value"])}</b><span>{e(f["label"])}{ref_link(f["src"])}</span></li>' for f in a["facts"])
+    toc_items = [(sec["id"], sec["title"]) for sec in a["sections"]] + [("faq", u["faq_title"]), ("sources", u["sources_title"])]
+    toc = "".join(f'<li><a href="#{i}">{e(t)}</a></li>' for i, t in toc_items)
+    secs = "".join(f'<section id="{sec["id"]}"><h2>{e(sec["title"])}</h2>{sec["html"]}</section>' for sec in a["sections"])
+    faq = "".join(f"<details><summary>{e(q['q'])}</summary><p>{e(q['a'])}</p></details>" for q in a["faq"])
+    srcs = "".join(f'<li id="src-{src["id"]}">{e(src["text"])} <a href="{e(src["url"])}" rel="noopener" target="_blank">{e(src["url"].replace("https://", ""))}</a></li>'
+                   for src in a["sources"])
+    related = [t for t in BLOG if t != topic and code in BLOG[t]][:3]
+    rel_html = ""
+    if related:
+        cards = "".join(post_card(t, code, root) for t in related)
+        rel_html = f'<section class="related"><h2>{e(u["related_title"])}</h2><div class="post-grid">{cards}</div></section>'
+
+    out.append(f"""<div class="wrap">
+  <header class="post-hero">
+    <nav class="crumbs" aria-label="Breadcrumb"><a href="{root}{landing_path(code)}">Dotday</a> / <a href="{root}{blog_path(code)}">{e(u["nav_blog"])}</a></nav>
+    <h1>{e(a["h1"])}</h1>
+    <p class="post-lead">{e(a["lead"])}</p>
+    <p class="post-meta"><span>{TOPIC_ICON.get(topic, "📖")} {e(u["min_read"].replace("{n}", str(a["read_min"])))}</span><span>{e(u["updated"])} {time_tag(modified)}</span><span>{e(u["sources_count"].replace("{n}", str(len(a["sources"]))))}</span></p>
+  </header>
+  <section class="facts" aria-label="{e(u["facts_title"])}"><h2 class="visually-hidden">{e(u["facts_title"])}</h2><ul>{facts}</ul></section>
+  <div class="guide-layout post-layout">
+    <aside class="toc"><h2>{e(u["toc"])}</h2><ol>{toc}</ol></aside>
+    <article class="article post">
+      {secs}
+      <section id="faq"><h2>{e(u["faq_title"])}</h2><div class="faq">{faq}</div></section>
+      <section id="sources" class="sources"><h2>{e(u["sources_title"])}</h2><p class="small">{e(u["sources_note"])}</p><ol>{srcs}</ol><p class="small">{e(u["disclaimer"])}</p></section>
+      <div class="guide-cta"><div><h2>{e(a["cta_title"])}</h2><p>{e(a["cta_body"])}</p></div>{play_button(code, "blog-" + topic)}</div>
+      {rel_html}
+    </article>
+  </div>
+</div>
+</main>""")
+    out.append(footer(code, root))
+    write(path + "index.html", "\n".join(out))
+
+
+def post_card(topic, code, root):
+    a = BLOG[topic][code]
+    u = BLOG_UI[code]
+    return (f'<a class="post-card" href="{root}{article_path(code, topic)}"><span class="ico" aria-hidden="true">{TOPIC_ICON.get(topic, "📖")}</span>'
+            f'<h3>{e(a["h1"])}</h3><p>{e(a["lead"])}</p>'
+            f'<span class="post-card-foot"><span>{e(u["min_read"].replace("{n}", str(a["read_min"])))}</span><span class="more">{e(u["read_more"])} →</span></span></a>')
+
+
+def blog_index(code):
+    u = BLOG_UI[code]
+    path = blog_path(code)
+    root = "../" * path.count("/")
+    alternates = [(c, blog_path(c)) for c in BLOG_LANGS]
+    topics = [t for t in BLOG if code in BLOG[t]]
+    jsonld = [{"@context": "https://schema.org", "@type": "Blog", "name": u["blog_meta_title"], "description": u["blog_meta_desc"],
+               "url": f"{SITE}/{path}", "inLanguage": code,
+               "publisher": {"@type": "Organization", "name": "Dotday", "url": f"{SITE}/"},
+               "blogPost": [{"@type": "BlogPosting", "headline": BLOG[t][code]["h1"], "url": f"{SITE}/{article_path(code, t)}",
+                             "datePublished": BLOG[t][code]["published"]} for t in topics]}]
+    out = [head(code, title=u["blog_meta_title"], desc=u["blog_meta_desc"], canonical=path, alternates=alternates,
+                root=root, page="blog/", jsonld=jsonld),
+           "<body>", header(code, root, page="blog/", alternates=alternates), '<main id="main">']
+    cards = "".join(post_card(t, code, root) for t in topics)
+    out.append(f"""<div class="wrap">
+  <header class="guide-hero blog-hero">
+    <nav class="crumbs" aria-label="Breadcrumb"><a href="{root}{landing_path(code)}">Dotday</a> / {e(u["nav_blog"])}</nav>
+    <h1>{e(u["blog_h1"])}</h1>
+    <p>{e(u["blog_lead"])}</p>
+  </header>
+  <div class="post-grid blog-grid">{cards}</div>
+</div>
+</main>""")
+    out.append(footer(code, root))
+    write(path + "index.html", "\n".join(out))
+
+
 # ---------- Huquqiy sahifalar (mavjud fayllarni yangilash) ----------
 LEGAL_MARK = "<!--dotday-head-->"
 
@@ -436,7 +608,7 @@ def patch_legal():
 # ---------- Qo'shimcha fayllar ----------
 def extras():
     langs_js = {c: {"path": landing_path(c), "dir": LANG[c]["dir"], "msg": T[c]["suggest_msg"], "go": T[c]["suggest_go"],
-                    "pages": ["guide/"] if c in GUIDES else []} for c in LANG}
+                    "pages": (["guide/"] if c in GUIDES else []) + (["blog/"] if c in BLOG_LANGS else [])} for c in LANG}
     write("assets/langs.js", "window.DOTDAY_LANGS=" + json.dumps(langs_js, ensure_ascii=False, separators=(",", ":")) + ";\n")
 
     urls = []
@@ -446,6 +618,10 @@ def extras():
             urls.append(f"<url><loc>{SITE}/{loc[1]}</loc><lastmod>{TODAY}</lastmod>{alts}</url>")
     add([(c, landing_path(c)) for c in LANG])
     add([(c, guide_path(c)) for c in GUIDES])
+    if BLOG_LANGS:
+        add([(c, blog_path(c)) for c in BLOG_LANGS])
+    for topic in BLOG:
+        add(blog_alternates(topic))
     add([(c, legal("privacy", c)) for c in LANG])
     add([(c, legal("terms", c)) for c in LANG])
     write("sitemap.xml", '<?xml version="1.0" encoding="UTF-8"?>\n'
@@ -501,6 +677,25 @@ def check():
         assert len(CAPTIONS[c]) == 8, c
     for c in GUIDES:
         assert c in LANG, c
+    for c in BLOG_UI:
+        assert set(BLOG_UI[c]) == set(BLOG_UI["en"]), f"blog/ui.json {c}"
+    for c in BLOG_LANGS:
+        slugs = [BLOG[t][c]["slug"] for t in BLOG if c in BLOG[t]]
+        assert len(slugs) == len(set(slugs)), f"blog {c}: takroriy slug"
+    for topic, arts in BLOG.items():
+        if arts:
+            assert "en" in arts, f"blog/{topic}: en.json kerak (x-default)"
+        for c, a in arts.items():
+            assert c in BLOG_UI, f"blog/ui.json: {c} yo'q"
+            check_article(topic, c, a)
+            en = arts["en"]
+            where = f"blog/{topic}/{c}.json"
+            assert a["sources"] == en["sources"], f"{where}: manbalar en.json bilan bir xil emas"
+            assert [x["id"] for x in a["sections"]] == [x["id"] for x in en["sections"]], f"{where}: bo'limlar en.json bilan mos emas"
+            assert [f["src"] for f in a["facts"]] == [f["src"] for f in en["facts"]], f"{where}: faktlar manbasi mos emas"
+            refs = lambda art: [re.findall(r'href="#src-(\d+)"', x["html"]) for x in art["sections"]]
+            assert refs(a) == refs(en), f"{where}: matndagi manba havolalari en.json bilan mos emas"
+            assert len(a["faq"]) == len(en["faq"]), f"{where}: FAQ soni mos emas"
 
 
 if __name__ == "__main__":
@@ -509,6 +704,11 @@ if __name__ == "__main__":
         landing(c)
     for c in GUIDES:
         guide(c)
+    for c in BLOG_LANGS:
+        blog_index(c)
+    for topic in BLOG:
+        for c in BLOG[topic]:
+            article_page(topic, c)
     patch_legal()
     extras()
-    print(f"OK: {len(LANG)} landing, {len(GUIDES)} guide")
+    print(f"OK: {len(LANG)} landing, {len(GUIDES)} guide, {sum(len(a) for a in BLOG.values())} maqola ({len(BLOG_LANGS)} til)")

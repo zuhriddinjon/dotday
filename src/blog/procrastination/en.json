@@ -1,0 +1,115 @@
+{
+  "slug": "how-to-stop-procrastinating",
+  "meta_title": "How to Stop Procrastinating: 9 Evidence-Based Techniques",
+  "meta_desc": "Procrastination is about mood, not laziness. 9 research-backed ways to stop procrastinating: if-then plans, tiny first steps, self-forgiveness and more.",
+  "h1": "How to stop procrastinating: 9 techniques that work with your emotions",
+  "lead": "The fastest way to stop procrastinating is to stop treating it as laziness. Procrastination is mostly a way to escape unpleasant feelings about a task, so the fixes that work make starting feel smaller, safer and more automatic.",
+  "read_min": 7,
+  "published": "2026-10-06",
+  "facts": [
+    {
+      "value": "80%–95%",
+      "label": "of college students engage in procrastination, by estimates cited in a major review",
+      "src": 1
+    },
+    {
+      "value": "15%–20%",
+      "label": "of adults are chronically affected by procrastination, by the same estimates",
+      "src": 1
+    },
+    {
+      "value": "d = .65",
+      "label": "effect of if-then plans on goal attainment across 94 independent tests",
+      "src": 5
+    }
+  ],
+  "sections": [
+    {
+      "id": "why-you-procrastinate",
+      "title": "Why you procrastinate (it's not laziness)",
+      "html": "<p>If you want to know how to stop procrastinating, start here: you are probably not lazy. Lazy people don't want to do the task. Procrastinators usually <em>do</em> want to, and feel bad while they put it off.</p><p>You are also far from alone. A widely cited review in <em>Psychological Bulletin</em> notes estimates that 80%–95% of college students engage in procrastination, and that it chronically affects some 15%–20% of adults.<sup class=\"ref\"><a href=\"#src-1\">1</a></sup> The same review pooled 691 correlations and found that the strongest, most consistent predictors were task aversiveness, task delay, self-efficacy and impulsiveness, along with conscientiousness and its facets such as self-control and distractibility.<sup class=\"ref\"><a href=\"#src-1\">1</a></sup></p><p>That first predictor is the key. Researchers Fuschia Sirois and Timothy Pychyl argue that procrastination has \"a great deal to do with short-term mood repair and emotion regulation\".<sup class=\"ref\"><a href=\"#src-2\">2</a></sup> A task feels boring, confusing or threatening, so you escape to something that feels better <em>right now</em>. The bill goes to your future self, who inherits the same task with less time.<sup class=\"ref\"><a href=\"#src-2\">2</a></sup></p><aside class=\"myth\"><b>Myth</b> Procrastinators just need more discipline and a harsher inner voice. <b>Fact</b> Because delay is often a way to escape bad feelings, piling on guilt can make the task feel even worse. The techniques below work by making starting feel safer, smaller and more automatic.</aside>"
+    },
+    {
+      "id": "what-it-costs",
+      "title": "What procrastination costs you",
+      "html": "<p>Short-term relief has long-term costs. A cohort study followed 3,525 Swedish university students and looked at their health 9 months later.<sup class=\"ref\"><a href=\"#src-3\">3</a></sup> After controlling for a large set of potential confounders, higher procrastination was associated with more symptoms of depression, anxiety and stress, and with poor sleep quality, physical inactivity, loneliness and economic difficulties at follow-up.<sup class=\"ref\"><a href=\"#src-3\">3</a></sup></p><p>A 2026 meta-analysis of 36 cross-sectional samples (N = 8,603) found that trait procrastination was associated with poorer self-rated health (r<sub>avg</sub> = .21), a link explained in part by higher levels of stress.<sup class=\"ref\"><a href=\"#src-4\">4</a></sup></p><p>These are associations, not proof that procrastination causes poor health. But they are a good reason to treat chronic delay as something worth working on, kindly, rather than a quirk to joke about.</p>"
+    },
+    {
+      "id": "techniques-to-start",
+      "title": "How to stop procrastinating: 5 ways to get started",
+      "html": "<p>Most procrastination happens in the first few minutes, at the moment you decide whether to begin. These five techniques target that moment.</p><h3>1. Name the feeling</h3><p>Before you open another tab, ask: what exactly do I not want to feel? Bored, unsure where to begin, afraid it won't be good enough? Naming it turns a vague dread into a specific problem you can solve, such as \"I don't know the first step\".</p><h3>2. Shrink the first step</h3><p>Make the first action so small it feels almost silly: open the document and write one ugly sentence, put on your running shoes, answer one email. You are not committing to finish, only to start. Once you begin, the task usually feels less aversive than it did in your head.</p><h3>3. Write an if-then plan</h3><p>An <em>implementation intention</em> spells out when, where and how you will act: \"If it's 9:00 and I've poured my coffee, then I'll open the report and write the first paragraph.\" A meta-analysis of 94 independent tests found that implementation intentions had a positive effect of medium-to-large magnitude (d = .65) on goal attainment.<sup class=\"ref\"><a href=\"#src-5\">5</a></sup> They helped people initiate goal striving and shield ongoing goals from unwanted influences — exactly where procrastinators struggle.<sup class=\"ref\"><a href=\"#src-5\">5</a></sup></p><h3>4. Remove friction (and add it to distractions)</h3><p>Make the right action the easy one. Leave the book open on your desk, keep the file on your home screen, lay out the gym bag the night before. Then add friction to escape routes: put your phone in another room, log out of the feed, close every tab you don't need.</p><h3>5. Put it on the calendar</h3><p>\"Sometime this week\" is an open invitation to delay. Give the task a specific time slot and a length, like 25 minutes on Tuesday at 10:00. A fixed slot is a ready-made if-then plan: the time itself becomes the cue.</p><aside class=\"note\"><b>In Dotday</b> Turn your if-then plan into a habit with a reminder at the exact time you chose. When the notification arrives you can tap <b>Done</b> or <b>In 10 min</b>, and a Timer habit lets you run a short focused session with a live notification.</aside>"
+    },
+    {
+      "id": "techniques-to-keep-going",
+      "title": "4 ways to keep going after a slip",
+      "html": "<p>Starting once is good. Not falling back into the old loop is what changes things.</p><h3>6. Forgive yourself for yesterday</h3><p>It sounds soft, but there is evidence behind it. In a study of first-year university students tested before two rounds of midterm exams, those who forgave themselves for procrastinating before the first exam procrastinated less before the next one.<sup class=\"ref\"><a href=\"#src-6\">6</a></sup> The effect ran through mood: self-forgiveness was linked to less negative affect, which in turn was linked to less delay.<sup class=\"ref\"><a href=\"#src-6\">6</a></sup> Note this was a correlational study of a single student group, but it fits the mood-repair picture: if guilt is what you're avoiding, reducing guilt helps.</p><h3>7. Track what you actually did</h3><p>Seeing your progress keeps the task from sliding out of view. A meta-analysis of 138 studies (N = 19,951) found that interventions that increased progress monitoring promoted goal attainment (d+ = 0.40), with larger effects when the information was physically recorded.<sup class=\"ref\"><a href=\"#src-7\">7</a></sup> A simple daily check mark counts.</p><h3>8. Make your future self real</h3><p>Procrastination trades your future self's wellbeing for present relief.<sup class=\"ref\"><a href=\"#src-2\">2</a></sup> Before you delay, picture tomorrow evening concretely: the same task, less time, more stress. Then ask what tiny step today's you could do as a favor to that person.</p><h3>9. Get structured help if it's chronic</h3><p>If delay is causing real distress, structured support works. In a randomized controlled trial with 150 participants, internet-based cognitive-behavior therapy reduced procrastination compared with a wait-list, with moderate effect sizes for both guided and unguided self-help (for example, Cohen's d = 0.70 and d = 0.50 on the Pure Procrastination Scale).<sup class=\"ref\"><a href=\"#src-8\">8</a></sup> Neither format was superior to the other.<sup class=\"ref\"><a href=\"#src-8\">8</a></sup> A therapist or a CBT-based program is worth considering if procrastination comes with persistent low mood or anxiety.</p><aside class=\"note\"><b>In Dotday</b> Missing a day doesn't wipe out your progress: you can skip a day as a rest day or use a streak freeze, and habit strength drops gently instead of resetting to zero. It's self-forgiveness built into the tracker.</aside>"
+    },
+    {
+      "id": "do-this-today",
+      "title": "Do this today: a 10-minute plan",
+      "html": "<ol><li><b>Pick one task</b> you've been avoiding. Just one.</li><li><b>Name the feeling</b> behind the delay in a few words.</li><li><b>Write the smallest first step</b>, something you could finish in 2–5 minutes.</li><li><b>Write an if-then plan</b>: \"If it's [time] and I'm at [place], then I will [first step].\"</li><li><b>Remove one distraction</b> for that time slot: phone in another room, feed closed.</li><li><b>Do the step</b> and mark it done. If you slip, forgive yourself and set the next if-then plan.</li></ol><aside class=\"tip\"><b>Tip</b> Stop while it's still easy. Ending a session mid-sentence or mid-step gives you an obvious, low-effort way to restart next time.</aside>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Is procrastination the same as laziness?",
+      "a": "No. Laziness is unwillingness to act, while procrastinators usually intend to act and feel bad about delaying. Research describes procrastination as a self-regulation failure closely tied to short-term mood repair."
+    },
+    {
+      "q": "What is the fastest way to stop procrastinating right now?",
+      "a": "Shrink the task to a first step you can finish in a few minutes, remove the nearest distraction, and start a short timed session. Starting usually feels easier than the dread suggested."
+    },
+    {
+      "q": "Does being hard on myself help me procrastinate less?",
+      "a": "Evidence points the other way. In a study of university students, those who forgave themselves for procrastinating before one exam procrastinated less before the next, partly because they felt less negative emotion."
+    },
+    {
+      "q": "When should I get professional help for procrastination?",
+      "a": "If procrastination is causing ongoing distress or comes with persistent low mood or anxiety, talk to a professional. Cognitive-behavior therapy, including internet-based programs, has reduced procrastination in a randomized trial."
+    }
+  ],
+  "sources": [
+    {
+      "id": 1,
+      "text": "Steel, P. (2007). The nature of procrastination: A meta-analytic and theoretical review of quintessential self-regulatory failure. Psychological Bulletin, 133(1), 65–94.",
+      "url": "https://doi.org/10.1037/0033-2909.133.1.65"
+    },
+    {
+      "id": 2,
+      "text": "Sirois, F., & Pychyl, T. (2013). Procrastination and the priority of short-term mood regulation: Consequences for future self. Social and Personality Psychology Compass, 7(2), 115–127.",
+      "url": "https://doi.org/10.1111/spc3.12011"
+    },
+    {
+      "id": 3,
+      "text": "Johansson, F., Rozental, A., Edlund, K., Côté, P., Sundberg, T., Onell, C., Rudman, A., & Skillgate, E. (2023). Associations between procrastination and subsequent health outcomes among university students in Sweden. JAMA Network Open, 6(1), e2249346.",
+      "url": "https://doi.org/10.1001/jamanetworkopen.2022.49346"
+    },
+    {
+      "id": 4,
+      "text": "Sirois, F. M., & Monaghan, C. (2026). Procrastination, stress, and self-rated health: A multi-sample meta-analysis. British Journal of Health Psychology, 31(3), e70099.",
+      "url": "https://doi.org/10.1111/bjhp.70099"
+    },
+    {
+      "id": 5,
+      "text": "Gollwitzer, P. M., & Sheeran, P. (2006). Implementation intentions and goal achievement: A meta-analysis of effects and processes. Advances in Experimental Social Psychology, 38, 69–119.",
+      "url": "https://doi.org/10.1016/S0065-2601(06)38002-1"
+    },
+    {
+      "id": 6,
+      "text": "Wohl, M. J. A., Pychyl, T. A., & Bennett, S. H. (2010). I forgive myself, now I can study: How self-forgiveness for procrastinating can reduce future procrastination. Personality and Individual Differences, 48(7), 803–808.",
+      "url": "https://doi.org/10.1016/j.paid.2010.01.029"
+    },
+    {
+      "id": 7,
+      "text": "Harkin, B., Webb, T. L., Chang, B. P., Prestwich, A., Conner, M., Kellar, I., Benn, Y., & Sheeran, P. (2016). Does monitoring goal progress promote goal attainment? A meta-analysis of the experimental evidence. Psychological Bulletin, 142(2), 198–229.",
+      "url": "https://doi.org/10.1037/bul0000025"
+    },
+    {
+      "id": 8,
+      "text": "Rozental, A., Forsell, E., Svensson, A., Andersson, G., & Carlbring, P. (2015). Internet-based cognitive-behavior therapy for procrastination: A randomized controlled trial. Journal of Consulting and Clinical Psychology, 83(4), 808–824.",
+      "url": "https://doi.org/10.1037/ccp0000023"
+    }
+  ],
+  "cta_title": "Make starting the easy part",
+  "cta_body": "Dotday is a free Android habit tracker with reminders, one-tap check-ins and forgiving streaks, so a slip is a pause, not a reset."
+}

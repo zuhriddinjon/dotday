@@ -76,6 +76,31 @@
     Object.keys(map).forEach(function (id) { var el = document.getElementById(id); if (el) tio.observe(el); });
   }
 
+  // Blog: o'qish progressi va sanani til bo'yicha formatlash
+  var bar = document.querySelector(".read-progress span");
+  var post = document.querySelector(".post");
+  if (bar && post) {
+    var ticking = false;
+    var upd = function () {
+      var r = post.getBoundingClientRect();
+      var total = r.height - window.innerHeight;
+      var p = total > 0 ? Math.min(1, Math.max(0, -r.top / total)) : 1;
+      bar.style.transform = "scaleX(" + p + ")";
+      ticking = false;
+    };
+    addEventListener("scroll", function () { if (!ticking) { ticking = true; requestAnimationFrame(upd); } }, { passive: true });
+    upd();
+  }
+  var UZ_MONTHS = ["yanvar", "fevral", "mart", "aprel", "may", "iyun", "iyul", "avgust", "sentabr", "oktabr", "noyabr", "dekabr"];
+  document.querySelectorAll("time[data-fmt]").forEach(function (t) {
+    var lang = root.getAttribute("lang");
+    var d = new Date(t.getAttribute("datetime") + "T12:00:00");
+    if (isNaN(d)) return;
+    // Brauzerlarda o'zbekcha oy nomlari yo'q (Intl "M10" qaytaradi) — qo'lda formatlaymiz
+    if (lang === "uz") { t.textContent = d.getDate() + "-" + UZ_MONTHS[d.getMonth()] + ", " + d.getFullYear(); return; }
+    try { t.textContent = new Intl.DateTimeFormat(lang, { year: "numeric", month: "long", day: "numeric" }).format(d); } catch (e) {}
+  });
+
   // Brauzer tiliga mos versiyani taklif qilish (majburiy redirect emas — SEO uchun)
   var langs = window.DOTDAY_LANGS;
   var banner = document.querySelector(".lang-suggest");
@@ -93,7 +118,9 @@
     if (pick && pick !== current && langs[pick]) {
       var info = langs[pick];
       var page = root.getAttribute("data-page") || "";
-      var target = root.getAttribute("data-root") + info.path + (page && info.pages.indexOf(page) >= 0 ? page : "");
+      var alt = document.querySelector('link[rel="alternate"][hreflang="' + pick + '"]');
+      var target = alt ? alt.getAttribute("href").replace(/^https:\/\/dotday\.uz\//, root.getAttribute("data-root"))
+        : root.getAttribute("data-root") + info.path + (page && info.pages.indexOf(page) >= 0 ? page : "");
       banner.setAttribute("lang", pick);
       banner.setAttribute("dir", info.dir);
       banner.querySelector("span").textContent = info.msg;

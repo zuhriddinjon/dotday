@@ -1,0 +1,100 @@
+{
+  "slug": "21-gun-kurali",
+  "meta_title": "21 Gün Kuralı: Alışkanlık Gerçekten 21 Günde mi Oluşur?",
+  "meta_desc": "21 gün kuralı nereden çıktı, araştırmalar ne diyor (medyan 66 gün, aralık 18–254) ve yeni alışkanlığın için gerçekçi bir zaman planı nasıl yapılır.",
+  "h1": "21 gün kuralı: bir alışkanlık gerçekten 21 günde mi oluşur?",
+  "lead": "21 gün kuralı, 1960 tarihli bir kişisel gelişim kitabından doğan bir efsane. Araştırmalar çoğu alışkanlığın iki ila beş ay sürdüğünü, kaçırılan tek bir günün ise neredeyse hiç fark yaratmadığını gösteriyor.",
+  "read_min": 6,
+  "published": "2026-10-06",
+  "facts": [
+    {
+      "value": "66 gün",
+      "label": "Lally'nin çalışmasında otomatikliğin zirvesine ulaşmak için geçen medyan süre",
+      "src": 1
+    },
+    {
+      "value": "18–254 gün",
+      "label": "aynı çalışmada kişiler arasındaki aralık",
+      "src": 1
+    },
+    {
+      "value": "2–5 ay",
+      "label": "20 çalışmayı inceleyen 2024 tarihli derlemeye göre sağlık alışkanlıkları için tipik süre",
+      "src": 2
+    }
+  ],
+  "sections": [
+    {
+      "id": "does-it-take-21-days",
+      "title": "21 gün kuralı doğru mu? Alışkanlık 21 günde oluşur mu?",
+      "html": "<p>Kısa cevap: hayır. 21 gün kuralı, kişisel gelişim dünyasının en çok tekrarlanan fikirlerinden biri, ama alışkanlık araştırmalarından gelmiyor; elimizdeki çalışmalar çok daha uzun ve kişiden kişiye çok daha değişken bir süreye işaret ediyor.</p><p>En bilinen çalışmada, yeni bir günlük davranışın otomatikliğinin zirvesine ulaşması için insanların medyan <b>66 güne</b> ihtiyacı oldu ve kişisel süreler <b>18 ile 254 gün</b> arasında değişti.<sup class=\"ref\"><a href=\"#src-1\">1</a></sup> Sağlık alışkanlıklarıyla ilgili 2024 tarihli bir sistematik derleme, alışkanlıkların otomatik hâle gelmesinin genellikle <b>2 ila 5 ay</b> sürdüğü sonucuna vardı.<sup class=\"ref\"><a href=\"#src-2\">2</a></sup></p><p>Bu kötü bir haber değil. Sadece şu anlama geliyor: 21. gün geldiğinde yeni alışkanlığın hâlâ çaba gerektiriyorsa, sende bir sorun yok. Tam olarak programdasın.</p>"
+    },
+    {
+      "id": "where-21-days-came-from",
+      "title": "21 gün fikri nereden çıktı",
+      "html": "<p>Bu rakamın kökeni, plastik cerrah Maxwell Maltz'ın 1960 tarihli kişisel gelişim kitabı <em>Psycho-Cybernetics</em>'e dayanıyor. Maltz, hastalarının yeni yüzlerine alışmasının yaklaşık üç hafta sürdüğünü ve bir ampütasyondan sonra “hayalet uzuv” hissinin yaklaşık 21 gün devam ettiğini fark etmişti.</p><blockquote>“Zihinsel bir imgede fark edilebilir herhangi bir değişiklik yaratmak genellikle en az 21 gün kadar gerektirir.”<sup class=\"ref\"><a href=\"#src-3\">3</a></sup></blockquote><p>İki şeye dikkat et. Maltz, koşu ya da diş ipi kullanmak gibi rutinler edinmekten değil, <em>benlik imgesinden</em> söz ediyordu. Üstelik <b>en az</b> ve <b>yaklaşık</b> 21 gün demişti. On yıllar boyunca anlatıla anlatıla, “bir değişikliği fark etmek için en az üç hafta” sessizce “bir alışkanlık edinmek için 21 gün”e dönüştü.</p><aside class=\"myth\"><b>Efsane</b> Her şeyi 21 gün yaparsan alışkanlık olur. <b>Gerçek</b> 21 gün, bir cerrahın benlik imgesiyle ilgili gözlemlerinden geliyor ve bir alt sınır olarak ifade edilmişti. 20 çalışmayı inceleyen 2024 tarihli bir derleme, bulgularının “alışkanlıkların yaklaşık 21 günde oluşabileceği yönündeki yaygın düşünceyi açıkça çürüttüğünü” belirtiyor.<sup class=\"ref\"><a href=\"#src-2\">2</a></sup></aside>"
+    },
+    {
+      "id": "what-research-shows",
+      "title": "Araştırmalar aslında ne gösteriyor",
+      "html": "<p><b>Lally ve ark. (2010).</b> 96 gönüllünün katıldığı bu çalışmada her kişi, 12 hafta boyunca her gün aynı bağlamda (örneğin “kahvaltıdan sonra”) yapacağı bir yeme, içme ya da hareket davranışı seçti ve her gün bunun ne kadar otomatik geldiğini puanladı.<sup class=\"ref\"><a href=\"#src-1\">1</a></sup> Verileri modele iyi uyan 39 kişide, otomatiklik platosunun %95'ine ulaşmak için geçen medyan süre 66 gündü; aralık 18 ile 254 gün arasındaydı.<sup class=\"ref\"><a href=\"#src-1\">1</a></sup></p><p><b>Singh ve ark. (2024).</b> Bu sistematik derleme ve meta-analiz, 2.601 katılımcıyı kapsayan 20 çalışmayı bir araya getirdi. Süre bildiren dört çalışmada medyanlar 59–66 gün, ortalamalar 106–154 gün, kişisel süreler ise 4 ile 335 gün arasındaydı.<sup class=\"ref\"><a href=\"#src-2\">2</a></sup> Yazarlar, dahil edilen çalışmaların çoğunun (11) yüksek yanlılık riski taşıdığını not ediyor; bu yüzden bu rakamları kesin hedefler değil, aralıklar olarak gör.<sup class=\"ref\"><a href=\"#src-2\">2</a></sup></p><p><b>Kaushal ve Rhodes (2015).</b> Spor salonuna yeni kaydolan 111 kişiyi 12 hafta boyunca takip eden araştırmacılar, bir egzersiz alışkanlığı oluşturmak için asgari koşulun 6 hafta boyunca haftada en az dört kez antrenman yapmak olduğunu buldu.<sup class=\"ref\"><a href=\"#src-4\">4</a></sup></p><div class=\"table-scroll\"><table><thead><tr><th>Çalışma</th><th>Kimlerle</th><th>Alışkanlığa kadar geçen süre</th></tr></thead><tbody><tr><td>Lally ve ark., 2010<sup class=\"ref\"><a href=\"#src-1\">1</a></sup></td><td>96 gönüllü; günlük yeme, içme ya da hareket alışkanlıkları</td><td>Medyan 66 gün (aralık 18–254)</td></tr><tr><td>Singh ve ark., 2024<sup class=\"ref\"><a href=\"#src-2\">2</a></sup></td><td>20 çalışma, 2.601 katılımcı</td><td>Medyanlar 59–66 gün, ortalamalar 106–154 gün (aralık 4–335)</td></tr><tr><td>Kaushal ve Rhodes, 2015<sup class=\"ref\"><a href=\"#src-4\">4</a></sup></td><td>Spor salonuna yeni kaydolan 111 kişi</td><td>6 hafta boyunca haftada en az 4 antrenman (asgari)</td></tr></tbody></table></div>"
+    },
+    {
+      "id": "why-it-varies",
+      "title": "Senin sürenin neden daha kısa ya da uzun olabileceği",
+      "html": "<p>Asıl haber bu devasa aralıklar. Bazı etkenler süreyi uzatıyor ya da kısaltıyor gibi görünüyor:</p><ul><li><b>Karmaşıklık.</b> Lally'nin çalışmasında egzersiz alışkanlıklarının platoya ulaşması medyan 91 gün sürdü; yemede bu süre 65, içmede 59 gündü. Gruplar küçüktü ve fark istatistiksel olarak anlamlı değildi, ancak yazarlar bunun daha karmaşık davranışların daha uzun sürdüğü fikriyle uyumlu olduğunu belirtiyor.<sup class=\"ref\"><a href=\"#src-1\">1</a></sup></li><li><b>Tutarlılık.</b> Davranışı daha tutarlı yapan kişiler, araştırmacıların beklediği düzgün ve istikrarlı alışkanlık eğrisini gösterdi.<sup class=\"ref\"><a href=\"#src-1\">1</a></sup> Spor salonu çalışmasında tutarlılık; düşük karmaşıklık, destekleyici bir ortam ve antrenmandan keyif almakla birlikte alışkanlık oluşumunun anlamlı yordayıcılarından biriydi.<sup class=\"ref\"><a href=\"#src-4\">4</a></sup></li><li><b>Zamanlama ve seçim.</b> 2024 derlemesi, sabah yapılan ve kişinin kendi seçtiği alışkanlıkların genel olarak daha güçlü alışkanlıklarla ilişkili olduğunu buldu. Dahil edilen bir çalışmada esneme alışkanlığı sabah yapıldığında ortalama 106 gün, akşam yapıldığında ise 154 gün sürdü.<sup class=\"ref\"><a href=\"#src-2\">2</a></sup></li></ul><p>İlerlemenin şekli de önemli. Otomatiklik ilk haftalarda daha hızlı artma, sonra bir platoya doğru yavaşlama eğiliminde; her ek tekrar biraz daha az katkı sağlıyor.<sup class=\"ref\"><a href=\"#src-1\">1</a></sup> Bu yüzden alışkanlık henüz tamamlanmamış olsa da en büyük değişim çoğu zaman ilk ayda hissediliyor.</p>"
+    },
+    {
+      "id": "missing-a-day",
+      "title": "Bir günü kaçırmak seni sıfıra döndürmez",
+      "html": "<p>Lally'nin çalışmasının en faydalı bulgularından biri, 66 günden çok daha az ilgi görüyor: davranışı yapmak için bir fırsatı kaçırmak, alışkanlık oluşma sürecini kayda değer biçimde etkilemedi.<sup class=\"ref\"><a href=\"#src-1\">1</a></sup> Kaçırılan bir günden sonra otomatiklik çok az düştü ve tek bir atlamanın uzun vadeli bir bedeli olmadı.<sup class=\"ref\"><a href=\"#src-1\">1</a></sup></p><p>Bu, kötü bir güne bakışını değiştirmeli. Tehlike kaçırılan günün kendisi değil; serinin “mahvolduğuna” karar verip bırakmak. “Hiç kaçırma” yerine “iki kez üst üste kaçırma” hedefle.</p><aside class=\"note\"><b>Dotday'de</b> Seriler gerçek hayatı affetmek üzere tasarlandı: planlı bir dinlenme gününü atlayabilir ya da bir türlü yapamadığın bir gün için seri dondurma kullanabilirsin; böylece tek bir kaçırma haftalarca emeğini silmez.</aside>"
+    },
+    {
+      "id": "realistic-plan",
+      "title": "Bugün bunu yap: gerçekçi bir zaman planı kur",
+      "html": "<ol><li><b>Gerçekten istediğin tek bir küçük alışkanlık seç.</b> Kendi seçtiğin, basit davranışlar sana en iyi şansı verir.</li><li><b>Onu sabit bir işarete bağla.</b> “X'ten sonra Y yapacağım” şeklinde yaz; örneğin “kahvaltıdan sonra bir bardak su içerim”. Her seferinde aynı yer, aynı an.</li><li><b>Üç haftaya değil, bir mevsime söz ver.</b> Takvimine 21. güne değil, yaklaşık 10 hafta sonrasına bir kontrol notu koy ve egzersiz gibi zor alışkanlıkların daha uzun sürmesini bekle.</li><li><b>Yoğunluğu değil, tutarlılığı koru.</b> Kötü bir günde küçük bir versiyonunu yap (bir şınav, bir sayfa) ki işaret yine eyleme götürsün.</li><li><b>Geri dönüşünü şimdiden planla.</b> Kaçırılan bir günden sonra ne yapacağına karar ver ki bir aksama, aksama olarak kalsın.</li><li><b>Sadece sayıya değil, hissettirdiğine bak.</b> Bitiş çizgisi takvimdeki bir tarih değil, alışkanlığın kendiliğinden gelmeye başladığı andır.</li></ol><aside class=\"tip\"><b>İpucu</b> Bir ila üç alışkanlıkla başla. İlki kolaylaştıktan sonra yenisini eklemek, aynı pazartesi beşini birden başlatmaktan daha naziktir.</aside><aside class=\"note\"><b>Dotday'de</b> Alışkanlığı sabah, öğleden sonra ya da akşam grubuna koy ki işaretinin yanında dursun, bir hatırlatıcı kur ve alışkanlık gücünü takip et. Her işaretlemeyle artar ve kaçırılan bir günden sonra yavaşça düşer; bu da alışkanlıkların gerçekte nasıl oluştuğuyla örtüşür.</aside>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "21 gün kuralı doğru mu?",
+      "a": "Alışkanlıklar için bir kural olarak değil. Kaynağı, Maxwell Maltz'ın 1960 tarihli Psycho-Cybernetics kitabı; kitap, benlik imgesindeki bir değişiklik için en az yaklaşık 21 gün gerektiğini anlatıyordu. Gerçek alışkanlıklar üzerine yapılan çalışmalar 59–66 günlük bir medyan ve kişiler arasında geniş aralıklar buldu."
+    },
+    {
+      "q": "Bir alışkanlık edinmek gerçekte ne kadar sürer?",
+      "a": "Lally ve ark. (2010) çalışmasında medyan 66 gündü ve süreler 18 ile 254 gün arasında değişti. 2024 tarihli bir sistematik derleme, sağlık alışkanlıklarının kişiye ve davranışa bağlı olarak genellikle 2 ila 5 ay sürdüğü sonucuna vardı."
+    },
+    {
+      "q": "Bir günü kaçırmak yeni bir alışkanlığı bozar mı?",
+      "a": "Hayır. Lally ve ark., bir fırsatı kaçırmanın alışkanlık oluşumunu kayda değer biçimde etkilemediğini buldu. Önemli olan bir sonraki sefer devam etmek."
+    },
+    {
+      "q": "Spor alışkanlığı edinmek ne kadar sürer?",
+      "a": "Spor salonuna yeni kaydolan 111 kişiyle yapılan bir çalışmada, egzersiz alışkanlığı oluşturmak için gereken asgari koşul 6 hafta boyunca haftada en az dört antrenmandı. Egzersiz, su içmek gibi daha basit alışkanlıklardan daha uzun sürebilir."
+    }
+  ],
+  "sources": [
+    {
+      "id": 1,
+      "text": "Lally, P., van Jaarsveld, C. H. M., Potts, H. W. W., & Wardle, J. (2010). How are habits formed: Modelling habit formation in the real world. European Journal of Social Psychology, 40(6), 998–1009.",
+      "url": "https://doi.org/10.1002/ejsp.674"
+    },
+    {
+      "id": 2,
+      "text": "Singh, B., Murphy, A., Maher, C., & Smith, A. E. (2024). Time to form a habit: A systematic review and meta-analysis of health behaviour habit formation and its determinants. Healthcare, 12(23), 2488.",
+      "url": "https://doi.org/10.3390/healthcare12232488"
+    },
+    {
+      "id": 3,
+      "text": "Maltz, M. (1960). Psycho-Cybernetics: A new way to get more living out of life. (Quoted from the updated and expanded Perigee edition, 2015.)",
+      "url": "https://archive.org/details/psychocybernetic00malt"
+    },
+    {
+      "id": 4,
+      "text": "Kaushal, N., & Rhodes, R. E. (2015). Exercise habit formation in new gym members: A longitudinal study. Journal of Behavioral Medicine, 38(4), 652–663.",
+      "url": "https://doi.org/10.1007/s10865-015-9640-7"
+    }
+  ],
+  "cta_title": "Alışkanlığına ihtiyaç duyduğu zamanı ver",
+  "cta_body": "Dotday; hatırlatıcılar, affedici seriler ve 21. günün ötesindeki ilerlemeyi gösteren alışkanlık gücü puanıyla uzun vadede yolda kalmana yardım eder."
+}
