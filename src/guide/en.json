@@ -1,0 +1,83 @@
+{
+  "meta_title": "How to use Dotday — Habit Tracker Guide",
+  "meta_desc": "Step-by-step Dotday guide: create habits, set schedules and reminders, keep streaks with freezes, add widgets, read your stats and back up your data.",
+  "crumb": "Guide",
+  "h1": "How to use Dotday",
+  "lead": "Everything you need to know, from your first habit to widgets, streak freezes and backups — plus a few science-backed tips to make habits stick.",
+  "toc_title": "Contents",
+  "cta_title": "Ready to start?",
+  "cta_body": "Dotday is free on Google Play. No account needed.",
+  "sections": [
+    {
+      "id": "start",
+      "icon": "🚀",
+      "title": "Getting started",
+      "shot": "05_templates",
+      "html": "<p>Install Dotday from Google Play and open it. A short welcome asks what you want to improve and suggests a few habits to start with — you can change everything later.</p><ol><li>Tap the <b>+</b> button on the Today screen.</li><li>Pick one of the <b>40 templates</b> (drink water, read, work out, meditate, no smoking…) or choose <b>Create your own</b>.</li><li>Set a name, icon, color, type and schedule, then save.</li></ol><div class=\"tip\"><p><b>Tip:</b> start with 2–3 habits. Starting small works much better than trying to change everything at once.</p></div>"
+    },
+    {
+      "id": "types",
+      "icon": "🎯",
+      "title": "Choose the right habit type",
+      "html": "<p>Every habit has one of four types. The type can't be changed after the habit is created, so pick the one that fits best:</p><div class=\"table-scroll\"><table><thead><tr><th>Type</th><th>Use it for</th><th>Example</th></tr></thead><tbody><tr><td><b>Yes / No</b></td><td>Done or not done</td><td>Meditate, make the bed</td></tr><tr><td><b>Count</b></td><td>Reach a number</td><td>8 glasses of water, 20 pages</td></tr><tr><td><b>Timer</b></td><td>Spend time on it</td><td>30 minutes of reading</td></tr><tr><td><b>Quit</b></td><td>Break a bad habit</td><td>No smoking, no sugar</td></tr></tbody></table></div>"
+    },
+    {
+      "id": "schedule",
+      "icon": "📅",
+      "title": "Schedules and time of day",
+      "html": "<p>Not every habit has to be daily. In <b>Schedule</b> choose:</p><ul><li><b>Every day</b></li><li><b>Specific days</b> — e.g. Monday, Wednesday, Friday</li><li><b>Weekly goal</b> — e.g. 3 times a week, any days</li><li><b>Monthly goal</b> — e.g. 10 times a month</li><li><b>Every N days</b> — e.g. every 2 days</li></ul><p>With <b>Time of day</b> you can put a habit into the Morning, Afternoon or Evening group (or Anytime), so the Today screen reads like a plan for your day. To change the order, long-press any habit and choose <b>Reorder habits</b>.</p>"
+    },
+    {
+      "id": "checkin",
+      "icon": "✅",
+      "title": "Checking in",
+      "shot": "01_today",
+      "shot_dark": "06_today_dark",
+      "html": "<p>On the <b>Today</b> screen tap the circle next to a habit to mark it done. For count habits each tap adds progress; for timer habits <b>Start timer</b> runs a timer with a live notification you can pause or finish.</p><p>Use the week strip at the top to open a previous day and fix a missed check-in.</p><p><b>Long-press a habit</b> to open more actions: skip the day, use a streak freeze, add a note for the day, clear it or reorder your habits.</p>"
+    },
+    {
+      "id": "streaks",
+      "icon": "🔥",
+      "title": "Streaks, freezes and habit strength",
+      "shot": "02_detail",
+      "html": "<p>Your <b>streak</b> counts how many scheduled days in a row you've completed a habit. Dotday is built to forgive real life:</p><ul><li><b>Skip this day</b> — rest without breaking your streak.</li><li><b>Streak freeze ❄️</b> — protects your streak on a day you couldn't do it. Free users get 1 freeze a month, Pro users get 5.</li><li><b>Habit strength</b> — a 0–100% score that grows with every check-in and drops gently when you miss. One bad day doesn't erase weeks of work.</li></ul><div class=\"tip\"><p><b>Tip:</b> watch habit strength rather than the streak. Around 80%+ the habit is becoming automatic.</p></div>"
+    },
+    {
+      "id": "reminders",
+      "icon": "🔔",
+      "title": "Reminders",
+      "html": "<p>Edit a habit, tap <b>Add reminder</b> and choose a time. When the notification arrives you can tap <b>Done</b> or <b>In 10 min</b> without opening the app. Free users get 1 reminder per habit; Pro users get up to 5.</p><p>If reminders don't arrive, make sure notifications are allowed for Dotday and that battery optimization isn't stopping the app (Settings → Apps → Dotday → Battery → Unrestricted).</p>"
+    },
+    {
+      "id": "widgets",
+      "icon": "🧩",
+      "title": "Widgets, tile and shortcuts",
+      "html": "<p>Long-press an empty spot on your home screen, tap <b>Widgets</b> and find Dotday:</p><ul><li><b>Today's habits</b> — check habits off right from the home screen.</li><li><b>Habit streak</b> <span class=\"badge-pro\">PRO</span> — one habit with its progress ring and streak.</li><li><b>Habit history</b> <span class=\"badge-pro\">PRO</span> — a habit's recent weeks as a heatmap.</li></ul><p>You can also add the <b>Next habit</b> tile to Quick Settings, and long-press the Dotday icon for a <b>New habit</b> shortcut.</p>"
+    },
+    {
+      "id": "stats",
+      "icon": "📊",
+      "title": "Statistics and insights",
+      "shot": "04_insights",
+      "html": "<p>The <b>Stats</b> tab shows heatmaps, calendars and completion trends for 7, 30 and 90 days, plus your best streaks. Free users see the last 30 days; Pro unlocks the full history.</p><p>In <b>Insights</b>, answer “How are you feeling today?” with one tap. Over time Dotday shows your best and hardest days, which habits are becoming automatic and <b>which habits lift your mood</b>. Free users see 2 insights; Pro unlocks all of them.</p>"
+    },
+    {
+      "id": "health",
+      "icon": "⌚",
+      "title": "Health Connect",
+      "html": "<p><span class=\"badge-pro\">PRO</span> Connect a habit to <b>Health Connect</b> and it can be completed automatically from your fitness apps and watch: <b>steps</b>, <b>sleep</b> or <b>exercise</b>. Edit the habit, choose a source in the Health Connect section and allow access. Data syncs when you open Dotday.</p>"
+    },
+    {
+      "id": "backup",
+      "icon": "💾",
+      "title": "Backup and moving to a new phone",
+      "html": "<p>Your data lives only on your phone, so keep a backup:</p><ol><li>Open <b>Settings → Your data</b>.</li><li>Tap <b>Export backup</b> <span class=\"badge-pro\">PRO</span> to save all habits and history as a JSON file (or <b>Export to spreadsheet</b> for a CSV you can open in Excel or Google Sheets).</li><li>On the new phone, install Dotday, open <b>Settings → Your data → Restore from backup</b> and pick the file. Restoring is free.</li></ol><div class=\"tip\"><p><b>Note:</b> restoring replaces all habits and history currently on that device.</p></div>"
+    },
+    {
+      "id": "tips",
+      "icon": "🌱",
+      "title": "7 tips to make a habit stick",
+      "html": "<ol><li><b>Start tiny.</b> “Read 2 pages” beats “read an hour”. You can always do more.</li><li><b>Anchor it.</b> Attach the new habit to something you already do: “after coffee, I meditate”.</li><li><b>Make it visible.</b> A home-screen widget is a reminder you see 50 times a day.</li><li><b>Never miss twice.</b> Missing once is life; missing twice is the start of a new habit. Use a skip or freeze and get back the next day.</li><li><b>Pick a realistic schedule.</b> 3 times a week that you actually do is better than daily that you abandon.</li><li><b>Track how it feels.</b> Log your mood — seeing that a habit makes you happier is the best motivation.</li><li><b>Be patient.</b> Habits take weeks, not days, to become automatic. Watch habit strength grow.</li></ol>"
+    }
+  ]
+}

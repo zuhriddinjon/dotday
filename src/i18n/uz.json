@@ -1,0 +1,218 @@
+{
+  "meta_title": "Dotday — odat kuzatuvchi va kundalik reja ilovasi (Android)",
+  "meta_desc": "Dotday bilan foydali odatlar shakllantiring: bir bosishda belgilash, yumshoq seriyalar, tahlil va widgetlar. Bepul, maxfiy, ro'yxatdan o'tishsiz.",
+  "app_name": "Dotday: Odatlar kuzatuvchisi",
+  "skip": "Asosiy qismga o'tish",
+  "nav_label": "Asosiy menyu",
+  "nav_features": "Imkoniyatlar",
+  "nav_guide": "Yo'riqnoma",
+  "nav_faq": "Savollar",
+  "nav_get": "Yuklab olish",
+  "lang_label": "Til",
+  "theme_label": "Tungi rejimni almashtirish",
+  "close": "Yopish",
+  "prev": "Oldingi",
+  "next": "Keyingi",
+  "suggest_msg": "Sayt o'zbek tilida ham bor.",
+  "suggest_go": "O'zbekcha",
+  "play_small": "YUKLAB OLING",
+  "hero_eyebrow": "Android uchun odat kuzatuvchi",
+  "hero_h1a": "Kichik odatlar.",
+  "hero_h1b": "Katta o'zgarishlar.",
+  "hero_lead": "Dotday foydali odatlarni shakllantirish va zararli odatlardan qutulishga yordam beradi — hech qanday bosimsiz. Bir bosishda belgilang, band kunlarda ham seriyani saqlang va aynan sizga nima foyda berishini ko'ring.",
+  "hero_note": "Bepul · Akkauntsiz · Reklamasiz",
+  "chip1_title": "24 kunlik seriya",
+  "chip1_sub": "Meditatsiya",
+  "chip2_title": "3 / 6 bajarildi",
+  "chip2_sub": "Bugun",
+  "trust": [
+    "Bepul",
+    "Ro'yxatdan o'tishsiz",
+    "Ma'lumotlar telefoningizda",
+    "13 ta til"
+  ],
+  "features_kicker": "Imkoniyatlar",
+  "features_title": "Odatlar mustahkam o'rnashishi uchun",
+  "features_sub": "Izchil bo'lish uchun kerakli hamma narsa — ortiqcha hech narsa yo'q.",
+  "showcases": [
+    {
+      "tag": "Bugun",
+      "title": "Butun kuningiz — bir bosishda",
+      "body": "Ertalab, Kunduzi va Kechqurun guruhlari kundalik rejangizni oddiy ro'yxatga aylantiradi. Bir bosing — tamom.",
+      "points": [
+        "Ha/yo'q, son, taymer va yomon odatni tashlash",
+        "Hafta lentasida har bir kun ko'rinib turadi",
+        "«Bajarildi» va «Keyinroq» — bevosita eslatmada"
+      ],
+      "shot": "01_today",
+      "shot_dark": "06_today_dark"
+    },
+    {
+      "tag": "Seriyalar",
+      "title": "Yomon kunni kechiradigan seriyalar",
+      "body": "Dam olish kunlari, moslashuvchan jadval va seriyani muzlatish sizni yo'ldan qaytarmaydi. Odat mustahkamligi seriya uzunligini emas, odat qanchalik o'rnashganini ko'rsatadi.",
+      "points": [
+        "Seriyani buzmasdan kunni o'tkazib yuborish",
+        "Band yoki betob kunlar uchun seriyani muzlatish",
+        "0 dan 100% gacha odat mustahkamligi"
+      ],
+      "shot": "02_detail"
+    },
+    {
+      "tag": "Hisobot",
+      "title": "Haqiqiy natijangizni ko'ring",
+      "body": "Heatmap, kalendar va bajarilish dinamikasi 7, 30 va 90 kun davomida qanday ketayotganingizni aniq ko'rsatadi.",
+      "points": [
+        "Har bir odat uchun heatmap",
+        "Eng uzun seriya va bajarilish foizi",
+        "Kunduzgi va tungi rejimda chiroyli"
+      ],
+      "shot": "03_stats",
+      "shot_dark": "08_stats_dark"
+    },
+    {
+      "tag": "Tahlil",
+      "title": "Ruhlantiruvchi tahlillar",
+      "body": "Kayfiyatingizni bir soniyada belgilang — Dotday nima ish berishini topadi: eng yaxshi va eng qiyin kunlaringiz, qaysi odatlar kayfiyatni ko'tarishi.",
+      "points": [
+        "Bir bosishda kayfiyatni belgilash",
+        "Keyingi marraga oz qolganda eslatadi",
+        "Sizni baxtliroq qiladigan odatlarni toping"
+      ],
+      "shot": "04_insights"
+    }
+  ],
+  "more_kicker": "Va yana ko'p narsa",
+  "more_title": "Kichik detallar, katta farq",
+  "more_sub": "Kuzatishni oson qiladigan o'ylangan imkoniyatlar.",
+  "cards": [
+    {
+      "icon": "🧩",
+      "title": "Bosh ekran widgetlari",
+      "body": "Bugungi odatlarni belgilang, seriya yoki heatmapni kuzating — ilovani ochmasdan."
+    },
+    {
+      "icon": "🔔",
+      "title": "Ishonchli eslatmalar",
+      "body": "Odatni bevosita bildirishnomadan belgilang yoki keyinga suring."
+    },
+    {
+      "icon": "⏱️",
+      "title": "Ichki taymer",
+      "body": "Vaqtga bog'liq odatlar uchun jonli bildirishnomali taymer."
+    },
+    {
+      "icon": "⌚",
+      "title": "Health Connect",
+      "body": "Qadamlar, uyqu va mashg'ulotlar odatlarni avtomatik belgilaydi."
+    },
+    {
+      "icon": "📋",
+      "title": "40 ta shablon",
+      "body": "Suv, kitob, sport, meditatsiya, chekmaslik — bir necha soniyada boshlang."
+    },
+    {
+      "icon": "☀️",
+      "title": "Kuningizni rejalang",
+      "body": "Odatlarni ertalab, kunduzi va kechqurun guruhlariga ajrating."
+    },
+    {
+      "icon": "📝",
+      "title": "Izohlar va kayfiyat",
+      "body": "Har kunga izoh qo'shing va odatlar kayfiyatga qanday ta'sir qilishini ko'ring."
+    },
+    {
+      "icon": "🌙",
+      "title": "Tungi rejim va AMOLED",
+      "body": "Material You ranglari va OLED ekranlar uchun to'liq qora mavzu."
+    },
+    {
+      "icon": "💾",
+      "title": "Zaxira nusxa",
+      "body": "Pro bilan hammasini JSON yoki CSV'ga eksport qiling va yangi telefonda tiklang."
+    }
+  ],
+  "gallery_kicker": "Skrinshotlar",
+  "gallery_title": "Ilova ichiga nazar tashlang",
+  "steps_kicker": "Qanday ishlaydi",
+  "steps_title": "Bir daqiqada boshlang",
+  "steps_sub": "Akkaunt ham, sozlash ham, o'rganish ham shart emas.",
+  "steps_guide_link": "To'liq yo'riqnomani o'qing",
+  "steps": [
+    {
+      "title": "Odatlarni tanlang",
+      "body": "40 ta shablondan tanlang yoki o'zingiznikini yarating — xohlagan odat, o'zingizcha."
+    },
+    {
+      "title": "Har kuni belgilang",
+      "body": "«Bugun» ekranida, widgetda yoki bildirishnomada bir bosish kifoya."
+    },
+    {
+      "title": "Natijani kuzating",
+      "body": "Seriyalar, odat mustahkamligi va tahlillar o'sishingizni ko'rsatadi."
+    }
+  ],
+  "privacy_title": "Maxfiylik — asosiy tamoyil",
+  "privacy_body": "Akkaunt yo'q. Ro'yxatdan o'tish yo'q. Reklama yo'q. Odatlaringiz, izohlaringiz va kayfiyatingiz faqat telefoningizda saqlanadi — biz ularni ko'rmaymiz.",
+  "privacy_pills": [
+    "Akkauntsiz",
+    "Reklamasiz",
+    "Internetsiz ishlaydi",
+    "Ma'lumot — sizning telefoningizda"
+  ],
+  "pro_title": "Pro bilan hamma imkoniyatlarni oching",
+  "pro_body": "Asosiy funksiyalar umrbod bepul. Cheksiz odatlar va barcha imkoniyatlar uchun Pro'ga o'ting — 7 kun bepul sinab ko'ring.",
+  "pro_list": [
+    "Cheksiz odatlar",
+    "To'liq tarix va 90 kunlik statistika",
+    "Barcha tahlillar va kayfiyat bog'liqligi",
+    "Health Connect orqali avtomatik belgilash",
+    "Barcha widgetlar",
+    "Har oy 5 ta seriya muzlatish",
+    "Har bir odatga 5 tagacha eslatma",
+    "JSON va CSV eksport"
+  ],
+  "pro_fine": "Oylik, yillik obuna yoki bir martalik umrbod xarid. Google Play'da istalgan vaqtda bekor qilish mumkin.",
+  "faq_title": "Ko'p beriladigan savollar",
+  "faq": [
+    {
+      "q": "Dotday bepulmi?",
+      "a": "Ha. Asosiy ilova umrbod bepul: 5 tagacha odat, eslatmalar, seriyalar, «Bugungi odatlar» widgeti va 30 kunlik statistika. Dotday Pro cheksiz odatlar va barcha imkoniyatlarni ochadi, 7 kun bepul sinov bilan."
+    },
+    {
+      "q": "Akkaunt ochish kerakmi?",
+      "a": "Yo'q. Dotday akkauntsiz, ro'yxatdan o'tishsiz va internetsiz ishlaydi. O'rnating va boshlang."
+    },
+    {
+      "q": "Ma'lumotlarim qayerda saqlanadi?",
+      "a": "Faqat telefoningizda. Odatlaringiz, izohlaringiz va kayfiyatingiz qurilmangizdan chiqmaydi. Pro bilan istalgan vaqtda JSON yoki CSV zaxira nusxa olishingiz mumkin."
+    },
+    {
+      "q": "Bir kunni o'tkazib yuborsam nima bo'ladi?",
+      "a": "Natijangiz yo'qolmaydi. Kunni dam olish kuni sifatida o'tkazib yuborishingiz, seriyani muzlatishingiz yoki kundalik o'rniga haftalik maqsad qo'yishingiz mumkin. Odat mustahkamligi nolga tushmaydi, asta-sekin kamayadi."
+    },
+    {
+      "q": "Qanday odatlarni kuzatish mumkin?",
+      "a": "To'rt xil: ha/yo'q («meditatsiya»), son («8 stakan suv»), taymer («30 daqiqa kitob o'qish») va yomon odatni tashlash («chekmaslik»)."
+    },
+    {
+      "q": "Odatlarimni yangi telefonga qanday o'tkazaman?",
+      "a": "Dotday Pro bilan Sozlamalar → Ma'lumotlaringiz → Zaxira nusxa olish'ni bosing va JSON faylni saqlang. Yangi telefonda Dotday'ni o'rnatib, «Zaxiradan tiklash»ni tanlang — tiklash bepul."
+    },
+    {
+      "q": "iPhone uchun versiyasi bormi?",
+      "a": "Hozircha yo'q — Dotday hozir Google Play'da Android uchun mavjud."
+    },
+    {
+      "q": "Pro obunani qanday bekor qilaman?",
+      "a": "Google Play → Profil → To'lovlar va obunalar → Obunalar bo'limida Dotday'ni tanlab, «Bekor qilish»ni bosing. Umrbod xaridni bekor qilish shart emas."
+    }
+  ],
+  "final_title": "Bugun bitta kichik odatdan boshlang",
+  "final_body": "Kelajakdagi o'zingiz sizga rahmat aytadi. 🌱",
+  "foot_tagline": "Android uchun chiroyli va maxfiy odat kuzatuvchi.",
+  "foot_app": "Dotday",
+  "foot_privacy": "Maxfiylik siyosati",
+  "foot_terms": "Foydalanish shartlari",
+  "foot_contact": "Aloqa"
+}

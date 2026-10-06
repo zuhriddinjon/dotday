@@ -1,0 +1,218 @@
+{
+  "meta_title": "Dotday – Habit Tracker & Routinen-Planer für Android",
+  "meta_desc": "Dotday ist ein kostenloser, privater Habit Tracker: Gewohnheiten mit einem Tipp abhaken, nachsichtige Serien, smarte Insights und Widgets. Ohne Konto.",
+  "app_name": "Dotday: Gewohnheitstracker",
+  "skip": "Zum Inhalt springen",
+  "nav_label": "Hauptmenü",
+  "nav_features": "Funktionen",
+  "nav_guide": "Anleitung",
+  "nav_faq": "FAQ",
+  "nav_get": "App holen",
+  "lang_label": "Sprache",
+  "theme_label": "Dunkelmodus umschalten",
+  "close": "Schließen",
+  "prev": "Zurück",
+  "next": "Weiter",
+  "suggest_msg": "Diese Seite ist auch auf Deutsch verfügbar.",
+  "suggest_go": "Deutsch",
+  "play_small": "JETZT BEI",
+  "hero_eyebrow": "Habit Tracker für Android",
+  "hero_h1a": "Kleine Gewohnheiten.",
+  "hero_h1b": "Große Wirkung.",
+  "hero_lead": "Mit Dotday baust du gute Gewohnheiten auf und legst schlechte ab – ganz ohne Druck. Hak sie mit einem Tipp ab, halte deine Serie auch an stressigen Tagen am Leben und finde heraus, was für dich wirklich funktioniert.",
+  "hero_note": "Kostenlos · Ohne Konto · Ohne Werbung",
+  "chip1_title": "24-Tage-Serie",
+  "chip1_sub": "Meditieren",
+  "chip2_title": "3 / 6 erledigt",
+  "chip2_sub": "Heute",
+  "trust": [
+    "Kostenlos nutzbar",
+    "Keine Anmeldung",
+    "Daten bleiben auf dem Handy",
+    "13 Sprachen"
+  ],
+  "features_kicker": "Funktionen",
+  "features_title": "Damit Gewohnheiten bleiben",
+  "features_sub": "Alles, was du für mehr Beständigkeit brauchst – und nichts, was dich ausbremst.",
+  "showcases": [
+    {
+      "tag": "Heute",
+      "title": "Dein ganzer Tag, nur einen Tipp entfernt",
+      "body": "Gruppen für morgens, mittags und abends machen deine Routine zur einfachen Checkliste. Ein Tipp – erledigt.",
+      "points": [
+        "Ja/Nein, Zähler, Timer und Gewohnheiten zum Aufhören",
+        "Die Wochenleiste zeigt jeden Tag auf einen Blick",
+        "„Erledigt“ und „In 10 Min.“ direkt in der Erinnerung"
+      ],
+      "shot": "01_today",
+      "shot_dark": "06_today_dark"
+    },
+    {
+      "tag": "Serien",
+      "title": "Serien, die einen schlechten Tag verzeihen",
+      "body": "Ruhetage, flexible Zeitpläne und Serien-Freezes halten dich am Ball. Die Gewohnheitsstärke zeigt, wie gefestigt eine Gewohnheit wirklich ist – nicht nur, wie lang deine Serie ist.",
+      "points": [
+        "Einen Tag überspringen, ohne die Serie zu verlieren",
+        "Serien-Freezes für stressige Tage oder Krankheit",
+        "Gewohnheitsstärke von 0 bis 100 %"
+      ],
+      "shot": "02_detail"
+    },
+    {
+      "tag": "Statistik",
+      "title": "Sieh deinen echten Fortschritt",
+      "body": "Heatmaps, Kalender und Erfolgstrends zeigen genau, wie es bei dir in 7, 30 und 90 Tagen läuft.",
+      "points": [
+        "Heatmap für jede Gewohnheit",
+        "Rekordserie und Erfolgsquote",
+        "Schön im hellen und dunklen Modus"
+      ],
+      "shot": "03_stats",
+      "shot_dark": "08_stats_dark"
+    },
+    {
+      "tag": "Insights",
+      "title": "Insights, die dich motivieren",
+      "body": "Halte deine Stimmung in einer Sekunde fest, und Dotday findet heraus, was wirklich hilft: deine besten und schwierigsten Tage und welche Gewohnheiten deine Stimmung heben.",
+      "points": [
+        "Stimmung mit einem Tipp erfassen",
+        "Anstöße kurz vor dem nächsten Meilenstein",
+        "Finde die Gewohnheiten, die dich glücklicher machen"
+      ],
+      "shot": "04_insights"
+    }
+  ],
+  "more_kicker": "Und noch viel mehr",
+  "more_title": "Kleine Details, großer Unterschied",
+  "more_sub": "Durchdachte Funktionen, die das Tracken mühelos machen.",
+  "cards": [
+    {
+      "icon": "🧩",
+      "title": "Widgets für den Startbildschirm",
+      "body": "Hak die heutigen Gewohnheiten ab oder behalte eine Serie oder Heatmap im Blick – ohne die App zu öffnen."
+    },
+    {
+      "icon": "🔔",
+      "title": "Erinnerungen, die helfen",
+      "body": "Gewohnheit direkt in der Benachrichtigung abhaken oder verschieben."
+    },
+    {
+      "icon": "⏱️",
+      "title": "Integrierter Timer",
+      "body": "Zeitbasierte Gewohnheiten bekommen einen Timer mit Live-Benachrichtigung."
+    },
+    {
+      "icon": "⌚",
+      "title": "Health Connect",
+      "body": "Schritte, Schlaf und Workouts können Gewohnheiten automatisch abhaken."
+    },
+    {
+      "icon": "📋",
+      "title": "40 Vorlagen",
+      "body": "Wasser, Lesen, Training, Meditation, Nichtrauchen – in Sekunden startklar."
+    },
+    {
+      "icon": "☀️",
+      "title": "Plane deinen Tag",
+      "body": "Ordne Gewohnheiten morgens, mittags und abends zu."
+    },
+    {
+      "icon": "📝",
+      "title": "Notizen und Stimmungen",
+      "body": "Füge jedem Tag eine Notiz hinzu und sieh, wie Gewohnheiten deine Stimmung beeinflussen."
+    },
+    {
+      "icon": "🌙",
+      "title": "Dunkelmodus & AMOLED",
+      "body": "Material-You-Farben und ein tiefschwarzes Design für OLED-Displays."
+    },
+    {
+      "icon": "💾",
+      "title": "Backup & Export",
+      "body": "Mit Pro alles als JSON oder CSV exportieren und auf einem neuen Handy wiederherstellen."
+    }
+  ],
+  "gallery_kicker": "Screenshots",
+  "gallery_title": "Ein Blick in die App",
+  "steps_kicker": "So funktioniert’s",
+  "steps_title": "In unter einer Minute startklar",
+  "steps_sub": "Kein Konto, keine Einrichtung, keine Einarbeitung.",
+  "steps_guide_link": "Zur vollständigen Anleitung",
+  "steps": [
+    {
+      "title": "Gewohnheiten wählen",
+      "body": "Nimm eine der 40 Vorlagen oder erstelle eigene – jede Gewohnheit, ganz wie du willst."
+    },
+    {
+      "title": "Täglich abhaken",
+      "body": "Ein Tipp auf dem Heute-Bildschirm, im Widget oder in der Benachrichtigung."
+    },
+    {
+      "title": "Dranbleiben und staunen",
+      "body": "Serien, Gewohnheitsstärke und Insights zeigen, wie dein Fortschritt wächst."
+    }
+  ],
+  "privacy_title": "Privat von Anfang an",
+  "privacy_body": "Kein Konto. Keine Anmeldung. Keine Werbung. Deine Gewohnheiten, Notizen und Stimmungen werden nur auf deinem Handy gespeichert – wir sehen sie nie.",
+  "privacy_pills": [
+    "Kein Konto",
+    "Keine Werbung",
+    "Offline",
+    "Deine Daten, dein Handy"
+  ],
+  "pro_title": "Alles freischalten mit Pro",
+  "pro_body": "Die Basis-App ist für immer kostenlos. Mit Pro bekommst du unbegrenzt viele Gewohnheiten und alle Funktionen – teste es 7 Tage gratis.",
+  "pro_list": [
+    "Unbegrenzt viele Gewohnheiten",
+    "Vollständiger Verlauf und 90-Tage-Statistiken",
+    "Alle Insights und Stimmungs-Zusammenhänge",
+    "Automatisches Tracking mit Health Connect",
+    "Alle Widgets",
+    "5 Serien-Freezes pro Monat",
+    "Bis zu 5 Erinnerungen pro Gewohnheit",
+    "Export als JSON und CSV"
+  ],
+  "pro_fine": "Monats- oder Jahresabo oder einmaliger Lifetime-Kauf. Jederzeit in Google Play kündbar.",
+  "faq_title": "Häufige Fragen",
+  "faq": [
+    {
+      "q": "Ist Dotday kostenlos?",
+      "a": "Ja. Die Basis-App ist für immer kostenlos: bis zu 5 Gewohnheiten, Erinnerungen, Serien, das Heute-Widget und Statistiken für 30 Tage. Dotday Pro schaltet unbegrenzt viele Gewohnheiten und alle Funktionen frei – mit 7 Tagen gratis zum Testen."
+    },
+    {
+      "q": "Brauche ich ein Konto?",
+      "a": "Nein. Dotday funktioniert ohne Konto, ohne Anmeldung und ohne Internetverbindung. Einfach installieren und loslegen."
+    },
+    {
+      "q": "Wo werden meine Daten gespeichert?",
+      "a": "Nur auf deinem Handy. Deine Gewohnheiten, Notizen und Stimmungen verlassen nie dein Gerät. Mit Pro kannst du jederzeit ein Backup als JSON oder CSV exportieren."
+    },
+    {
+      "q": "Was passiert, wenn ich einen Tag verpasse?",
+      "a": "Dein Fortschritt ist nicht weg. Du kannst den Tag als Ruhetag überspringen, einen Serien-Freeze nutzen oder statt eines Tagesziels ein Wochenziel festlegen. Die Gewohnheitsstärke sinkt nur sanft, statt auf null zu fallen."
+    },
+    {
+      "q": "Welche Gewohnheiten kann ich tracken?",
+      "a": "Vier Arten: Ja/Nein („Meditieren“), Zähler („8 Gläser Wasser“), Timer („30 Minuten lesen“) und Gewohnheiten zum Aufhören („Nicht rauchen“)."
+    },
+    {
+      "q": "Wie übertrage ich meine Gewohnheiten auf ein neues Handy?",
+      "a": "Öffne mit Dotday Pro Optionen → Deine Daten → Backup exportieren und speichere die JSON-Datei. Installiere Dotday auf dem neuen Handy und wähle Backup wiederherstellen – das Wiederherstellen ist kostenlos."
+    },
+    {
+      "q": "Gibt es eine iPhone-Version?",
+      "a": "Noch nicht – Dotday gibt es derzeit für Android bei Google Play."
+    },
+    {
+      "q": "Wie kündige ich Pro?",
+      "a": "Öffne Google Play → Profil → Zahlungen & Abos → Abos, wähle Dotday und tippe auf Kündigen. Ein Lifetime-Kauf muss nie gekündigt werden."
+    }
+  ],
+  "final_title": "Fang heute mit einer kleinen Gewohnheit an",
+  "final_body": "Dein zukünftiges Ich wird es dir danken. 🌱",
+  "foot_tagline": "Ein schöner, privater Habit Tracker für Android.",
+  "foot_app": "Dotday",
+  "foot_privacy": "Datenschutzerklärung",
+  "foot_terms": "Nutzungsbedingungen",
+  "foot_contact": "Kontakt"
+}

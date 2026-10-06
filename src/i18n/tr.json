@@ -1,0 +1,218 @@
+{
+  "meta_title": "Dotday — Alışkanlık Takibi ve Günlük Rutin Uygulaması",
+  "meta_desc": "Dotday ile iyi alışkanlıklar edin, kötülerini bırak: tek dokunuşla işaretleme, affedici seriler, akıllı analizler ve widget'lar. Ücretsiz, gizli, kayıtsız.",
+  "app_name": "Dotday: Alışkanlık Takibi",
+  "skip": "İçeriğe geç",
+  "nav_label": "Ana menü",
+  "nav_features": "Özellikler",
+  "nav_guide": "Rehber",
+  "nav_faq": "SSS",
+  "nav_get": "Uygulamayı indir",
+  "lang_label": "Dil",
+  "theme_label": "Karanlık modu aç/kapat",
+  "close": "Kapat",
+  "prev": "Önceki",
+  "next": "Sonraki",
+  "suggest_msg": "Bu site Türkçe olarak da mevcut.",
+  "suggest_go": "Türkçe",
+  "play_small": "ŞİMDİ ALIN",
+  "hero_eyebrow": "Android için alışkanlık takibi",
+  "hero_h1a": "Küçük alışkanlıklar.",
+  "hero_h1b": "Büyük değişim.",
+  "hero_lead": "Dotday, iyi alışkanlıklar edinmene ve kötülerini bırakmana baskı olmadan yardım eder. Tek dokunuşla işaretle, yoğun günlerde bile serini koru ve sana gerçekten neyin iyi geldiğini gör.",
+  "hero_note": "Ücretsiz · Hesap yok · Reklam yok",
+  "chip1_title": "24 günlük seri",
+  "chip1_sub": "Meditasyon",
+  "chip2_title": "3 / 6 tamamlandı",
+  "chip2_sub": "Bugün",
+  "trust": [
+    "Ücretsiz",
+    "Kayıt yok",
+    "Veriler telefonunda kalır",
+    "13 dil"
+  ],
+  "features_kicker": "Özellikler",
+  "features_title": "Alışkanlıkların kalıcı olsun diye",
+  "features_sub": "İstikrarlı kalman için gereken her şey — ve yoluna çıkan hiçbir şey.",
+  "showcases": [
+    {
+      "tag": "Bugün",
+      "title": "Tüm günün tek dokunuş uzağında",
+      "body": "Sabah, öğleden sonra ve akşam grupları rutinini basit bir kontrol listesine dönüştürür. Bir kez dokun, tamam.",
+      "points": [
+        "Evet/hayır, sayı, süre ve bırakma alışkanlıkları",
+        "Hafta şeridinde her gün bir bakışta",
+        "Hatırlatıcıdan doğrudan \"Tamamlandı\" ve \"10 dk sonra\""
+      ],
+      "shot": "01_today",
+      "shot_dark": "06_today_dark"
+    },
+    {
+      "tag": "Seriler",
+      "title": "Kötü bir günü affeden seriler",
+      "body": "Dinlenme günleri, esnek planlar ve seri dondurma seni yolda tutar. Alışkanlık gücü, sadece serinin uzunluğunu değil, alışkanlığın ne kadar oturduğunu gösterir.",
+      "points": [
+        "Seriyi bozmadan bir günü atla",
+        "Yoğun ya da hasta günler için seri dondurma",
+        "0'dan %100'e alışkanlık gücü puanı"
+      ],
+      "shot": "02_detail"
+    },
+    {
+      "tag": "İstatistikler",
+      "title": "Gerçek ilerlemeni gör",
+      "body": "Isı haritaları, takvimler ve tamamlanma eğilimleri 7, 30 ve 90 günde nasıl gittiğini net olarak gösterir.",
+      "points": [
+        "Her alışkanlık için ısı haritası",
+        "En uzun seri ve tamamlanma oranı",
+        "Açık ve karanlık modda şık"
+      ],
+      "shot": "03_stats",
+      "shot_dark": "08_stats_dark"
+    },
+    {
+      "tag": "Analizler",
+      "title": "Seni motive eden analizler",
+      "body": "Ruh halini bir saniyede kaydet, Dotday neyin gerçekten işe yaradığını bulsun: en iyi ve en zorlu günlerin, ruh halini yükselten alışkanlıklar.",
+      "points": [
+        "Tek dokunuşla ruh hali kaydı",
+        "Bir sonraki hedefinden önce küçük hatırlatmalar",
+        "Seni daha mutlu eden alışkanlıkları keşfet"
+      ],
+      "shot": "04_insights"
+    }
+  ],
+  "more_kicker": "Ve çok daha fazlası",
+  "more_title": "Küçük detaylar, büyük fark",
+  "more_sub": "Takibi zahmetsiz kılan özenli özellikler.",
+  "cards": [
+    {
+      "icon": "🧩",
+      "title": "Ana ekran widget'ları",
+      "body": "Bugünün alışkanlıklarını işaretle, serini ya da ısı haritanı izle — uygulamayı açmadan."
+    },
+    {
+      "icon": "🔔",
+      "title": "İşe yarayan hatırlatıcılar",
+      "body": "Alışkanlığı doğrudan bildirimden tamamla ya da ertele."
+    },
+    {
+      "icon": "⏱️",
+      "title": "Dahili zamanlayıcı",
+      "body": "Süreye dayalı alışkanlıklar için canlı bildirimli zamanlayıcı."
+    },
+    {
+      "icon": "⌚",
+      "title": "Health Connect",
+      "body": "Adımlar, uyku ve antrenmanlar alışkanlıkları otomatik tamamlayabilir."
+    },
+    {
+      "icon": "📋",
+      "title": "40 şablon",
+      "body": "Su, kitap okuma, spor, meditasyon, sigara yok — saniyeler içinde başla."
+    },
+    {
+      "icon": "☀️",
+      "title": "Gününü planla",
+      "body": "Alışkanlıklarını sabah, öğleden sonra ve akşam olarak grupla."
+    },
+    {
+      "icon": "📝",
+      "title": "Notlar ve ruh hali",
+      "body": "Her güne not ekle, alışkanlıkların ruh halini nasıl etkilediğini gör."
+    },
+    {
+      "icon": "🌙",
+      "title": "Karanlık mod ve AMOLED",
+      "body": "Material You renkleri ve OLED ekranlar için saf siyah tema."
+    },
+    {
+      "icon": "💾",
+      "title": "Yedekleme ve dışa aktarma",
+      "body": "Pro ile her şeyi JSON veya CSV olarak dışa aktar, yeni telefonda geri yükle."
+    }
+  ],
+  "gallery_kicker": "Ekran görüntüleri",
+  "gallery_title": "İçeriye bir göz at",
+  "steps_kicker": "Nasıl çalışır",
+  "steps_title": "Bir dakikadan kısa sürede başla",
+  "steps_sub": "Hesap yok, kurulum yok, öğrenme süreci yok.",
+  "steps_guide_link": "Rehberin tamamını oku",
+  "steps": [
+    {
+      "title": "Alışkanlıklarını seç",
+      "body": "40 şablondan birini seç ya da kendininkini oluştur — her alışkanlık, senin tarzında."
+    },
+    {
+      "title": "Her gün işaretle",
+      "body": "Bugün ekranında, widget'ta ya da bildirimde tek dokunuş."
+    },
+    {
+      "title": "Kalıcı olduklarını gör",
+      "body": "Seriler, alışkanlık gücü ve analizler ilerlemeni gösterir."
+    }
+  ],
+  "privacy_title": "Gizlilik öncelikli",
+  "privacy_body": "Hesap yok. Kayıt yok. Reklam yok. Alışkanlıkların, notların ve ruh halin yalnızca telefonunda saklanır — biz asla görmeyiz.",
+  "privacy_pills": [
+    "Hesap yok",
+    "Reklam yok",
+    "Çevrimdışı",
+    "Senin verin, senin telefonun"
+  ],
+  "pro_title": "Pro ile her şeyin kilidini aç",
+  "pro_body": "Temel uygulama sonsuza dek ücretsiz. Sınırsız alışkanlık ve tüm özellikler için Pro'ya geç — 7 gün ücretsiz dene.",
+  "pro_list": [
+    "Sınırsız alışkanlık",
+    "Tüm geçmiş ve 90 günlük istatistikler",
+    "Tüm analizler ve ruh hali bağlantıları",
+    "Health Connect ile otomatik takip",
+    "Tüm widget'lar",
+    "Her ay 5 seri dondurma",
+    "Alışkanlık başına 5 hatırlatıcıya kadar",
+    "JSON ve CSV'ye aktarma"
+  ],
+  "pro_fine": "Aylık, yıllık ya da tek seferlik ömür boyu satın alma. Google Play'den istediğin zaman iptal et.",
+  "faq_title": "Sık sorulan sorular",
+  "faq": [
+    {
+      "q": "Dotday ücretsiz mi?",
+      "a": "Evet. Temel uygulama sonsuza dek ücretsiz: 5 alışkanlığa kadar, hatırlatıcılar, seriler, Bugün widget'ı ve 30 günlük istatistikler. Dotday Pro sınırsız alışkanlık ve tüm özellikleri açar; 7 gün ücretsiz deneme sunar."
+    },
+    {
+      "q": "Hesap oluşturmam gerekiyor mu?",
+      "a": "Hayır. Dotday hesap, kayıt ya da internet bağlantısı olmadan çalışır. Yükle ve hemen başla."
+    },
+    {
+      "q": "Verilerim nerede saklanıyor?",
+      "a": "Yalnızca telefonunda. Alışkanlıkların, notların ve ruh halin cihazından asla çıkmaz. Pro ile istediğin zaman JSON veya CSV yedeği dışa aktarabilirsin."
+    },
+    {
+      "q": "Bir günü kaçırırsam ne olur?",
+      "a": "Emeğin boşa gitmez. Günü dinlenme günü olarak atlayabilir, seri dondurma kullanabilir ya da günlük yerine haftalık hedef belirleyebilirsin. Alışkanlık gücü sıfırlanmaz, yavaşça düşer."
+    },
+    {
+      "q": "Hangi tür alışkanlıkları takip edebilirim?",
+      "a": "Dört tür: evet/hayır (\"meditasyon\"), sayı (\"8 bardak su\"), süre (\"30 dk kitap okuma\") ve bırakma alışkanlıkları (\"sigara yok\")."
+    },
+    {
+      "q": "Alışkanlıklarımı yeni telefona nasıl taşırım?",
+      "a": "Dotday Pro ile Ayarlar → Verilerin → Yedekle yolunu izle ve JSON dosyasını kaydet. Yeni telefona Dotday'i yükle ve Yedekten geri yükle'yi seç — geri yükleme ücretsiz."
+    },
+    {
+      "q": "iPhone sürümü var mı?",
+      "a": "Henüz yok — Dotday şu an yalnızca Android için Google Play'de."
+    },
+    {
+      "q": "Pro aboneliğimi nasıl iptal ederim?",
+      "a": "Google Play → Profil → Ödemeler ve abonelikler → Abonelikler'i aç, Dotday'i seç ve İptal et'e dokun. Ömür boyu satın alımın iptal edilmesi gerekmez."
+    }
+  ],
+  "final_title": "Bugün küçük bir alışkanlıkla başla",
+  "final_body": "Gelecekteki sen sana teşekkür edecek. 🌱",
+  "foot_tagline": "Android için şık ve gizli bir alışkanlık takibi uygulaması.",
+  "foot_app": "Dotday",
+  "foot_privacy": "Gizlilik Politikası",
+  "foot_terms": "Kullanım Koşulları",
+  "foot_contact": "İletişim"
+}

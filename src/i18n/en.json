@@ -1,0 +1,218 @@
+{
+  "meta_title": "Dotday — Habit Tracker & Daily Routine Planner for Android",
+  "meta_desc": "Build good habits and break bad ones with Dotday: one-tap check-ins, forgiving streaks, smart insights and widgets. Free, private, no sign-up.",
+  "app_name": "Dotday: Daily Habit Tracker",
+  "skip": "Skip to content",
+  "nav_label": "Main",
+  "nav_features": "Features",
+  "nav_guide": "Guide",
+  "nav_faq": "FAQ",
+  "nav_get": "Get the app",
+  "lang_label": "Language",
+  "theme_label": "Toggle dark mode",
+  "close": "Close",
+  "prev": "Previous",
+  "next": "Next",
+  "suggest_msg": "This site is available in English.",
+  "suggest_go": "English",
+  "play_small": "GET IT ON",
+  "hero_eyebrow": "Habit tracker for Android",
+  "hero_h1a": "Small habits.",
+  "hero_h1b": "Big change.",
+  "hero_lead": "Dotday helps you build good habits and break bad ones — without pressure. Check in with one tap, keep your streak alive on busy days and see what really works for you.",
+  "hero_note": "Free · No account · No ads",
+  "chip1_title": "24-day streak",
+  "chip1_sub": "Meditation",
+  "chip2_title": "3 / 6 done",
+  "chip2_sub": "Today",
+  "trust": [
+    "Free to use",
+    "No sign-up",
+    "Data stays on your phone",
+    "13 languages"
+  ],
+  "features_kicker": "Features",
+  "features_title": "Built to help habits stick",
+  "features_sub": "Everything you need to stay consistent — and nothing that gets in the way.",
+  "showcases": [
+    {
+      "tag": "Today",
+      "title": "Your whole day, one tap away",
+      "body": "Morning, afternoon and evening groups turn your routine into a simple checklist. Tap once and it's done.",
+      "points": [
+        "Yes/no, counts, timers and quit habits",
+        "Week strip shows every day at a glance",
+        "Done and Snooze right from the reminder"
+      ],
+      "shot": "01_today",
+      "shot_dark": "06_today_dark"
+    },
+    {
+      "tag": "Streaks",
+      "title": "Streaks that forgive a bad day",
+      "body": "Rest days, flexible schedules and streak freezes keep you going. Habit strength shows how solid a habit really is — not just how long your streak is.",
+      "points": [
+        "Skip a day without breaking your streak",
+        "Streak freezes for busy or sick days",
+        "Habit strength score from 0 to 100%"
+      ],
+      "shot": "02_detail"
+    },
+    {
+      "tag": "Statistics",
+      "title": "See your real progress",
+      "body": "Heatmaps, calendars and completion trends show exactly how you're doing over 7, 30 and 90 days.",
+      "points": [
+        "Heatmap of every habit",
+        "Best streak and completion rate",
+        "Beautiful in light and dark mode"
+      ],
+      "shot": "03_stats",
+      "shot_dark": "08_stats_dark"
+    },
+    {
+      "tag": "Insights",
+      "title": "Insights that keep you going",
+      "body": "Log your mood in a second and Dotday finds what really works: your best and hardest days, and which habits lift your mood.",
+      "points": [
+        "Mood check-in with one tap",
+        "Nudges before your next milestone",
+        "Find the habits that make you happier"
+      ],
+      "shot": "04_insights"
+    }
+  ],
+  "more_kicker": "And much more",
+  "more_title": "Small details, big difference",
+  "more_sub": "Thoughtful features that make tracking effortless.",
+  "cards": [
+    {
+      "icon": "🧩",
+      "title": "Home-screen widgets",
+      "body": "Check off today's habits, watch a streak or a heatmap — without opening the app."
+    },
+    {
+      "icon": "🔔",
+      "title": "Reminders that work",
+      "body": "Mark a habit done or snooze it right from the notification."
+    },
+    {
+      "icon": "⏱️",
+      "title": "Built-in timer",
+      "body": "Time-based habits get a timer with a live notification."
+    },
+    {
+      "icon": "⌚",
+      "title": "Health Connect",
+      "body": "Steps, sleep and workouts can complete habits automatically."
+    },
+    {
+      "icon": "📋",
+      "title": "40 templates",
+      "body": "Water, reading, workout, meditation, no smoking — start in seconds."
+    },
+    {
+      "icon": "☀️",
+      "title": "Plan your day",
+      "body": "Group habits into morning, afternoon and evening."
+    },
+    {
+      "icon": "📝",
+      "title": "Notes and moods",
+      "body": "Add a note to any day and see how habits affect your mood."
+    },
+    {
+      "icon": "🌙",
+      "title": "Dark mode & AMOLED",
+      "body": "Material You colors and a pure-black theme for OLED screens."
+    },
+    {
+      "icon": "💾",
+      "title": "Backup & export",
+      "body": "Export everything to JSON or CSV with Pro, and restore it on a new phone."
+    }
+  ],
+  "gallery_kicker": "Screenshots",
+  "gallery_title": "Take a look inside",
+  "steps_kicker": "How it works",
+  "steps_title": "Start in under a minute",
+  "steps_sub": "No account, no setup, no learning curve.",
+  "steps_guide_link": "Read the full guide",
+  "steps": [
+    {
+      "title": "Pick your habits",
+      "body": "Choose from 40 templates or create your own — any habit, your way."
+    },
+    {
+      "title": "Check in every day",
+      "body": "One tap on the Today screen, a widget or the notification."
+    },
+    {
+      "title": "Watch them stick",
+      "body": "Streaks, habit strength and insights show your progress grow."
+    }
+  ],
+  "privacy_title": "Private by design",
+  "privacy_body": "No account. No sign-up. No ads. Your habits, notes and moods are stored only on your phone — we never see them.",
+  "privacy_pills": [
+    "No account",
+    "No ads",
+    "Offline",
+    "Your data, your phone"
+  ],
+  "pro_title": "Unlock everything with Pro",
+  "pro_body": "The core app is free forever. Go Pro for unlimited habits and every feature — try it free for 7 days.",
+  "pro_list": [
+    "Unlimited habits",
+    "Full history and 90-day stats",
+    "All insights and mood correlations",
+    "Health Connect auto-tracking",
+    "All widgets",
+    "5 streak freezes every month",
+    "Up to 5 reminders per habit",
+    "Export to JSON and CSV"
+  ],
+  "pro_fine": "Monthly, yearly or a one-time lifetime purchase. Cancel any time in Google Play.",
+  "faq_title": "Frequently asked questions",
+  "faq": [
+    {
+      "q": "Is Dotday free?",
+      "a": "Yes. The core app is free forever: up to 5 habits, reminders, streaks, the Today widget and 30 days of statistics. Dotday Pro unlocks unlimited habits and every feature, with a 7-day free trial."
+    },
+    {
+      "q": "Do I need to create an account?",
+      "a": "No. Dotday works without an account, sign-up or internet connection. Just install it and start."
+    },
+    {
+      "q": "Where is my data stored?",
+      "a": "Only on your phone. Your habits, notes and moods never leave your device. With Pro you can export a JSON or CSV backup at any time."
+    },
+    {
+      "q": "What happens if I miss a day?",
+      "a": "Your progress doesn't vanish. You can skip a day as a rest day, use a streak freeze, or set a weekly goal instead of a daily one. Habit strength drops gently instead of resetting to zero."
+    },
+    {
+      "q": "What kinds of habits can I track?",
+      "a": "Four types: yes/no (\"meditate\"), counts (\"8 glasses of water\"), timers (\"30 minutes of reading\") and quit habits (\"no smoking\")."
+    },
+    {
+      "q": "How do I move my habits to a new phone?",
+      "a": "With Dotday Pro, open Settings → Your data → Export backup and save the JSON file. On the new phone, install Dotday and choose Restore from backup — restoring is free."
+    },
+    {
+      "q": "Is there an iPhone version?",
+      "a": "Not yet — Dotday is currently available for Android on Google Play."
+    },
+    {
+      "q": "How do I cancel Pro?",
+      "a": "Open Google Play → Profile → Payments & subscriptions → Subscriptions, choose Dotday and tap Cancel. A lifetime purchase never needs cancelling."
+    }
+  ],
+  "final_title": "Start with one small habit today",
+  "final_body": "Your future self will thank you. 🌱",
+  "foot_tagline": "A beautiful, private habit tracker for Android.",
+  "foot_app": "Dotday",
+  "foot_privacy": "Privacy Policy",
+  "foot_terms": "Terms of Use",
+  "foot_contact": "Contact"
+}

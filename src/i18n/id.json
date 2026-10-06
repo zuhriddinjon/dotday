@@ -1,0 +1,218 @@
+{
+  "meta_title": "Dotday — Aplikasi Pelacak Kebiasaan & Rutinitas Harian",
+  "meta_desc": "Bangun kebiasaan baik dan hentikan yang buruk dengan Dotday, pelacak kebiasaan Android: check-in sekali ketuk, streak pemaaf, insight & widget. Gratis, privat.",
+  "app_name": "Dotday: Pelacak Kebiasaan",
+  "skip": "Langsung ke konten",
+  "nav_label": "Utama",
+  "nav_features": "Fitur",
+  "nav_guide": "Panduan",
+  "nav_faq": "FAQ",
+  "nav_get": "Unduh aplikasi",
+  "lang_label": "Bahasa",
+  "theme_label": "Ganti mode gelap",
+  "close": "Tutup",
+  "prev": "Sebelumnya",
+  "next": "Berikutnya",
+  "suggest_msg": "Situs ini juga tersedia dalam Bahasa Indonesia.",
+  "suggest_go": "Bahasa Indonesia",
+  "play_small": "TEMUKAN DI",
+  "hero_eyebrow": "Pelacak kebiasaan untuk Android",
+  "hero_h1a": "Kebiasaan kecil.",
+  "hero_h1b": "Perubahan besar.",
+  "hero_lead": "Dotday membantumu membangun kebiasaan baik dan menghentikan kebiasaan buruk — tanpa tekanan. Check-in dengan sekali ketuk, jaga streak tetap hidup di hari yang sibuk, dan lihat apa yang benar-benar berhasil untukmu.",
+  "hero_note": "Gratis · Tanpa akun · Tanpa iklan",
+  "chip1_title": "Streak 24 hari",
+  "chip1_sub": "Meditasi",
+  "chip2_title": "3 / 6 selesai",
+  "chip2_sub": "Hari ini",
+  "trust": [
+    "Gratis digunakan",
+    "Tanpa daftar",
+    "Data tetap di HP-mu",
+    "13 bahasa"
+  ],
+  "features_kicker": "Fitur",
+  "features_title": "Dibuat agar kebiasaan melekat",
+  "features_sub": "Semua yang kamu butuhkan untuk tetap konsisten — tanpa ada yang menghalangi.",
+  "showcases": [
+    {
+      "tag": "Hari ini",
+      "title": "Seluruh harimu, sekali ketuk",
+      "body": "Grup pagi, siang, dan malam mengubah rutinitasmu jadi checklist sederhana. Ketuk sekali, selesai.",
+      "points": [
+        "Ya/tidak, jumlah, timer, dan kebiasaan yang ingin dihentikan",
+        "Strip mingguan menampilkan setiap hari sekilas",
+        "\"Selesai\" dan \"10 mnt lagi\" langsung dari pengingat"
+      ],
+      "shot": "01_today",
+      "shot_dark": "06_today_dark"
+    },
+    {
+      "tag": "Streak",
+      "title": "Streak yang memaafkan hari buruk",
+      "body": "Hari istirahat, jadwal fleksibel, dan pembeku streak membuatmu terus melaju. Kekuatan kebiasaan menunjukkan seberapa kuat sebuah kebiasaan — bukan hanya seberapa panjang streak-mu.",
+      "points": [
+        "Lewati satu hari tanpa memutus streak",
+        "Pembeku streak untuk hari sibuk atau sakit",
+        "Skor kekuatan kebiasaan dari 0 hingga 100%"
+      ],
+      "shot": "02_detail"
+    },
+    {
+      "tag": "Statistik",
+      "title": "Lihat progres nyatamu",
+      "body": "Heatmap, kalender, dan tren penyelesaian menunjukkan dengan jelas perkembanganmu dalam 7, 30, dan 90 hari.",
+      "points": [
+        "Heatmap untuk setiap kebiasaan",
+        "Streak terbaik dan tingkat penyelesaian",
+        "Indah di mode terang maupun gelap"
+      ],
+      "shot": "03_stats",
+      "shot_dark": "08_stats_dark"
+    },
+    {
+      "tag": "Insight",
+      "title": "Insight yang bikin kamu terus maju",
+      "body": "Catat mood-mu dalam sedetik dan Dotday menemukan apa yang benar-benar berhasil: hari terbaik dan tersulitmu, serta kebiasaan yang membuat mood-mu naik.",
+      "points": [
+        "Check-in mood sekali ketuk",
+        "Dorongan sebelum pencapaian berikutnya",
+        "Temukan kebiasaan yang membuatmu lebih bahagia"
+      ],
+      "shot": "04_insights"
+    }
+  ],
+  "more_kicker": "Dan masih banyak lagi",
+  "more_title": "Detail kecil, perbedaan besar",
+  "more_sub": "Fitur yang dipikirkan matang agar pelacakan terasa mudah.",
+  "cards": [
+    {
+      "icon": "🧩",
+      "title": "Widget layar utama",
+      "body": "Centang kebiasaan hari ini, pantau streak atau heatmap — tanpa membuka aplikasi."
+    },
+    {
+      "icon": "🔔",
+      "title": "Pengingat yang bekerja",
+      "body": "Tandai kebiasaan selesai atau tunda langsung dari notifikasi."
+    },
+    {
+      "icon": "⏱️",
+      "title": "Timer bawaan",
+      "body": "Kebiasaan berbasis waktu dapat timer dengan notifikasi langsung."
+    },
+    {
+      "icon": "⌚",
+      "title": "Health Connect",
+      "body": "Langkah, tidur, dan olahraga bisa menyelesaikan kebiasaan secara otomatis."
+    },
+    {
+      "icon": "📋",
+      "title": "40 template",
+      "body": "Minum air, membaca, olahraga, meditasi, tidak merokok — mulai dalam hitungan detik."
+    },
+    {
+      "icon": "☀️",
+      "title": "Rencanakan harimu",
+      "body": "Kelompokkan kebiasaan ke pagi, siang, dan malam."
+    },
+    {
+      "icon": "📝",
+      "title": "Catatan dan mood",
+      "body": "Tambahkan catatan di hari mana pun dan lihat pengaruh kebiasaan pada mood-mu."
+    },
+    {
+      "icon": "🌙",
+      "title": "Mode gelap & AMOLED",
+      "body": "Warna Material You dan tema hitam pekat untuk layar OLED."
+    },
+    {
+      "icon": "💾",
+      "title": "Cadangan & ekspor",
+      "body": "Ekspor semuanya ke JSON atau CSV dengan Pro, lalu pulihkan di HP baru."
+    }
+  ],
+  "gallery_kicker": "Tangkapan layar",
+  "gallery_title": "Intip isinya",
+  "steps_kicker": "Cara kerjanya",
+  "steps_title": "Mulai dalam kurang dari semenit",
+  "steps_sub": "Tanpa akun, tanpa pengaturan, tanpa perlu belajar.",
+  "steps_guide_link": "Baca panduan lengkap",
+  "steps": [
+    {
+      "title": "Pilih kebiasaanmu",
+      "body": "Pilih dari 40 template atau buat sendiri — kebiasaan apa pun, sesuai caramu."
+    },
+    {
+      "title": "Check-in setiap hari",
+      "body": "Sekali ketuk di layar Hari ini, widget, atau notifikasi."
+    },
+    {
+      "title": "Lihat kebiasaanmu melekat",
+      "body": "Streak, kekuatan kebiasaan, dan insight menunjukkan progresmu bertumbuh."
+    }
+  ],
+  "privacy_title": "Privasi sejak awal",
+  "privacy_body": "Tanpa akun. Tanpa daftar. Tanpa iklan. Kebiasaan, catatan, dan mood-mu hanya disimpan di HP-mu — kami tidak pernah melihatnya.",
+  "privacy_pills": [
+    "Tanpa akun",
+    "Tanpa iklan",
+    "Offline",
+    "Datamu, HP-mu"
+  ],
+  "pro_title": "Buka semuanya dengan Pro",
+  "pro_body": "Aplikasi intinya gratis selamanya. Upgrade ke Pro untuk kebiasaan tanpa batas dan semua fitur — coba gratis 7 hari.",
+  "pro_list": [
+    "Kebiasaan tanpa batas",
+    "Riwayat lengkap dan statistik 90 hari",
+    "Semua insight dan korelasi mood",
+    "Pelacakan otomatis dengan Health Connect",
+    "Semua widget",
+    "5 pembeku streak setiap bulan",
+    "Hingga 5 pengingat per kebiasaan",
+    "Ekspor ke JSON dan CSV"
+  ],
+  "pro_fine": "Bulanan, tahunan, atau pembelian seumur hidup sekali bayar. Batalkan kapan saja di Google Play.",
+  "faq_title": "Pertanyaan yang sering diajukan",
+  "faq": [
+    {
+      "q": "Apakah Dotday gratis?",
+      "a": "Ya. Aplikasi intinya gratis selamanya: hingga 5 kebiasaan, pengingat, streak, widget Hari ini, dan statistik 30 hari. Dotday Pro membuka kebiasaan tanpa batas dan semua fitur, dengan uji coba gratis 7 hari."
+    },
+    {
+      "q": "Apakah saya perlu membuat akun?",
+      "a": "Tidak. Dotday bekerja tanpa akun, pendaftaran, atau koneksi internet. Cukup instal dan mulai."
+    },
+    {
+      "q": "Di mana data saya disimpan?",
+      "a": "Hanya di HP-mu. Kebiasaan, catatan, dan mood-mu tidak pernah keluar dari perangkatmu. Dengan Pro, kamu bisa mengekspor cadangan JSON atau CSV kapan saja."
+    },
+    {
+      "q": "Bagaimana jika saya melewatkan satu hari?",
+      "a": "Progresmu tidak hilang. Kamu bisa melewati hari itu sebagai hari istirahat, memakai pembeku streak, atau memasang target mingguan alih-alih harian. Kekuatan kebiasaan turun perlahan, tidak kembali ke nol."
+    },
+    {
+      "q": "Kebiasaan apa saja yang bisa dilacak?",
+      "a": "Empat jenis: ya/tidak (\"meditasi\"), jumlah (\"8 gelas air\"), timer (\"30 menit membaca\") dan kebiasaan yang ingin dihentikan (\"tidak merokok\")."
+    },
+    {
+      "q": "Bagaimana cara memindahkan kebiasaan ke HP baru?",
+      "a": "Dengan Dotday Pro, buka Pengaturan → Datamu → Ekspor cadangan dan simpan file JSON-nya. Di HP baru, instal Dotday dan pilih Pulihkan dari cadangan — memulihkan itu gratis."
+    },
+    {
+      "q": "Apakah ada versi iPhone?",
+      "a": "Belum — saat ini Dotday tersedia untuk Android di Google Play."
+    },
+    {
+      "q": "Bagaimana cara membatalkan Pro?",
+      "a": "Buka Google Play → Profil → Pembayaran & langganan → Langganan, pilih Dotday, lalu ketuk Batalkan. Pembelian seumur hidup tidak perlu dibatalkan."
+    }
+  ],
+  "final_title": "Mulai dengan satu kebiasaan kecil hari ini",
+  "final_body": "Dirimu di masa depan akan berterima kasih. 🌱",
+  "foot_tagline": "Pelacak kebiasaan yang cantik dan privat untuk Android.",
+  "foot_app": "Dotday",
+  "foot_privacy": "Kebijakan Privasi",
+  "foot_terms": "Ketentuan Penggunaan",
+  "foot_contact": "Kontak"
+}

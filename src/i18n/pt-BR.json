@@ -1,0 +1,218 @@
+{
+  "meta_title": "Dotday — Rastreador de hábitos e rotinas para Android",
+  "meta_desc": "Dotday é um rastreador de hábitos grátis e privado: crie bons hábitos com um toque, sequências que perdoam, insights inteligentes e widgets. Sem cadastro.",
+  "app_name": "Dotday: Rastreador de Hábitos",
+  "skip": "Pular para o conteúdo",
+  "nav_label": "Principal",
+  "nav_features": "Recursos",
+  "nav_guide": "Guia",
+  "nav_faq": "Dúvidas",
+  "nav_get": "Baixar o app",
+  "lang_label": "Idioma",
+  "theme_label": "Alternar modo escuro",
+  "close": "Fechar",
+  "prev": "Anterior",
+  "next": "Próximo",
+  "suggest_msg": "Este site está disponível em português.",
+  "suggest_go": "Português",
+  "play_small": "DISPONÍVEL NO",
+  "hero_eyebrow": "Rastreador de hábitos para Android",
+  "hero_h1a": "Pequenos hábitos.",
+  "hero_h1b": "Grandes mudanças.",
+  "hero_lead": "O Dotday ajuda você a criar bons hábitos e largar os ruins — sem pressão. Faça check-in com um toque, mantenha sua sequência viva nos dias corridos e descubra o que realmente funciona para você.",
+  "hero_note": "Grátis · Sem conta · Sem anúncios",
+  "chip1_title": "Sequência de 24 dias",
+  "chip1_sub": "Meditar",
+  "chip2_title": "3 / 6 feitos",
+  "chip2_sub": "Hoje",
+  "trust": [
+    "Grátis para usar",
+    "Sem cadastro",
+    "Dados ficam no seu celular",
+    "13 idiomas"
+  ],
+  "features_kicker": "Recursos",
+  "features_title": "Feito para seus hábitos durarem",
+  "features_sub": "Tudo o que você precisa para manter a constância — e nada que atrapalhe.",
+  "showcases": [
+    {
+      "tag": "Hoje",
+      "title": "Seu dia inteiro a um toque",
+      "body": "Grupos de manhã, tarde e noite transformam sua rotina numa checklist simples. Um toque e pronto.",
+      "points": [
+        "Sim/não, contagens, timers e hábitos para largar",
+        "A faixa da semana mostra cada dia num relance",
+        "\"Feito\" e \"Em 10 min\" direto no lembrete"
+      ],
+      "shot": "01_today",
+      "shot_dark": "06_today_dark"
+    },
+    {
+      "tag": "Sequências",
+      "title": "Sequências que perdoam um dia ruim",
+      "body": "Dias de descanso, agenda flexível e congelamentos de sequência mantêm você no ritmo. A força do hábito mostra o quanto ele está realmente consolidado — não só o tamanho da sua sequência.",
+      "points": [
+        "Pule um dia sem quebrar sua sequência",
+        "Congelamentos para dias corridos ou de doença",
+        "Força do hábito de 0 a 100%"
+      ],
+      "shot": "02_detail"
+    },
+    {
+      "tag": "Estatísticas",
+      "title": "Veja seu progresso real",
+      "body": "Mapas de calor, calendários e tendências de conclusão mostram exatamente como você está em 7, 30 e 90 dias.",
+      "points": [
+        "Mapa de calor de cada hábito",
+        "Recorde de sequência e taxa de conclusão",
+        "Lindo no modo claro e no escuro"
+      ],
+      "shot": "03_stats",
+      "shot_dark": "08_stats_dark"
+    },
+    {
+      "tag": "Insights",
+      "title": "Insights que mantêm você motivado",
+      "body": "Registre seu humor em um segundo e o Dotday descobre o que realmente funciona: seus melhores dias e os mais difíceis, e quais hábitos melhoram seu humor.",
+      "points": [
+        "Registro de humor com um toque",
+        "Avisos antes do seu próximo marco",
+        "Descubra os hábitos que deixam você mais feliz"
+      ],
+      "shot": "04_insights"
+    }
+  ],
+  "more_kicker": "E muito mais",
+  "more_title": "Pequenos detalhes, grande diferença",
+  "more_sub": "Recursos pensados para acompanhar seus hábitos sem esforço.",
+  "cards": [
+    {
+      "icon": "🧩",
+      "title": "Widgets na tela inicial",
+      "body": "Marque os hábitos de hoje, acompanhe uma sequência ou um mapa de calor — sem abrir o app."
+    },
+    {
+      "icon": "🔔",
+      "title": "Lembretes que funcionam",
+      "body": "Conclua ou adie um hábito direto na notificação."
+    },
+    {
+      "icon": "⏱️",
+      "title": "Timer integrado",
+      "body": "Hábitos por tempo ganham um timer com notificação ao vivo."
+    },
+    {
+      "icon": "⌚",
+      "title": "Health Connect",
+      "body": "Passos, sono e treinos podem concluir hábitos automaticamente."
+    },
+    {
+      "icon": "📋",
+      "title": "40 modelos",
+      "body": "Água, leitura, treino, meditação, não fumar — comece em segundos."
+    },
+    {
+      "icon": "☀️",
+      "title": "Planeje seu dia",
+      "body": "Agrupe hábitos em manhã, tarde e noite."
+    },
+    {
+      "icon": "📝",
+      "title": "Anotações e humor",
+      "body": "Adicione uma anotação a qualquer dia e veja como os hábitos afetam seu humor."
+    },
+    {
+      "icon": "🌙",
+      "title": "Modo escuro e AMOLED",
+      "body": "Cores do Material You e um tema preto puro para telas OLED."
+    },
+    {
+      "icon": "💾",
+      "title": "Backup e exportação",
+      "body": "Exporte tudo em JSON ou CSV com o Pro e restaure em um celular novo."
+    }
+  ],
+  "gallery_kicker": "Capturas de tela",
+  "gallery_title": "Dê uma olhada por dentro",
+  "steps_kicker": "Como funciona",
+  "steps_title": "Comece em menos de um minuto",
+  "steps_sub": "Sem conta, sem configuração, sem complicação.",
+  "steps_guide_link": "Leia o guia completo",
+  "steps": [
+    {
+      "title": "Escolha seus hábitos",
+      "body": "Use um dos 40 modelos ou crie o seu — qualquer hábito, do seu jeito."
+    },
+    {
+      "title": "Faça check-in todo dia",
+      "body": "Um toque na tela Hoje, num widget ou na notificação."
+    },
+    {
+      "title": "Veja os hábitos pegarem",
+      "body": "Sequências, força do hábito e insights mostram seu progresso crescer."
+    }
+  ],
+  "privacy_title": "Privacidade em primeiro lugar",
+  "privacy_body": "Sem conta. Sem cadastro. Sem anúncios. Seus hábitos, anotações e humores ficam só no seu celular — nós nunca os vemos.",
+  "privacy_pills": [
+    "Sem conta",
+    "Sem anúncios",
+    "Offline",
+    "Seus dados, seu celular"
+  ],
+  "pro_title": "Libere tudo com o Pro",
+  "pro_body": "O app principal é grátis para sempre. Seja Pro para ter hábitos ilimitados e todos os recursos — teste grátis por 7 dias.",
+  "pro_list": [
+    "Hábitos ilimitados",
+    "Histórico completo e estatísticas de 90 dias",
+    "Todos os insights e correlações com o humor",
+    "Registro automático com o Health Connect",
+    "Todos os widgets",
+    "5 congelamentos de sequência por mês",
+    "Até 5 lembretes por hábito",
+    "Exportação para JSON e CSV"
+  ],
+  "pro_fine": "Plano mensal, anual ou compra única vitalícia. Cancele quando quiser no Google Play.",
+  "faq_title": "Perguntas frequentes",
+  "faq": [
+    {
+      "q": "O Dotday é grátis?",
+      "a": "Sim. O app principal é grátis para sempre: até 5 hábitos, lembretes, sequências, o widget Hábitos de hoje e 30 dias de estatísticas. O Dotday Pro libera hábitos ilimitados e todos os recursos, com 7 dias de teste grátis."
+    },
+    {
+      "q": "Preciso criar uma conta?",
+      "a": "Não. O Dotday funciona sem conta, sem cadastro e sem internet. É só instalar e começar."
+    },
+    {
+      "q": "Onde ficam meus dados?",
+      "a": "Só no seu celular. Seus hábitos, anotações e humores nunca saem do aparelho. Com o Pro, você pode exportar um backup em JSON ou CSV quando quiser."
+    },
+    {
+      "q": "E se eu perder um dia?",
+      "a": "Seu progresso não some. Você pode pular o dia como dia de descanso, usar um congelamento de sequência ou definir uma meta semanal em vez de diária. A força do hábito cai aos poucos em vez de zerar."
+    },
+    {
+      "q": "Que tipos de hábito posso acompanhar?",
+      "a": "Quatro tipos: sim/não (\"meditar\"), contagens (\"8 copos de água\"), timers (\"30 minutos de leitura\") e hábitos para largar (\"não fumar\")."
+    },
+    {
+      "q": "Como levo meus hábitos para um celular novo?",
+      "a": "Com o Dotday Pro, abra Ajustes → Seus dados → Exportar backup e salve o arquivo JSON. No celular novo, instale o Dotday e escolha Restaurar backup — restaurar é grátis."
+    },
+    {
+      "q": "Tem versão para iPhone?",
+      "a": "Ainda não — por enquanto o Dotday está disponível para Android no Google Play."
+    },
+    {
+      "q": "Como cancelo o Pro?",
+      "a": "Abra o Google Play → Perfil → Pagamentos e assinaturas → Assinaturas, escolha o Dotday e toque em Cancelar assinatura. Uma compra vitalícia nunca precisa ser cancelada."
+    }
+  ],
+  "final_title": "Comece hoje com um pequeno hábito",
+  "final_body": "Seu eu do futuro vai agradecer. 🌱",
+  "foot_tagline": "Um rastreador de hábitos bonito e privado para Android.",
+  "foot_app": "Dotday",
+  "foot_privacy": "Política de Privacidade",
+  "foot_terms": "Termos de Uso",
+  "foot_contact": "Contato"
+}

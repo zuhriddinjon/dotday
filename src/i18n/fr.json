@@ -1,0 +1,218 @@
+{
+  "meta_title": "Dotday — Suivi d'habitudes et routines pour Android",
+  "meta_desc": "Dotday, l'appli de suivi d'habitudes gratuite et privée : valide tes habitudes en un geste, séries bienveillantes, analyses et widgets. Sans inscription.",
+  "app_name": "Dotday : Suivi d'habitudes",
+  "skip": "Aller au contenu",
+  "nav_label": "Principal",
+  "nav_features": "Fonctionnalités",
+  "nav_guide": "Guide",
+  "nav_faq": "FAQ",
+  "nav_get": "Télécharger",
+  "lang_label": "Langue",
+  "theme_label": "Activer/désactiver le mode sombre",
+  "close": "Fermer",
+  "prev": "Précédent",
+  "next": "Suivant",
+  "suggest_msg": "Ce site est disponible en français.",
+  "suggest_go": "Français",
+  "play_small": "DISPONIBLE SUR",
+  "hero_eyebrow": "Suivi d'habitudes pour Android",
+  "hero_h1a": "Petites habitudes.",
+  "hero_h1b": "Grands changements.",
+  "hero_lead": "Dotday t'aide à prendre de bonnes habitudes et à te défaire des mauvaises — sans pression. Valide-les en un geste, garde ta série intacte même les jours chargés et découvre ce qui marche vraiment pour toi.",
+  "hero_note": "Gratuit · Sans compte · Sans pub",
+  "chip1_title": "Série de 24 jours",
+  "chip1_sub": "Méditer",
+  "chip2_title": "3 / 6 faits",
+  "chip2_sub": "Aujourd'hui",
+  "trust": [
+    "Gratuit",
+    "Sans inscription",
+    "Données sur ton téléphone",
+    "13 langues"
+  ],
+  "features_kicker": "Fonctionnalités",
+  "features_title": "Conçu pour que tes habitudes durent",
+  "features_sub": "Tout ce qu'il faut pour rester régulier — et rien qui ne gêne.",
+  "showcases": [
+    {
+      "tag": "Aujourd'hui",
+      "title": "Toute ta journée en un geste",
+      "body": "Les groupes matin, après-midi et soir transforment ta routine en une simple checklist. Un geste et c'est fait.",
+      "points": [
+        "Oui/non, compteurs, minuteurs et habitudes à arrêter",
+        "Le bandeau de la semaine montre chaque jour d'un coup d'œil",
+        "« Fait » et « Dans 10 min » directement depuis le rappel"
+      ],
+      "shot": "01_today",
+      "shot_dark": "06_today_dark"
+    },
+    {
+      "tag": "Séries",
+      "title": "Des séries qui pardonnent les mauvais jours",
+      "body": "Jours de repos, programmes flexibles et gels de série t'aident à tenir. L'indice de solidité montre à quel point une habitude est vraiment ancrée — pas seulement la longueur de ta série.",
+      "points": [
+        "Saute un jour sans casser ta série",
+        "Gels de série pour les jours chargés ou de maladie",
+        "Indice de solidité de 0 à 100 %"
+      ],
+      "shot": "02_detail"
+    },
+    {
+      "tag": "Statistiques",
+      "title": "Vois tes vrais progrès",
+      "body": "Cartes de chaleur, calendriers et tendances de réussite te montrent exactement où tu en es sur 7, 30 et 90 jours.",
+      "points": [
+        "Carte de chaleur pour chaque habitude",
+        "Meilleure série et taux de réussite",
+        "Superbe en mode clair comme en mode sombre"
+      ],
+      "shot": "03_stats",
+      "shot_dark": "08_stats_dark"
+    },
+    {
+      "tag": "Analyses",
+      "title": "Des analyses qui te motivent",
+      "body": "Note ton humeur en une seconde et Dotday trouve ce qui marche vraiment : tes meilleurs jours, les plus difficiles, et les habitudes qui améliorent ton humeur.",
+      "points": [
+        "Humeur du jour en un geste",
+        "Des encouragements avant ton prochain palier",
+        "Trouve les habitudes qui te rendent plus heureux"
+      ],
+      "shot": "04_insights"
+    }
+  ],
+  "more_kicker": "Et bien plus",
+  "more_title": "Petits détails, grande différence",
+  "more_sub": "Des fonctionnalités pensées pour un suivi sans effort.",
+  "cards": [
+    {
+      "icon": "🧩",
+      "title": "Widgets d'écran d'accueil",
+      "body": "Valide tes habitudes du jour, suis une série ou une carte de chaleur — sans ouvrir l'appli."
+    },
+    {
+      "icon": "🔔",
+      "title": "Des rappels efficaces",
+      "body": "Valide ou reporte une habitude directement depuis la notification."
+    },
+    {
+      "icon": "⏱️",
+      "title": "Minuteur intégré",
+      "body": "Les habitudes chronométrées ont un minuteur avec notification en direct."
+    },
+    {
+      "icon": "⌚",
+      "title": "Health Connect",
+      "body": "Pas, sommeil et séances de sport peuvent valider tes habitudes automatiquement."
+    },
+    {
+      "icon": "📋",
+      "title": "40 modèles",
+      "body": "Eau, lecture, sport, méditation, arrêt du tabac — démarre en quelques secondes."
+    },
+    {
+      "icon": "☀️",
+      "title": "Organise ta journée",
+      "body": "Regroupe tes habitudes en matin, après-midi et soir."
+    },
+    {
+      "icon": "📝",
+      "title": "Notes et humeurs",
+      "body": "Ajoute une note à n'importe quel jour et vois comment tes habitudes influencent ton humeur."
+    },
+    {
+      "icon": "🌙",
+      "title": "Mode sombre & AMOLED",
+      "body": "Couleurs Material You et thème noir intégral pour écrans OLED."
+    },
+    {
+      "icon": "💾",
+      "title": "Sauvegarde & export",
+      "body": "Exporte tout en JSON ou CSV avec Pro, et restaure-le sur un nouveau téléphone."
+    }
+  ],
+  "gallery_kicker": "Captures d'écran",
+  "gallery_title": "Un aperçu de l'appli",
+  "steps_kicker": "Comment ça marche",
+  "steps_title": "Prêt en moins d'une minute",
+  "steps_sub": "Pas de compte, pas de configuration, rien à apprendre.",
+  "steps_guide_link": "Lire le guide complet",
+  "steps": [
+    {
+      "title": "Choisis tes habitudes",
+      "body": "Pars de 40 modèles ou crée les tiennes — n'importe quelle habitude, à ta façon."
+    },
+    {
+      "title": "Valide chaque jour",
+      "body": "Un geste sur l'écran Aujourd'hui, un widget ou la notification."
+    },
+    {
+      "title": "Regarde-les s'ancrer",
+      "body": "Séries, indice de solidité et analyses montrent tes progrès grandir."
+    }
+  ],
+  "privacy_title": "Privé par nature",
+  "privacy_body": "Pas de compte. Pas d'inscription. Pas de pub. Tes habitudes, notes et humeurs restent uniquement sur ton téléphone — nous ne les voyons jamais.",
+  "privacy_pills": [
+    "Pas de compte",
+    "Pas de pub",
+    "Hors ligne",
+    "Tes données, ton téléphone"
+  ],
+  "pro_title": "Débloque tout avec Pro",
+  "pro_body": "L'appli de base est gratuite pour toujours. Passe à Pro pour des habitudes illimitées et toutes les fonctionnalités — essai gratuit de 7 jours.",
+  "pro_list": [
+    "Habitudes illimitées",
+    "Historique complet et statistiques sur 90 jours",
+    "Toutes les analyses et les liens avec l'humeur",
+    "Suivi automatique avec Health Connect",
+    "Tous les widgets",
+    "5 gels de série par mois",
+    "Jusqu'à 5 rappels par habitude",
+    "Export en JSON et CSV"
+  ],
+  "pro_fine": "Abonnement mensuel ou annuel, ou achat unique à vie. Résiliable à tout moment dans Google Play.",
+  "faq_title": "Questions fréquentes",
+  "faq": [
+    {
+      "q": "Dotday est-il gratuit ?",
+      "a": "Oui. L'appli de base est gratuite pour toujours : jusqu'à 5 habitudes, rappels, séries, le widget du jour et 30 jours de statistiques. Dotday Pro débloque les habitudes illimitées et toutes les fonctionnalités, avec un essai gratuit de 7 jours."
+    },
+    {
+      "q": "Faut-il créer un compte ?",
+      "a": "Non. Dotday fonctionne sans compte, sans inscription et sans connexion Internet. Il suffit de l'installer et de commencer."
+    },
+    {
+      "q": "Où sont stockées mes données ?",
+      "a": "Uniquement sur ton téléphone. Tes habitudes, notes et humeurs ne quittent jamais ton appareil. Avec Pro, tu peux exporter une sauvegarde JSON ou CSV à tout moment."
+    },
+    {
+      "q": "Que se passe-t-il si je rate un jour ?",
+      "a": "Tes progrès ne disparaissent pas. Tu peux sauter le jour comme jour de repos, utiliser un gel de série ou te fixer un objectif hebdomadaire plutôt que quotidien. L'indice de solidité baisse en douceur au lieu de retomber à zéro."
+    },
+    {
+      "q": "Quels types d'habitudes puis-je suivre ?",
+      "a": "Quatre types : oui/non (« méditer »), compteurs (« 8 verres d'eau »), minuteurs (« 30 minutes de lecture ») et habitudes à arrêter (« ne pas fumer »)."
+    },
+    {
+      "q": "Comment transférer mes habitudes sur un nouveau téléphone ?",
+      "a": "Avec Dotday Pro, ouvre Réglages → Tes données → Exporter une sauvegarde et enregistre le fichier JSON. Sur le nouveau téléphone, installe Dotday et choisis Restaurer une sauvegarde — la restauration est gratuite."
+    },
+    {
+      "q": "Existe-t-il une version iPhone ?",
+      "a": "Pas encore — Dotday est pour l'instant disponible sur Android via Google Play."
+    },
+    {
+      "q": "Comment résilier Pro ?",
+      "a": "Ouvre Google Play → Profil → Paiements et abonnements → Abonnements, choisis Dotday et appuie sur Résilier l'abonnement. Un achat à vie n'a jamais besoin d'être résilié."
+    }
+  ],
+  "final_title": "Commence aujourd'hui par une petite habitude",
+  "final_body": "Ton futur toi te dira merci. 🌱",
+  "foot_tagline": "Une appli de suivi d'habitudes belle et privée pour Android.",
+  "foot_app": "Dotday",
+  "foot_privacy": "Politique de confidentialité",
+  "foot_terms": "Conditions d'utilisation",
+  "foot_contact": "Contact"
+}
