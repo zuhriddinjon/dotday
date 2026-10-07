@@ -663,12 +663,22 @@ def extras():
 """)
 
     # /get/ — Instagram/Telegram ichki brauzeri play.google.com ni veb-sahifa sifatida ochadi;
-    # intent:// va market:// esa Play Store ilovasini to'g'ridan-to'g'ri chaqiradi
+    # intent:// va market:// esa Play Store ilovasini to'g'ridan-to'g'ri chaqiradi.
+    # Kanal: /get/?s=telegram&m=post&c=kanal_nomi -> Play referrer utm_source/utm_medium/utm_campaign
+    # (Play Console -> Store analysis -> UTM). Parametrsiz — Instagram bio.
     ref = "utm_source%3Dinstagram%26utm_medium%3Dbio"
     market = f"market://details?id={PACKAGE}&referrer={ref}"
     web = f"{PLAY}&referrer={ref}"
-    intent = (f"intent://details?id={PACKAGE}&referrer={ref}#Intent;scheme=market;package=com.android.vending;"
-              f"S.browser_fallback_url={urllib.parse.quote(web, safe='')};end")
+    redirect = f"""(function(){{
+  var q=new URLSearchParams(location.search),c=function(k,d){{return (q.get(k)||d).replace(/[^\\w.-]/g,'').slice(0,40)}};
+  var src=c('s','instagram'),ref='utm_source='+src+'&utm_medium='+c('m',src==='instagram'?'bio':'post');
+  if(q.get('c'))ref+='&utm_campaign='+c('c','');
+  ref=encodeURIComponent(ref);
+  var id='{PACKAGE}',web={json.dumps(PLAY)}+'&referrer='+ref,market='market://details?id='+id+'&referrer='+ref;
+  var intent='intent://details?id='+id+'&referrer='+ref+'#Intent;scheme=market;package=com.android.vending;S.browser_fallback_url='+encodeURIComponent(web)+';end';
+  document.addEventListener('DOMContentLoaded',function(){{document.getElementById('m').href=market;document.getElementById('w').href=web}});
+  location.replace(/android/i.test(navigator.userAgent)?intent:web);
+}})()"""
     write("get/index.html", f"""<!doctype html>
 <html lang="uz">
 <head>
@@ -680,15 +690,15 @@ def extras():
 <link rel="icon" href="/assets/icon.svg" type="image/svg+xml">
 <link rel="stylesheet" href="/assets/style.css">
 {THEME_INIT}
-<script>location.replace(/android/i.test(navigator.userAgent)?{json.dumps(intent)}:{json.dumps(web)})</script>
+<script>{redirect}</script>
 </head>
 <body>
 <main class="wrap final" style="min-height:80vh;display:grid;place-content:center;padding:48px 20px">
   <img class="icon-big" src="/assets/icon.svg" alt="" width="88" height="88">
   <h1 style="font-size:clamp(28px,5vw,44px);letter-spacing:-.03em;margin:0 0 10px">Dotday</h1>
   <p>Google Play ochilmasa, tugmani bosing. · Если Google Play не открылся, нажмите кнопку.</p>
-  <p><a class="btn btn-primary" href="{e(market)}">Google Play →</a></p>
-  <p><a href="{e(web)}">play.google.com</a></p>
+  <p><a id="m" class="btn btn-primary" href="{e(market)}">Google Play →</a></p>
+  <p><a id="w" href="{e(web)}">play.google.com</a></p>
 </main>
 </body>
 </html>

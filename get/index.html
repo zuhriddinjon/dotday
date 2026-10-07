@@ -9,15 +9,24 @@
 <link rel="icon" href="/assets/icon.svg" type="image/svg+xml">
 <link rel="stylesheet" href="/assets/style.css">
 <script>(function(){var d=document.documentElement;d.classList.add('js');try{var t=localStorage.getItem('theme');if(t)d.setAttribute('data-theme',t)}catch(e){}})()</script>
-<script>location.replace(/android/i.test(navigator.userAgent)?"intent://details?id=uz.habitly.tracker&referrer=utm_source%3Dinstagram%26utm_medium%3Dbio#Intent;scheme=market;package=com.android.vending;S.browser_fallback_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Duz.habitly.tracker%26referrer%3Dutm_source%253Dinstagram%2526utm_medium%253Dbio;end":"https://play.google.com/store/apps/details?id=uz.habitly.tracker&referrer=utm_source%3Dinstagram%26utm_medium%3Dbio")</script>
+<script>(function(){
+  var q=new URLSearchParams(location.search),c=function(k,d){return (q.get(k)||d).replace(/[^\w.-]/g,'').slice(0,40)};
+  var src=c('s','instagram'),ref='utm_source='+src+'&utm_medium='+c('m',src==='instagram'?'bio':'post');
+  if(q.get('c'))ref+='&utm_campaign='+c('c','');
+  ref=encodeURIComponent(ref);
+  var id='uz.habitly.tracker',web="https://play.google.com/store/apps/details?id=uz.habitly.tracker"+'&referrer='+ref,market='market://details?id='+id+'&referrer='+ref;
+  var intent='intent://details?id='+id+'&referrer='+ref+'#Intent;scheme=market;package=com.android.vending;S.browser_fallback_url='+encodeURIComponent(web)+';end';
+  document.addEventListener('DOMContentLoaded',function(){document.getElementById('m').href=market;document.getElementById('w').href=web});
+  location.replace(/android/i.test(navigator.userAgent)?intent:web);
+})()</script>
 </head>
 <body>
 <main class="wrap final" style="min-height:80vh;display:grid;place-content:center;padding:48px 20px">
   <img class="icon-big" src="/assets/icon.svg" alt="" width="88" height="88">
   <h1 style="font-size:clamp(28px,5vw,44px);letter-spacing:-.03em;margin:0 0 10px">Dotday</h1>
   <p>Google Play ochilmasa, tugmani bosing. · Если Google Play не открылся, нажмите кнопку.</p>
-  <p><a class="btn btn-primary" href="market://details?id=uz.habitly.tracker&amp;referrer=utm_source%3Dinstagram%26utm_medium%3Dbio">Google Play →</a></p>
-  <p><a href="https://play.google.com/store/apps/details?id=uz.habitly.tracker&amp;referrer=utm_source%3Dinstagram%26utm_medium%3Dbio">play.google.com</a></p>
+  <p><a id="m" class="btn btn-primary" href="market://details?id=uz.habitly.tracker&amp;referrer=utm_source%3Dinstagram%26utm_medium%3Dbio">Google Play →</a></p>
+  <p><a id="w" href="https://play.google.com/store/apps/details?id=uz.habitly.tracker&amp;referrer=utm_source%3Dinstagram%26utm_medium%3Dbio">play.google.com</a></p>
 </main>
 </body>
 </html>
