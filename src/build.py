@@ -4,7 +4,7 @@
     python3 src/build.py
 
 Natija repo ildiziga yoziladi (GitHub Pages `main` / root dan xizmat qiladi).
-Barcha ichki havolalar nisbiy — sayt ham dotday.uz, ham github.io/dotday ostida ishlaydi.
+Barcha ichki havolalar nisbiy — eski github.io/dotday havolalari ham dotday.uz ga 301 bilan o'tadi.
 """
 import datetime
 import html
@@ -17,7 +17,7 @@ SRC = Path(__file__).resolve().parent
 OUT = SRC.parent
 SITE = "https://dotday.uz"
 PACKAGE = "uz.habitly.tracker"
-EMAIL = "zuhriddinjonrayimjonov@gmail.com"
+EMAIL = "support@dotday.uz"
 INSTAGRAM = "https://www.instagram.com/dotday.app/"
 PLAY = f"https://play.google.com/store/apps/details?id={PACKAGE}"
 TODAY = datetime.date.today().isoformat()
